@@ -405,8 +405,6 @@ canvas.addEventListener("click", event => {
         info.html(`
             <strong>${escapeHtml(selectedPoint.id)}</strong>
             — ${escapeHtml(selectedPoint.name)}
-            <br>
-            <small>x=${selectedPoint.x}, y=${selectedPoint.y}</small>
         `);
 
     } else {
