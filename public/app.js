@@ -1,14 +1,14 @@
 const SCALE = 3;
 
-const PLOT_SIZE = 256 * SCALE; // 768
+const PLOT_SIZE = 256 * SCALE;
 
 const LEFT = 40;
-const TOP = 10;
+const TOP = 30;
 const RIGHT = 10;
 const BOTTOM = 40;
 
 const WIDTH = LEFT + PLOT_SIZE + RIGHT;   // 818
-const HEIGHT = TOP + PLOT_SIZE + BOTTOM;  // 818
+const HEIGHT = TOP + PLOT_SIZE + BOTTOM;  // 838
 
 const canvas = document.getElementById("chart");
 const ctx = canvas.getContext("2d");
@@ -83,14 +83,12 @@ fetch("vendors.json")
 // ------------------------------------------------------------
 
 function draw() {
-
     ctx.clearRect(0, 0, WIDTH, HEIGHT);
 
-    drawAxes();
     drawQuadtree();
     drawPoints();
+    drawAxes();
 }
-
 
 // ------------------------------------------------------------
 // Draw points
@@ -208,12 +206,12 @@ function drawQuadtree() {
 // ------------------------------------------------------------
 // Hexadecimal axes
 // ------------------------------------------------------------
+
 function toHex(value) {
     return Math.round(value)
         .toString(16)
         .padStart(2, "0");
 }
-
 
 function drawAxes() {
 
@@ -225,11 +223,11 @@ function drawAxes() {
     ctx.font = "12px monospace";
 
     const axisX = LEFT;
-    const axisY = TOP + PLOT_SIZE;
+    const axisY = TOP;
 
 
     // --------------------------------------------------------
-    // X axis
+    // X axis — TOP
     // --------------------------------------------------------
 
     ctx.beginPath();
@@ -239,12 +237,12 @@ function drawAxes() {
 
 
     // --------------------------------------------------------
-    // Y axis
+    // Y axis — LEFT
     // --------------------------------------------------------
 
     ctx.beginPath();
     ctx.moveTo(axisX, TOP);
-    ctx.lineTo(axisX, axisY);
+    ctx.lineTo(axisX, TOP + PLOT_SIZE);
     ctx.stroke();
 
 
@@ -260,16 +258,16 @@ function drawAxes() {
         // X tick
         ctx.beginPath();
         ctx.moveTo(x, axisY);
-        ctx.lineTo(x, axisY + 5);
+        ctx.lineTo(x, axisY - 5);
         ctx.stroke();
 
         ctx.textAlign = "center";
-        ctx.textBaseline = "top";
+        ctx.textBaseline = "bottom";
 
         ctx.fillText(
             toHex(value),
             x,
-            axisY + 8
+            axisY - 8
         );
 
 
@@ -296,12 +294,12 @@ function drawAxes() {
 
     // X
     ctx.textAlign = "center";
-    ctx.textBaseline = "top";
+    ctx.textBaseline = "bottom";
 
     ctx.fillText(
         "ff",
         sx(255),
-        axisY + 8
+        axisY - 8
     );
 
 
@@ -317,7 +315,6 @@ function drawAxes() {
 
     ctx.restore();
 }
-
 
 // ------------------------------------------------------------
 // Mouse position
