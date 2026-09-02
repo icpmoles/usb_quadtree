@@ -20,10 +20,10 @@
             You can split it in two parts: <samp>0x0A</samp> and <samp>0x6B</samp>
             <br>
             The Most Significant Bytes <dfn><abbr title="Most Significant Bytes">(MSB)</abbr></dfn> = <samp>0x0A</samp>
-            will be the X axis,
+            will be the Y axis,
             while the Least Significant Bytes <dfn><abbr title="Least Significant Bytes">(LSB)</abbr></dfn> =
-            <samp>0x6B</samp> will be the Y
-            axis.
+            <samp>0x6B</samp> will be the X axis.
+            This rougly matches the standard layout of <a href="https://en.wikipedia.org/wiki/Multiplication_table#Modern_times">multiplication tables</a>.
             <br>
             Keep in mind that X goes to the left while Y points down.
             (Convention used in computer graphics and
@@ -41,7 +41,7 @@
             <li>
                 A lot of <dfn><abbr title="Vendor ID">VID</abbr></dfn>s have low <dfn><abbr
                         title="Most Significant Bytes">MSB</abbr></dfn>, but at the same time they
-                prefer not to go too low. (◧)
+                prefer not to go too low. (⬒)
             </li>
             <li>
                 The <dfn><abbr title="Least Significant Bytes">LSB</abbr></dfn> seem more uniformly distributed.
@@ -61,7 +61,7 @@
         <h2>Credits</h2>
         <ul>
             <li>
-                Data: <a href="http://www.linux-usb.org/usb.ids">Linux USB Project</a>
+                Data: <a href="http://www.linux-usb.org/">Linux USB Project</a>
             </li>
             <li>
                 Visualization: <a href="https://d3js.org/">D3.js</a>

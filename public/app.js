@@ -51,8 +51,8 @@ function idToPoint(id, name) {
         id,
         name,
 
-        x: parseInt(id.substring(0, 2), 16),
-        y: parseInt(id.substring(2, 4), 16)
+        x: parseInt(id.substring(2, 4), 16),
+        y: parseInt(id.substring(0, 2), 16)
     };
 }
 
