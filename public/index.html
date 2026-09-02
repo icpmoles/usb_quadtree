@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>USB VID Quadtree</title>
+    <script src="d3.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <main>
+        <h1>Quadtree visualization of USB Vendor IDS</h1>
+        <h2>How to read:</h2>
+        <p>
+            Assume to have your USB Vendor ID <dfn><abbr title="Vendor ID">VID</abbr></dfn>
+            in hexadecimal: <samp>0x0A4B</samp>.
+            <br>
+            You can split it in two parts: <samp>0x0A</samp> and <samp>0x4B</samp>
+            <br>
+            The Most Significant Bytes <dfn><abbr title="Most Significant Bytes">(MSB)</abbr></dfn> = <samp>0x0A</samp>
+            will be the X axis,
+            while the Least Significant Bytes <dfn><abbr title="Least Significant Bytes">(LSB)</abbr></dfn> =
+            <samp>0x4B</samp> will be the Y
+            axis.
+            <br>
+            Keep in mind that X goes to the left while Y points down.
+            (Convention used in computer graphics and
+            <a href="https://matplotlib.org/stable/gallery/images_contours_and_fields/spy_demos.html">MatPlotLib</a>)
+
+        </p>
+        <div id="info">
+            Hover over a point
+        </div>
+        <canvas id="chart" width="818" height="818"></canvas>
+
+
+        <h2>Observations</h2>
+        <ul>
+            <li>
+                A lot of <dfn><abbr title="Vendor ID">VID</abbr></dfn>s have low <dfn><abbr
+                        title="Most Significant Bytes">MSB</abbr></dfn>, but at the same time they
+                prefer not to go too low. (◧)
+            </li>
+            <li>
+                The <dfn><abbr title="Least Significant Bytes">LSB</abbr></dfn> seem more uniformly distributed.
+            </li>
+            <li>
+                There is a subtle diagonal (⟍) with <dfn><abbr title="Most Significant Bytes">MSB</abbr></dfn> ≈
+                <dfn><abbr title="Least Significant Bytes">LSB</abbr></dfn> if you really squint.
+            </li>
+            <li>
+                There is also a subtle upper-left triangle (◤), which may indicate that <dfn><abbr
+                        title="Most Significant Bytes">MSB</abbr></dfn> +
+                <dfn><abbr title="Least Significant Bytes">LSB</abbr></dfn> = Constant.
+                <br>
+                <small>(But maybe I'm just reading too much into it)</small>
+            </li>
+        </ul>
+
+        <script src="app.js"></script>
+    </main>
+</body>
+
+</html>

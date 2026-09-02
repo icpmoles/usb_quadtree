@@ -1,0 +1,13 @@
+start: vendor+
+
+vendor: ID NAME child*
+
+child: "\t" ID NAME
+
+ID: /[0-9a-fA-F]+/
+NAME: /[^\t\r\n]+/
+TAB: "\t"
+
+%import common.NEWLINE
+%ignore /#[^\r\n]*/
+%ignore NEWLINE

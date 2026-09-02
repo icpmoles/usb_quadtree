@@ -1,0 +1,42 @@
+#chart {
+    /* width:100%; */
+    aspect-ratio: 1 / 1;
+    max-height: 90vh;
+}
+
+
+.point {
+    fill: #4dabf7;
+    stroke: white;
+    stroke-width: 0.5;
+}
+
+.point:hover {
+    fill: #ff6b6b;
+    stroke: white;
+    stroke-width: 2;
+}
+
+.point.selected {
+    fill: #ff6b6b;
+    stroke: white;
+    stroke-width: 2;
+}
+
+main {
+    padding: 0 1rem;
+}
+
+
+abbr {
+    font-style: italic;
+    
+}
+
+/* dfn abbr::after {
+    content: ")";
+}
+
+dfn abbr::before {
+    content: "(";
+} */
