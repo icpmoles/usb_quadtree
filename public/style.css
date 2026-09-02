@@ -1,42 +1,38 @@
+:root {
+    color-scheme: light dark;
+}
+
+body {
+    color: light-dark(#202222, #f1f1ee);
+    background-color: light-dark(#efedea, #223a2c);
+}
+
 #chart {
-    /* width:100%; */
     aspect-ratio: 1 / 1;
     max-height: 90vh;
+    max-width: 95vw;
+}
+
+#info {
+    /* avoid jumps on narrow devices when hovering on long names */
+    min-height: 3em;
 }
 
 
-.point {
-    fill: #4dabf7;
-    stroke: white;
-    stroke-width: 0.5;
+main , footer{
+    /* padding: 0 1rem; */
+    margin: 0 auto;
+    max-width: 1024px;
 }
 
-.point:hover {
-    fill: #ff6b6b;
-    stroke: white;
-    stroke-width: 2;
-}
-
-.point.selected {
-    fill: #ff6b6b;
-    stroke: white;
-    stroke-width: 2;
-}
-
-main {
-    padding: 0 1rem;
+footer {
+    text-align: center;
 }
 
 
 abbr {
     font-style: italic;
-    
+
 }
 
-/* dfn abbr::after {
-    content: ")";
-}
 
-dfn abbr::before {
-    content: "(";
-} */

@@ -15,14 +15,14 @@
         <h2>How to read:</h2>
         <p>
             Assume to have your USB Vendor ID <dfn><abbr title="Vendor ID">VID</abbr></dfn>
-            in hexadecimal: <samp>0x0A4B</samp>.
+            in hexadecimal: <samp>0x0A6B</samp>.
             <br>
-            You can split it in two parts: <samp>0x0A</samp> and <samp>0x4B</samp>
+            You can split it in two parts: <samp>0x0A</samp> and <samp>0x6B</samp>
             <br>
             The Most Significant Bytes <dfn><abbr title="Most Significant Bytes">(MSB)</abbr></dfn> = <samp>0x0A</samp>
             will be the X axis,
             while the Least Significant Bytes <dfn><abbr title="Least Significant Bytes">(LSB)</abbr></dfn> =
-            <samp>0x4B</samp> will be the Y
+            <samp>0x6B</samp> will be the Y
             axis.
             <br>
             Keep in mind that X goes to the left while Y points down.
@@ -47,7 +47,7 @@
                 The <dfn><abbr title="Least Significant Bytes">LSB</abbr></dfn> seem more uniformly distributed.
             </li>
             <li>
-                There is a subtle diagonal (⟍) with <dfn><abbr title="Most Significant Bytes">MSB</abbr></dfn> ≈
+                There is a subtle diagonal (⇱) with <dfn><abbr title="Most Significant Bytes">MSB</abbr></dfn> ≈
                 <dfn><abbr title="Least Significant Bytes">LSB</abbr></dfn> if you really squint.
             </li>
             <li>
@@ -58,9 +58,24 @@
                 <small>(But maybe I'm just reading too much into it)</small>
             </li>
         </ul>
+        <h2>Credits</h2>
+        <ul>
+            <li>
+                Data: <a href="http://www.linux-usb.org/usb.ids">Linux USB Project</a>
+            </li>
+            <li>
+                Visualization: <a href="https://d3js.org/">D3.js</a>
+            </li>
+        </ul>
 
         <script src="app.js"></script>
     </main>
+    <footer>
+        <hr>
+        Made by <a href="https://icpmol.es">Iacopo Moles</a>.
+        <br>
+        Explore the <a href="https://github.com/icpmoles/usb_quadtree">source code</a>.
+    </footer>
 </body>
 
 </html>
