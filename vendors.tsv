@@ -1,0 +1,3428 @@
+vendor	vid	msb_hex	lsb_hex	msb_dec	lsb_dec
+'Fry''s Electronics'	0001	00	01	0	1
+Ingram	0002	00	02	0	2
+Club Mac	0003	00	03	0	3
+Nebraska Furniture Mart	0004	00	04	0	4
+Unknown	0011	00	11	0	17
+Walmart	001f	00	1f	0	31
+Anyware Corporation	0040	00	40	0	64
+DMT	0042	00	42	0	66
+Planex	0053	00	53	0	83
+Microntek	0078	00	78	0	120
+DragonRise Inc.	0079	00	79	0	121
+Unknown	0080	00	80	0	128
+Boeye Technology Co., Ltd.	0085	00	85	0	133
+miniSTREAK	0102	01	02	1	2
+Trust International B.V.	0105	01	05	1	5
+IBP	0127	01	27	1	39
+Unknown	0145	01	45	1	69
+MLK	017c	01	7c	1	124
+mek	019c	01	9c	1	156
+TP-Link	0200	02	00	2	0
+Chipsbank Microelectronics Co., Ltd	0204	02	04	2	4
+Hangzhou Worlde	0218	02	18	2	24
+Sonuus Limited	0231	02	31	2	49
+HUMAX Co., Ltd.	02ad	02	ad	2	173
+Ajazz	0300	03	00	3	0
+Mini Automation Controller	0303	03	03	3	3
+OCZ Technology Inc	0324	03	24	3	36
+OCZ Technology Inc	0325	03	25	3	37
+LTS	0386	03	86	3	134
+ZWO	03c3	03	c3	3	195
+Shenzhen Sinote Tech-Electron Co., Ltd	03d9	03	d9	3	217
+Bernd Walter Computer Technology	03da	03	da	3	218
+Intel	03e7	03	e7	3	231
+EndPoints, Inc.	03e8	03	e8	3	232
+Melexis (formerly Thesys Microelectronics)	03e9	03	e9	3	233
+Data Broadcasting Corp.	03ea	03	ea	3	234
+Atmel Corp.	03eb	03	eb	3	235
+Iwatsu America, Inc.	03ec	03	ec	3	236
+Mitel Corp.	03ed	03	ed	3	237
+Mitsumi	03ee	03	ee	3	238
+HP, Inc	03f0	03	f0	3	240
+Genoa Technology	03f1	03	f1	3	241
+Oak Technology, Inc.	03f2	03	f2	3	242
+Adaptec, Inc.	03f3	03	f3	3	243
+Diebold, Inc.	03f4	03	f4	3	244
+Siemens Electromechanical	03f5	03	f5	3	245
+Epson Imaging Technology Center	03f8	03	f8	3	248
+KeyTronic Corp.	03f9	03	f9	3	249
+OPTi, Inc.	03fb	03	fb	3	251
+Elitegroup Computer Systems	03fc	03	fc	3	252
+Xilinx, Inc.	03fd	03	fd	3	253
+Farallon Comunications	03fe	03	fe	3	254
+National Semiconductor Corp.	0400	04	00	4	0
+National Registry, Inc.	0401	04	01	4	1
+ALi Corp.	0402	04	02	4	2
+Future Technology Devices International, Ltd	0403	04	03	4	3
+NCR Corp.	0404	04	04	4	4
+Synopsys, Inc.	0405	04	05	4	5
+Fujitsu-ICL Computers	0406	04	06	4	6
+Fujitsu Personal Systems, Inc.	0407	04	07	4	7
+Quanta Computer, Inc.	0408	04	08	4	8
+NEC Corp.	0409	04	09	4	9
+Kodak Co.	040a	04	0a	4	10
+Weltrend Semiconductor	040b	04	0b	4	11
+VTech Computers, Ltd	040c	04	0c	4	12
+VIA Technologies, Inc.	040d	04	0d	4	13
+MCCI	040e	04	0e	4	14
+Echo Speech Corp.	040f	04	0f	4	15
+BUFFALO INC. (formerly MelCo., Inc.)	0411	04	11	4	17
+Award Software International	0412	04	12	4	18
+Leadtek Research, Inc.	0413	04	13	4	19
+Giga-Byte Technology Co., Ltd	0414	04	14	4	20
+Winbond Electronics Corp.	0416	04	16	4	22
+Symbios Logic	0417	04	17	4	23
+AST Research	0418	04	18	4	24
+Samsung Info. Systems America, Inc.	0419	04	19	4	25
+Phoenix Technologies, Ltd	041a	04	1a	4	26
+'d''TV'	041b	04	1b	4	27
+S3, Inc.	041d	04	1d	4	29
+Creative Technology, Ltd	041e	04	1e	4	30
+LCS Telegraphics	041f	04	1f	4	31
+Chips and Technologies	0420	04	20	4	32
+Nokia Mobile Phones	0421	04	21	4	33
+ADI Systems, Inc.	0422	04	22	4	34
+Computer Access Technology Corp.	0423	04	23	4	35
+Microchip Technology, Inc. (formerly SMSC)	0424	04	24	4	36
+Motorola Semiconductors HK, Ltd	0425	04	25	4	37
+Integrated Device Technology, Inc.	0426	04	26	4	38
+Motorola Electronics Taiwan, Ltd	0427	04	27	4	39
+Advanced Gravis Computer Tech, Ltd	0428	04	28	4	40
+Cirrus Logic	0429	04	29	4	41
+Ericsson Austrian, AG	042a	04	2a	4	42
+Intel Corp.	042b	04	2b	4	43
+Innovative Semiconductors, Inc.	042c	04	2c	4	44
+Micronics	042d	04	2d	4	45
+Acer, Inc.	042e	04	2e	4	46
+Molex, Inc.	042f	04	2f	4	47
+Fujitsu Component Limited	0430	04	30	4	48
+Itac Systems, Inc.	0431	04	31	4	49
+Unisys Corp.	0432	04	32	4	50
+Alps Electric, Inc.	0433	04	33	4	51
+Samsung Info. Systems America, Inc.	0434	04	34	4	52
+Hyundai Electronics America	0435	04	35	4	53
+Taugagreining HF	0436	04	36	4	54
+Framatome Connectors USA	0437	04	37	4	55
+Advanced Micro Devices, Inc.	0438	04	38	4	56
+Voice Technologies Group	0439	04	39	4	57
+Lexmark International, Inc.	043d	04	3d	4	61
+LG Electronics USA, Inc.	043e	04	3e	4	62
+RadiSys Corp.	043f	04	3f	4	63
+Eizo Nanao Corp.	0440	04	40	4	64
+Winbond Systems Lab.	0441	04	41	4	65
+Ericsson, Inc.	0442	04	42	4	66
+Gateway, Inc.	0443	04	43	4	67
+Lucent Technologies, Inc.	0445	04	45	4	69
+NMB Technologies Corp.	0446	04	46	4	70
+Momentum Microsystems	0447	04	47	4	71
+Duta Multi Robotik	0449	04	49	4	73
+Shamrock Tech. Co., Ltd	044a	04	4a	4	74
+WSI	044b	04	4b	4	75
+CCL/ITRI	044c	04	4c	4	76
+Siemens Nixdorf AG	044d	04	4d	4	77
+Alps Electric Co., Ltd	044e	04	4e	4	78
+ThrustMaster, Inc.	044f	04	4f	4	79
+DFI, Inc.	0450	04	50	4	80
+Texas Instruments, Inc.	0451	04	51	4	81
+Mitsubishi Electronics America, Inc.	0452	04	52	4	82
+CMD Technology	0453	04	53	4	83
+Vobis Microcomputer AG	0454	04	54	4	84
+Telematics International, Inc.	0455	04	55	4	85
+Analog Devices, Inc.	0456	04	56	4	86
+Silicon Integrated Systems Corp.	0457	04	57	4	87
+KYE Systems Corp. (Mouse Systems)	0458	04	58	4	88
+Adobe Systems, Inc.	0459	04	59	4	89
+SONICblue, Inc.	045a	04	5a	4	90
+Hitachi, Ltd	045b	04	5b	4	91
+Nortel Networks, Ltd	045d	04	5d	4	93
+Microsoft Corp.	045e	04	5e	4	94
+Ace Cad Enterprise Co., Ltd	0460	04	60	4	96
+Primax Electronics, Ltd	0461	04	61	4	97
+MGE UPS Systems	0463	04	63	4	99
+AMP/Tycoelectronics Corp.	0464	04	64	4	100
+AT&T Paradyne	0467	04	67	4	103
+Wieson Technologies Co., Ltd	0468	04	68	4	104
+CHERRY	046a	04	6a	4	106
+American Megatrends, Inc.	046b	04	6b	4	107
+Toshiba Corp., Digital Media Equipment	046c	04	6c	4	108
+Logitech, Inc.	046d	04	6d	4	109
+Behavior Tech. Computer Corp.	046e	04	6e	4	110
+Crystal Semiconductor	046f	04	6f	4	111
+Philips (or NXP)	0471	04	71	4	113
+Chicony Electronics Co., Ltd	0472	04	72	4	114
+Sanyo Information Business Co., Ltd	0473	04	73	4	115
+Sanyo Electric Co., Ltd	0474	04	74	4	116
+Relisys/Teco Information System	0475	04	75	4	117
+AESP	0476	04	76	4	118
+Seagate Technology, Inc.	0477	04	77	4	119
+Connectix Corp.	0478	04	78	4	120
+Advanced Peripheral Laboratories	0479	04	79	4	121
+Semtech Corp.	047a	04	7a	4	122
+Silitek Corp.	047b	04	7b	4	123
+Dell Computer Corp.	047c	04	7c	4	124
+Kensington	047d	04	7d	4	125
+Agere Systems, Inc. (Lucent)	047e	04	7e	4	126
+Plantronics, Inc.	047f	04	7f	4	127
+Toshiba America Inc	0480	04	80	4	128
+Zenith Data Systems	0481	04	81	4	129
+Kyocera Corp.	0482	04	82	4	130
+STMicroelectronics	0483	04	83	4	131
+Specialix	0484	04	84	4	132
+Nokia Monitors	0485	04	85	4	133
+ASUS Computers, Inc.	0486	04	86	4	134
+Stewart Connector	0487	04	87	4	135
+Cirque Corp.	0488	04	88	4	136
+Foxconn / Hon Hai	0489	04	89	4	137
+S-MOS Systems, Inc.	048a	04	8a	4	138
+Alps Electric Ireland, Ltd	048c	04	8c	4	140
+Integrated Technology Express, Inc.	048d	04	8d	4	141
+Eicon Tech.	048f	04	8f	4	143
+United Microelectronics Corp.	0490	04	90	4	144
+Capetronic	0491	04	91	4	145
+Samsung SemiConductor, Inc.	0492	04	92	4	146
+MAG Technology Co., Ltd	0493	04	93	4	147
+ESS Technology, Inc.	0495	04	95	4	149
+Micron Electronics	0496	04	96	4	150
+Smile International	0497	04	97	4	151
+Capetronic (Kaohsiung) Corp.	0498	04	98	4	152
+Yamaha Corp.	0499	04	99	4	153
+Gandalf Technologies, Ltd	049a	04	9a	4	154
+Curtis Computer Products	049b	04	9b	4	155
+Acer Advanced Labs, Inc.	049c	04	9c	4	156
+VLSI Technology	049d	04	9d	4	157
+Compaq Computer Corp.	049f	04	9f	4	159
+Digital Equipment Corp.	04a0	04	a0	4	160
+SystemSoft Corp.	04a1	04	a1	4	161
+FirePower Systems	04a2	04	a2	4	162
+Trident Microsystems, Inc.	04a3	04	a3	4	163
+Hitachi, Ltd	04a4	04	a4	4	164
+Acer Peripherals Inc. (now BenQ Corp.)	04a5	04	a5	4	165
+Nokia Display Products	04a6	04	a6	4	166
+Visioneer	04a7	04	a7	4	167
+Multivideo Labs, Inc.	04a8	04	a8	4	168
+Canon, Inc.	04a9	04	a9	4	169
+DaeWoo Telecom, Ltd	04aa	04	aa	4	170
+Chromatic Research	04ab	04	ab	4	171
+Micro Audiometrics Corp.	04ac	04	ac	4	172
+Dooin Electronics	04ad	04	ad	4	173
+Winnov L.P.	04af	04	af	4	175
+Nikon Corp.	04b0	04	b0	4	176
+Pan International	04b1	04	b1	4	177
+IBM Corp.	04b3	04	b3	4	179
+Cypress Semiconductor Corp.	04b4	04	b4	4	180
+ROHM LSI Systems USA, LLC	04b5	04	b5	4	181
+Hint Corp.	04b6	04	b6	4	182
+Compal Electronics, Inc.	04b7	04	b7	4	183
+Seiko Epson Corp.	04b8	04	b8	4	184
+Rainbow Technologies, Inc.	04b9	04	b9	4	185
+Toucan Systems, Ltd	04ba	04	ba	4	186
+I-O Data Device, Inc.	04bb	04	bb	4	187
+Toshiba Electronics Taiwan Corp.	04bd	04	bd	4	189
+Telia Research AB	04be	04	be	4	190
+TDK Corp.	04bf	04	bf	4	191
+U.S. Robotics (3Com)	04c1	04	c1	4	193
+Methode Electronics Far East PTE, Ltd	04c2	04	c2	4	194
+Maxi Switch, Inc.	04c3	04	c3	4	195
+Lockheed Martin Energy Research	04c4	04	c4	4	196
+Fujitsu, Ltd	04c5	04	c5	4	197
+Toshiba America Electronic Components	04c6	04	c6	4	198
+Micro Macro Technologies	04c7	04	c7	4	199
+Konica Corp.	04c8	04	c8	4	200
+Lite-On Technology Corp.	04ca	04	ca	4	202
+Fuji Photo Film Co., Ltd	04cb	04	cb	4	203
+ST-Ericsson	04cc	04	cc	4	204
+Tatung Co. Of America	04cd	04	cd	4	205
+ScanLogic Corp.	04ce	04	ce	4	206
+Myson Century, Inc.	04cf	04	cf	4	207
+Digi International	04d0	04	d0	4	208
+ITT Canon	04d1	04	d1	4	209
+Altec Lansing Technologies	04d2	04	d2	4	210
+VidUS, Inc.	04d3	04	d3	4	211
+LSI Logic, Inc.	04d4	04	d4	4	212
+Forte Technologies, Inc.	04d5	04	d5	4	213
+Mentor Graphics	04d6	04	d6	4	214
+Oki Semiconductor	04d7	04	d7	4	215
+Microchip Technology, Inc.	04d8	04	d8	4	216
+Holtek Semiconductor, Inc.	04d9	04	d9	4	217
+Panasonic (Matsushita)	04da	04	da	4	218
+Hypertec Pty, Ltd	04db	04	db	4	219
+Huan Hsin Holdings, Ltd	04dc	04	dc	4	220
+Sharp Corp.	04dd	04	dd	4	221
+MindShare, Inc.	04de	04	de	4	222
+Interlink Electronics	04df	04	df	4	223
+Iiyama North America, Inc.	04e1	04	e1	4	225
+Exar Corp.	04e2	04	e2	4	226
+Zilog, Inc.	04e3	04	e3	4	227
+ACC Microelectronics	04e4	04	e4	4	228
+Promise Technology	04e5	04	e5	4	229
+SCM Microsystems, Inc.	04e6	04	e6	4	230
+Elo TouchSystems	04e7	04	e7	4	231
+Samsung Electronics Co., Ltd	04e8	04	e8	4	232
+PC-Tel, Inc.	04e9	04	e9	4	233
+Brooktree Corp.	04ea	04	ea	4	234
+Northstar Systems, Inc.	04eb	04	eb	4	235
+Tokyo Electron Device, Ltd	04ec	04	ec	4	236
+Annabooks	04ed	04	ed	4	237
+Pacific Electronic International, Inc.	04ef	04	ef	4	239
+Daewoo Electronics Co., Ltd	04f0	04	f0	4	240
+Victor Company of Japan, Ltd	04f1	04	f1	4	241
+Chicony Electronics Co., Ltd	04f2	04	f2	4	242
+Elan Microelectronics Corp.	04f3	04	f3	4	243
+Harting Elektronik, Inc.	04f4	04	f4	4	244
+Fujitsu-ICL Systems, Inc.	04f5	04	f5	4	245
+Norand Corp.	04f6	04	f6	4	246
+Newnex Technology Corp.	04f7	04	f7	4	247
+FuturePlus Systems	04f8	04	f8	4	248
+Brother Industries, Ltd	04f9	04	f9	4	249
+Dallas Semiconductor	04fa	04	fa	4	250
+Biostar Microtech International Corp.	04fb	04	fb	4	251
+Sunplus Technology Co., Ltd	04fc	04	fc	4	252
+Soliton Systems, K.K.	04fd	04	fd	4	253
+PFU, Ltd	04fe	04	fe	4	254
+E-CMOS Corp.	04ff	04	ff	4	255
+Siam United Hi-Tech	0500	05	00	5	0
+Fujikura DDK, Ltd	0501	05	01	5	1
+Acer, Inc.	0502	05	02	5	2
+Hitachi America, Ltd	0503	05	03	5	3
+Hayes Microcomputer Products	0504	05	04	5	4
+3Com Corp.	0506	05	06	5	6
+Hosiden Corp.	0507	05	07	5	7
+Clarion Co., Ltd	0508	05	08	5	8
+Aztech Systems, Ltd	0509	05	09	5	9
+Cinch Connectors	050a	05	0a	5	10
+Cable System International	050b	05	0b	5	11
+InnoMedia, Inc.	050c	05	0c	5	12
+Belkin Components	050d	05	0d	5	13
+Neon Technology, Inc.	050e	05	0e	5	14
+KC Technology, Inc.	050f	05	0f	5	15
+Sejin Electron, Inc.	0510	05	10	5	16
+'N''Able (DataBook) Technologies, Inc.'	0511	05	11	5	17
+Hualon Microelectronics Corp.	0512	05	12	5	18
+digital-X, Inc.	0513	05	13	5	19
+FCI Electronics	0514	05	14	5	20
+ACTC	0515	05	15	5	21
+Longwell Electronics	0516	05	16	5	22
+Butterfly Communications	0517	05	17	5	23
+EzKEY Corp.	0518	05	18	5	24
+Star Micronics Co., Ltd	0519	05	19	5	25
+WYSE Technology	051a	05	1a	5	26
+Silicon Graphics	051b	05	1b	5	27
+Shuttle, Inc.	051c	05	1c	5	28
+American Power Conversion	051d	05	1d	5	29
+Scientific Atlanta, Inc.	051e	05	1e	5	30
+IO Systems (Elite Electronics), Inc.	051f	05	1f	5	31
+Taiwan Semiconductor Manufacturing Co.	0520	05	20	5	32
+Airborn Connectors	0521	05	21	5	33
+Advanced Connectek, Inc.	0522	05	22	5	34
+ATEN GmbH	0523	05	23	5	35
+Sola Electronics	0524	05	24	5	36
+Netchip Technology, Inc.	0525	05	25	5	37
+Temic MHS S.A.	0526	05	26	5	38
+ALTRA	0527	05	27	5	39
+ATI Technologies, Inc.	0528	05	28	5	40
+Aladdin Knowledge Systems	0529	05	29	5	41
+Crescent Heart Software	052a	05	2a	5	42
+Tekom Technologies, Inc.	052b	05	2b	5	43
+Canon Information Systems, Inc.	052c	05	2c	5	44
+Avid Electronics Corp.	052d	05	2d	5	45
+Standard Microsystems Corp.	052e	05	2e	5	46
+Unicore Software, Inc.	052f	05	2f	5	47
+American Microsystems, Inc.	0530	05	30	5	48
+Wacom Technology Corp.	0531	05	31	5	49
+Systech Corp.	0532	05	32	5	50
+Alcatel Mobile Phones	0533	05	33	5	51
+Motorola, Inc.	0534	05	34	5	52
+LIH TZU Electric Co., Ltd	0535	05	35	5	53
+Hand Held Products (Welch Allyn, Inc.)	0536	05	36	5	54
+Inventec Corp.	0537	05	37	5	55
+Caldera International, Inc. (SCO)	0538	05	38	5	56
+Shyh Shiun Terminals Co., Ltd	0539	05	39	5	57
+PrehKeyTec GmbH	053a	05	3a	5	58
+Global Village Communication	053b	05	3b	5	59
+Institut of Microelectronic & Mechatronic Systems	053c	05	3c	5	60
+Silicon Architect	053d	05	3d	5	61
+Mobility Electronics	053e	05	3e	5	62
+Synopsys, Inc.	053f	05	3f	5	63
+UniAccess AB	0540	05	40	5	64
+Sirf Technology, Inc.	0541	05	41	5	65
+ViewSonic Corp.	0543	05	43	5	67
+Cristie Electronics, Ltd	0544	05	44	5	68
+Xirlink, Inc.	0545	05	45	5	69
+Polaroid Corp.	0546	05	46	5	70
+Anchor Chips, Inc.	0547	05	47	5	71
+Tyan Computer Corp.	0548	05	48	5	72
+Pixera Corp.	0549	05	49	5	73
+Fujitsu Microelectronics, Inc.	054a	05	4a	5	74
+New Media Corp.	054b	05	4b	5	75
+Sony Corp.	054c	05	4c	5	76
+Try Corp.	054d	05	4d	5	77
+Proside Corp.	054e	05	4e	5	78
+WYSE Technology Taiwan	054f	05	4f	5	79
+Fuji Xerox Co., Ltd	0550	05	50	5	80
+CompuTrend Systems, Inc.	0551	05	51	5	81
+Philips Monitors	0552	05	52	5	82
+STMicroelectronics Imaging Division (VLSI Vision)	0553	05	53	5	83
+Dictaphone Corp.	0554	05	54	5	84
+ANAM S&T Co., Ltd	0555	05	55	5	85
+Asahi Kasei Microsystems Co., Ltd	0556	05	56	5	86
+ATEN International Co., Ltd	0557	05	57	5	87
+Truevision, Inc.	0558	05	58	5	88
+Cadence Design Systems, Inc.	0559	05	59	5	89
+Kenwood USA	055a	05	5a	5	90
+KnowledgeTek, Inc.	055b	05	5b	5	91
+Proton Electronic Ind.	055c	05	5c	5	92
+Samsung Electro-Mechanics Co.	055d	05	5d	5	93
+CTX Opto-Electronics Corp.	055e	05	5e	5	94
+Mustek Systems, Inc.	055f	05	5f	5	95
+Interface Corp.	0560	05	60	5	96
+Oasis Design, Inc.	0561	05	61	5	97
+Telex Communications, Inc.	0562	05	62	5	98
+Immersion Corp.	0563	05	63	5	99
+Kodak Digital Product Center, Japan Ltd. (formerly Chinon Industries Inc.)	0564	05	64	5	100
+Peracom Networks, Inc.	0565	05	65	5	101
+Monterey International Corp.	0566	05	66	5	102
+Xyratex International, Ltd	0567	05	67	5	103
+Quartz Ingenierie	0568	05	68	5	104
+SegaSoft	0569	05	69	5	105
+Wacom Co., Ltd	056a	05	6a	5	106
+Decicon, Inc.	056b	05	6b	5	107
+eTEK Labs	056c	05	6c	5	108
+EIZO Corp.	056d	05	6d	5	109
+Elecom Co., Ltd	056e	05	6e	5	110
+Korea Data Systems Co., Ltd	056f	05	6f	5	111
+Epson America	0570	05	70	5	112
+Interex, Inc.	0571	05	71	5	113
+Conexant Systems (Rockwell), Inc.	0572	05	72	5	114
+Zoran Co. Personal Media Division (Nogatech)	0573	05	73	5	115
+City University of Hong Kong	0574	05	74	5	116
+Philips Creative Display Solutions	0575	05	75	5	117
+BAFO/Quality Computer Accessories	0576	05	76	5	118
+ELSA	0577	05	77	5	119
+Intrinsix Corp.	0578	05	78	5	120
+GVC Corp.	0579	05	79	5	121
+Samsung Electronics America	057a	05	7a	5	122
+Y-E Data, Inc.	057b	05	7b	5	123
+AVM GmbH	057c	05	7c	5	124
+Shark Multimedia, Inc.	057d	05	7d	5	125
+Nintendo Co., Ltd	057e	05	7e	5	126
+QuickShot, Ltd	057f	05	7f	5	127
+Denron, Inc.	0580	05	80	5	128
+Racal Data Group	0581	05	81	5	129
+Roland Corp.	0582	05	82	5	130
+Padix Co., Ltd (Rockfire)	0583	05	83	5	131
+RATOC System, Inc.	0584	05	84	5	132
+FlashPoint Technology, Inc.	0585	05	85	5	133
+ZyXEL Communications Corp.	0586	05	86	5	134
+America Kotobuki Electronics Industries, Inc.	0587	05	87	5	135
+Sapien Design	0588	05	88	5	136
+Victron	0589	05	89	5	137
+Nohau Corp.	058a	05	8a	5	138
+Infineon Technologies	058b	05	8b	5	139
+In Focus Systems	058c	05	8c	5	140
+Micrel Semiconductor	058d	05	8d	5	141
+Tripath Technology, Inc.	058e	05	8e	5	142
+Alcor Micro Corp.	058f	05	8f	5	143
+Omron Corp.	0590	05	90	5	144
+Questra Consulting	0591	05	91	5	145
+Powerware Corp.	0592	05	92	5	146
+Incite	0593	05	93	5	147
+Princeton Graphic Systems	0594	05	94	5	148
+Zoran Microelectronics, Ltd	0595	05	95	5	149
+MicroTouch Systems, Inc.	0596	05	96	5	150
+Trisignal Communications	0597	05	97	5	151
+Niigata Canotec Co., Inc.	0598	05	98	5	152
+Brilliance Semiconductor, Inc.	0599	05	99	5	153
+Spectrum Signal Processing, Inc.	059a	05	9a	5	154
+Iomega Corp.	059b	05	9b	5	155
+A-Trend Technology Co., Ltd	059c	05	9c	5	156
+Advanced Input Devices	059d	05	9d	5	157
+Intelligent Instrumentation	059e	05	9e	5	158
+LaCie, Ltd	059f	05	9f	5	159
+Vetronix Corp.	05a0	05	a0	5	160
+USC Corp.	05a1	05	a1	5	161
+Fuji Film Microdevices Co., Ltd	05a2	05	a2	5	162
+ARC International	05a3	05	a3	5	163
+Ortek Technology, Inc.	05a4	05	a4	5	164
+Sampo Technology Corp.	05a5	05	a5	5	165
+Cisco Systems, Inc.	05a6	05	a6	5	166
+Bose Corp.	05a7	05	a7	5	167
+Spacetec IMC Corp.	05a8	05	a8	5	168
+OmniVision Technologies, Inc.	05a9	05	a9	5	169
+Utilux South China, Ltd	05aa	05	aa	5	170
+In-System Design	05ab	05	ab	5	171
+Apple, Inc.	05ac	05	ac	5	172
+Y.C. Cable U.S.A., Inc.	05ad	05	ad	5	173
+Synopsys, Inc.	05ae	05	ae	5	174
+Jing-Mold Enterprise Co., Ltd	05af	05	af	5	175
+Fountain Technologies, Inc.	05b0	05	b0	5	176
+First International Computer, Inc.	05b1	05	b1	5	177
+LG Semicon Co., Ltd	05b4	05	b4	5	180
+Dialogic Corp.	05b5	05	b5	5	181
+Proxima Corp.	05b6	05	b6	5	182
+Medianix Semiconductor, Inc.	05b7	05	b7	5	183
+SYSGRATION	05b8	05	b8	5	184
+Philips Research Laboratories	05b9	05	b9	5	185
+DigitalPersona, Inc.	05ba	05	ba	5	186
+Grey Cell Systems	05bb	05	bb	5	187
+3G Green Green Globe Co., Ltd	05bc	05	bc	5	188
+RAFI GmbH & Co. KG	05bd	05	bd	5	189
+Tyco Electronics (Raychem)	05be	05	be	5	190
+S & S Research	05bf	05	bf	5	191
+Keil Software	05c0	05	c0	5	192
+Kawasaki Microelectronics, Inc.	05c1	05	c1	5	193
+Media Phonics (Suisse) S.A.	05c2	05	c2	5	194
+Digi International, Inc.	05c5	05	c5	5	197
+Qualcomm, Inc.	05c6	05	c6	5	198
+Qtronix Corp.	05c7	05	c7	5	199
+Cheng Uei Precision Industry Co., Ltd (Foxlink)	05c8	05	c8	5	200
+Semtech Corp.	05c9	05	c9	5	201
+Ricoh Co., Ltd	05ca	05	ca	5	202
+PowerVision Technologies, Inc.	05cb	05	cb	5	203
+ELSA AG	05cc	05	cc	5	204
+Silicom, Ltd	05cd	05	cd	5	205
+sci-worx GmbH	05ce	05	ce	5	206
+Sung Forn Co., Ltd	05cf	05	cf	5	207
+GE Medical Systems Lunar	05d0	05	d0	5	208
+Brainboxes, Ltd	05d1	05	d1	5	209
+Wave Systems Corp.	05d2	05	d2	5	210
+Tohoku Ricoh Co., Ltd	05d3	05	d3	5	211
+Super Gate Technology Co., Ltd	05d5	05	d5	5	213
+Philips Semiconductors, CICT	05d6	05	d6	5	214
+Thomas & Betts Corp.	05d7	05	d7	5	215
+Ultima Electronics Corp.	05d8	05	d8	5	216
+Axiohm Transaction Solutions	05d9	05	d9	5	217
+Microtek International, Inc.	05da	05	da	5	218
+Sun Corp. (Suntac?)	05db	05	db	5	219
+Lexar Media, Inc.	05dc	05	dc	5	220
+Delta Electronics, Inc.	05dd	05	dd	5	221
+Silicon Vision, Inc.	05df	05	df	5	223
+Symbol Technologies	05e0	05	e0	5	224
+Syntek Semiconductor Co., Ltd	05e1	05	e1	5	225
+ElecVision, Inc.	05e2	05	e2	5	226
+Genesys Logic, Inc.	05e3	05	e3	5	227
+Red Wing Corp.	05e4	05	e4	5	228
+Fuji Electric Co., Ltd	05e5	05	e5	5	229
+Keithley Instruments	05e6	05	e6	5	230
+ICC, Inc.	05e8	05	e8	5	232
+Kawasaki LSI	05e9	05	e9	5	233
+FFC, Ltd	05eb	05	eb	5	235
+COM21, Inc.	05ec	05	ec	5	236
+Cytechinfo Inc.	05ee	05	ee	5	238
+AVB, Inc. [anko?]	05ef	05	ef	5	239
+Canopus Co., Ltd	05f0	05	f0	5	240
+Compass Communications	05f1	05	f1	5	241
+Dexin Corp., Ltd	05f2	05	f2	5	242
+PI Engineering, Inc.	05f3	05	f3	5	243
+Unixtar Technology, Inc.	05f5	05	f5	5	245
+AOC International	05f6	05	f6	5	246
+RFC Distribution(s) PTE, Ltd	05f7	05	f7	5	247
+PSC Scanning, Inc.	05f9	05	f9	5	249
+Siemens Telecommunications Systems, Ltd	05fa	05	fa	5	250
+Harman	05fc	05	fc	5	252
+InterAct, Inc.	05fd	05	fd	5	253
+Chic Technology Corp.	05fe	05	fe	5	254
+LeCroy Corp.	05ff	05	ff	5	255
+Barco Display Systems	0600	06	00	6	0
+Jazz Hipster Corp.	0601	06	01	6	1
+Vista Imaging, Inc.	0602	06	02	6	2
+Novatek Microelectronics Corp.	0603	06	03	6	3
+Jean Co., Ltd	0604	06	04	6	4
+Anchor C&C Co., Ltd	0605	06	05	6	5
+Royal Information Electronics Co., Ltd	0606	06	06	6	6
+Bridge Information Co., Ltd	0607	06	07	6	7
+Genrad Ads	0608	06	08	6	8
+SMK Manufacturing, Inc.	0609	06	09	6	9
+Worthington Data Solutions, Inc.	060a	06	0a	6	10
+Solid Year	060b	06	0b	6	11
+EEH Datalink GmbH	060c	06	0c	6	12
+Auctor Corp.	060d	06	0d	6	13
+Transmonde Technologies, Inc.	060e	06	0e	6	14
+Joinsoon Electronics Mfg. Co., Ltd	060f	06	0f	6	15
+Costar Electronics, Inc.	0610	06	10	6	16
+Totoku Electric Co., Ltd	0611	06	11	6	17
+TransAct Technologies, Inc.	0613	06	13	6	19
+Bio-Rad Laboratories	0614	06	14	6	20
+Quabbin Wire & Cable Co., Inc.	0615	06	15	6	21
+Future Techno Designs PVT, Ltd	0616	06	16	6	22
+Swiss Federal Insitute of Technology	0617	06	17	6	23
+MacAlly	0618	06	18	6	24
+Seiko Instruments, Inc.	0619	06	19	6	25
+Veridicom International, Inc.	061a	06	1a	6	26
+Promptus Communications, Inc.	061b	06	1b	6	27
+Act Labs, Ltd	061c	06	1c	6	28
+Quatech, Inc.	061d	06	1d	6	29
+Nissei Electric Co.	061e	06	1e	6	30
+Alaris, Inc.	0620	06	20	6	32
+ODU-Steckverbindungssysteme GmbH & Co. KG	0621	06	21	6	33
+Iotech, Inc.	0622	06	22	6	34
+Littelfuse, Inc.	0623	06	23	6	35
+Avocent Corp.	0624	06	24	6	36
+TiMedia Technology Co., Ltd	0625	06	25	6	37
+Nippon Systems Development Co., Ltd	0626	06	26	6	38
+Adomax Technology Co., Ltd	0627	06	27	6	39
+Tasking Software, Inc.	0628	06	28	6	40
+Zida Technologies, Ltd	0629	06	29	6	41
+MosArt Semiconductor Corp.	062a	06	2a	6	42
+Greatlink Electronics Taiwan, Ltd	062b	06	2b	6	43
+Institute for Information Industry	062c	06	2c	6	44
+Taiwan Tai-Hao Enterprises Co., Ltd	062d	06	2d	6	45
+Mainsuper Enterprises Co., Ltd	062e	06	2e	6	46
+Sin Sheng Terminal & Machine, Inc.	062f	06	2f	6	47
+JUJO Electronics Corp.	0631	06	31	6	49
+Cyrix Corp.	0633	06	33	6	51
+Micron Technology, Inc.	0634	06	34	6	52
+Methode Electronics, Inc.	0635	06	35	6	53
+Sierra Imaging, Inc.	0636	06	36	6	54
+Avision, Inc.	0638	06	38	6	56
+Chrontel, Inc.	0639	06	39	6	57
+Techwin Corp.	063a	06	3a	6	58
+Taugagreining HF	063b	06	3b	6	59
+Yamaichi Electronics Co., Ltd (Sakura)	063c	06	3c	6	60
+Fong Kai Industrial Co., Ltd	063d	06	3d	6	61
+RealMedia Technology, Inc.	063e	06	3e	6	62
+New Technology Cable, Ltd	063f	06	3f	6	63
+Hitex Development Tools	0640	06	40	6	64
+Woods Industries, Inc.	0641	06	41	6	65
+VIA Medical Corp.	0642	06	42	6	66
+TEAC Corp.	0644	06	44	6	68
+Who? Vision Systems, Inc.	0645	06	45	6	69
+UMAX	0646	06	46	6	70
+Acton Research Corp.	0647	06	47	6	71
+Inside Out Networks	0648	06	48	6	72
+Weli Science Co., Ltd	0649	06	49	6	73
+Analog Devices, Inc. (White Mountain DSP)	064b	06	4b	6	75
+Ji-Haw Industrial Co., Ltd	064c	06	4c	6	76
+TriTech Microelectronics, Ltd	064d	06	4d	6	77
+Suyin Corp.	064e	06	4e	6	78
+WIBU-Systems AG	064f	06	4f	6	79
+Dynapro Systems	0650	06	50	6	80
+Likom Technology Sdn. Bhd.	0651	06	51	6	81
+Stargate Solutions, Inc.	0652	06	52	6	82
+CNF, Inc.	0653	06	53	6	83
+Granite Microsystems, Inc.	0654	06	54	6	84
+Space Shuttle Hi-Tech Co., Ltd	0655	06	55	6	85
+Glory Mark Electronic, Ltd	0656	06	56	6	86
+Tekcon Electronics Corp.	0657	06	57	6	87
+Sigma Designs, Inc.	0658	06	58	6	88
+Aethra	0659	06	59	6	89
+Optoelectronics Co., Ltd	065a	06	5a	6	90
+Tracewell Systems	065b	06	5b	6	91
+Silicon Graphics	065e	06	5e	6	94
+Good Way Technology Co., Ltd & GWC technology Inc.	065f	06	5f	6	95
+TSAY-E (BVI) International, Inc.	0660	06	60	6	96
+Hamamatsu Photonics K.K.	0661	06	61	6	97
+Kansai Electric Co., Ltd	0662	06	62	6	98
+Topmax Electronic Co., Ltd	0663	06	63	6	99
+ET&T Technology Co., Ltd.	0664	06	64	6	100
+Cypress Semiconductor	0665	06	65	6	101
+Aiwa Co., Ltd	0667	06	67	6	103
+WordWand	0668	06	68	6	104
+'Oce'' Printing Systems GmbH'	0669	06	69	6	105
+Total Technologies, Ltd	066a	06	6a	6	106
+Linksys, Inc.	066b	06	6b	6	107
+Entrega, Inc.	066d	06	6d	6	109
+Acer Semiconductor America, Inc.	066e	06	6e	6	110
+SigmaTel, Inc.	066f	06	6f	6	111
+Sequel Imaging	0670	06	70	6	112
+Labtec, Inc.	0672	06	72	6	114
+HCL	0673	06	73	6	115
+Key Mouse Electronic Enterprise Co., Ltd	0674	06	74	6	116
+DrayTek Corp.	0675	06	75	6	117
+Teles AG	0676	06	76	6	118
+Aiwa Co., Ltd	0677	06	77	6	119
+ACard Technology Corp.	0678	06	78	6	120
+Prolific Technology, Inc.	067b	06	7b	6	123
+Efficient Networks, Inc.	067c	06	7c	6	124
+Hohner Corp.	067d	06	7d	6	125
+Intermec Technologies Corp.	067e	06	7e	6	126
+Virata, Ltd	067f	06	7f	6	127
+Realtek Semiconductor Corp., CPP Div. (Avance Logic)	0680	06	80	6	128
+Siemens Information and Communication Products	0681	06	81	6	129
+Victor Company of Japan, Ltd	0682	06	82	6	130
+Actiontec Electronics, Inc.	0684	06	84	6	132
+ZD Incorporated	0685	06	85	6	133
+Minolta Co., Ltd	0686	06	86	6	134
+Pertech, Inc.	068a	06	8a	6	138
+Potrans International, Inc.	068b	06	8b	6	139
+CH Products, Inc.	068e	06	8e	6	142
+Nihon KOHDEN	068f	06	8f	6	143
+Golden Bridge Electech, Inc.	0690	06	90	6	144
+Hagiwara Sys-Com Co., Ltd	0693	06	93	6	147
+Lego Group	0694	06	94	6	148
+Chuntex (CTX)	0698	06	98	6	152
+Tektronix, Inc.	0699	06	99	6	153
+Askey Computer Corp.	069a	06	9a	6	154
+Thomson, Inc.	069b	06	9b	6	155
+Hughes Network Systems (HNS)	069d	06	9d	6	157
+Welcat Inc.	069e	06	9e	6	158
+Allied Data Technologies BV	069f	06	9f	6	159
+Topro Technology, Inc.	06a2	06	a2	6	162
+Saitek PLC	06a3	06	a3	6	163
+Xiamen Doowell Electron Co., Ltd	06a4	06	a4	6	164
+Divio	06a5	06	a5	6	165
+MicroStore, Inc.	06a7	06	a7	6	167
+Topaz Systems, Inc.	06a8	06	a8	6	168
+Westell	06a9	06	a9	6	169
+Sysgration, Ltd	06aa	06	aa	6	170
+Fujitsu Laboratories of America, Inc.	06ac	06	ac	6	172
+Greatland Electronics Taiwan, Ltd	06ad	06	ad	6	173
+Professional Multimedia Testing Centre	06ae	06	ae	6	174
+Harting, Inc. of North America	06af	06	af	6	175
+Pixela Corp.	06b8	06	b8	6	184
+Alcatel Telecom	06b9	06	b9	6	185
+Smooth Cord & Connector Co., Ltd	06ba	06	ba	6	186
+EDA, Inc.	06bb	06	bb	6	187
+Oki Data Corp.	06bc	06	bc	6	188
+AGFA-Gevaert NV	06bd	06	bd	6	189
+AME Optimedia Technology Co., Ltd	06be	06	be	6	190
+Leoco Corp.	06bf	06	bf	6	191
+Phidgets Inc. (formerly GLAB)	06c2	06	c2	6	194
+Bizlink International Corp.	06c4	06	c4	6	196
+Hagenuk, GmbH	06c5	06	c5	6	197
+Infowave Software, Inc.	06c6	06	c6	6	198
+SIIG, Inc.	06c8	06	c8	6	200
+Taxan (Europe), Ltd	06c9	06	c9	6	201
+Newer Technology, Inc.	06ca	06	ca	6	202
+Synaptics, Inc.	06cb	06	cb	6	203
+Terayon Communication Systems	06cc	06	cc	6	204
+Keyspan	06cd	06	cd	6	205
+Contec	06ce	06	ce	6	206
+SpheronVR AG	06cf	06	cf	6	207
+LapLink, Inc.	06d0	06	d0	6	208
+Daewoo Electronics Co., Ltd	06d1	06	d1	6	209
+Mitsubishi Electric Corp.	06d3	06	d3	6	211
+Cisco Systems	06d4	06	d4	6	212
+Toshiba	06d5	06	d5	6	213
+Aashima Technology B.V.	06d6	06	d6	6	214
+Network Computing Devices (NCD)	06d7	06	d7	6	215
+Technical Marketing Research, Inc.	06d8	06	d8	6	216
+Phoenixtec Power Co., Ltd	06da	06	da	6	218
+Paradyne	06db	06	db	6	219
+Foxlink Image Technology Co., Ltd	06dc	06	dc	6	220
+Heisei Electronics Co., Ltd	06de	06	de	6	222
+Multi-Tech Systems, Inc.	06e0	06	e0	6	224
+ADS Technologies, Inc.	06e1	06	e1	6	225
+Alcatel Microelectronics	06e4	06	e4	6	228
+Tiger Jet Network, Inc.	06e6	06	e6	6	230
+Sirius Technologies	06ea	06	ea	6	234
+PC Expert Tech. Co., Ltd	06eb	06	eb	6	235
+I.A.C. Geometrische Ingenieurs B.V.	06ef	06	ef	6	239
+T.N.C Industrial Co., Ltd	06f0	06	f0	6	240
+Opcode Systems, Inc.	06f1	06	f1	6	241
+Emine Technology Co.	06f2	06	f2	6	242
+Wintrend Technology Co., Ltd	06f6	06	f6	6	246
+Wailly Technology Ltd	06f7	06	f7	6	247
+Guillemot Corp.	06f8	06	f8	6	248
+ASYST electronic d.o.o.	06f9	06	f9	6	249
+HSD S.r.L	06fa	06	fa	6	250
+Motorola Semiconductor Products Sector	06fc	06	fc	6	252
+Boston Acoustics	06fd	06	fd	6	253
+Gallant Computer, Inc.	06fe	06	fe	6	254
+Supercomal Wire & Cable SDN. BHD.	0701	07	01	7	1
+Bvtech Industry, Inc.	0703	07	03	7	3
+NKK Corp.	0705	07	05	7	5
+Ariel Corp.	0706	07	06	7	6
+Standard Microsystems Corp.	0707	07	07	7	7
+Putercom Co., Ltd	0708	07	08	7	8
+Silicon Systems, Ltd (SSL)	0709	07	09	7	9
+Oki Electric Industry Co., Ltd	070a	07	0a	7	10
+Comoss Electronic Co., Ltd	070d	07	0d	7	13
+Excel Cell Electronic Co., Ltd	070e	07	0e	7	14
+Connect Tech, Inc.	0710	07	10	7	16
+Magic Control Technology Corp.	0711	07	11	7	17
+Interval Research Corp.	0713	07	13	7	19
+NewMotion, Inc.	0714	07	14	7	20
+ZNK Corp.	0717	07	17	7	23
+Imation Corp.	0718	07	18	7	24
+Tremon Enterprises Co., Ltd	0719	07	19	7	25
+Domain Technologies, Inc.	071b	07	1b	7	27
+Xionics Document Technologies, Inc.	071c	07	1c	7	28
+Eicon Networks Corp.	071d	07	1d	7	29
+Ariston Technologies	071e	07	1e	7	30
+Keyence Corp.	0720	07	20	7	32
+Centillium Communications Corp.	0723	07	23	7	35
+Vanguard International Semiconductor-America	0726	07	26	7	38
+Amitm	0729	07	29	7	41
+Sunix Co., Ltd	072e	07	2e	7	46
+Advanced Card Systems, Ltd	072f	07	2f	7	47
+Susteen, Inc.	0731	07	31	7	49
+Goldfull Electronics & Telecommunications Corp.	0732	07	32	7	50
+ViewQuest Technologies, Inc.	0733	07	33	7	51
+Lasat Communications A/S	0734	07	34	7	52
+Asuscom Network	0735	07	35	7	53
+Lorom Industrial Co., Ltd	0736	07	36	7	54
+Mad Catz, Inc.	0738	07	38	7	56
+Chaplet Systems, Inc.	073a	07	3a	7	58
+Suncom Technologies	073b	07	3b	7	59
+Industrial Electronic Engineers, Inc.	073c	07	3c	7	60
+Eutron S.p.a.	073d	07	3d	7	61
+NEC, Inc.	073e	07	3e	7	62
+Stollmann	0742	07	42	7	66
+Syntech Information Co., Ltd	0745	07	45	7	69
+Onkyo Corp.	0746	07	46	7	70
+Labway Corp.	0747	07	47	7	71
+Strong Man Enterprise Co., Ltd	0748	07	48	7	72
+EVer Electronics Corp.	0749	07	49	7	73
+Ming Fortune Industry Co., Ltd	074a	07	4a	7	74
+Polestar Tech. Corp.	074b	07	4b	7	75
+C-C-C Group PLC	074c	07	4c	7	76
+Micronas GmbH	074d	07	4d	7	77
+Digital Stream Corp.	074e	07	4e	7	78
+Aureal Semiconductor	0755	07	55	7	85
+Network Technologies, Inc.	0757	07	57	7	87
+Carl Zeiss Microscopy GmbH	0758	07	58	7	88
+Sophisticated Circuits, Inc.	075b	07	5b	7	91
+M-Audio	0763	07	63	7	99
+Cyber Power System, Inc.	0764	07	64	7	100
+X-Rite, Inc.	0765	07	65	7	101
+Jess-Link Products Co., Ltd	0766	07	66	7	102
+Tokheim Corp.	0767	07	67	7	103
+Camtel Technology Corp.	0768	07	68	7	104
+Surecom Technology Corp.	0769	07	69	7	105
+Smart Technology Enablers, Inc.	076a	07	6a	7	106
+OmniKey AG	076b	07	6b	7	107
+Partner Tech	076c	07	6c	7	108
+Denso Corp.	076d	07	6d	7	109
+Kuan Tech Enterprise Co., Ltd	076e	07	6e	7	110
+Jhen Vei Electronic Co., Ltd	076f	07	6f	7	111
+Welch Allyn, Inc - Medical Division	0770	07	70	7	112
+Observator Instruments BV	0771	07	71	7	113
+Your data Our Care	0772	07	72	7	114
+AmTRAN Technology Co., Ltd	0774	07	74	7	116
+Longshine Electronics Corp.	0775	07	75	7	117
+Inalways Corp.	0776	07	76	7	118
+Comda Enterprise Corp.	0777	07	77	7	119
+Volex, Inc.	0778	07	78	7	120
+ON Semiconductor (formerly Fairchild)	0779	07	79	7	121
+Sankyo Seiki Mfg. Co., Ltd	077a	07	7a	7	122
+Linksys	077b	07	7b	7	123
+Forward Electronics Co., Ltd	077c	07	7c	7	124
+Griffin Technology	077d	07	7d	7	125
+Softing AG	077e	07	7e	7	126
+Well Excellent & Most Corp.	077f	07	7f	7	127
+Sagem Monetel GmbH	0780	07	80	7	128
+SanDisk Corp.	0781	07	81	7	129
+Trackerball	0782	07	82	7	130
+C3PO	0783	07	83	7	131
+Vivitar, Inc.	0784	07	84	7	132
+NTT-ME	0785	07	85	7	133
+Logitec Corp.	0789	07	89	7	137
+Happ Controls, Inc.	078b	07	8b	7	139
+GTCO/CalComp	078c	07	8c	7	140
+Brincom, Inc.	078e	07	8e	7	142
+Pro-Image Manufacturing Co., Ltd	0790	07	90	7	144
+Copartner Wire and Cable Mfg. Corp.	0791	07	91	7	145
+Axis Communications AB	0792	07	92	7	146
+Wha Yu Industrial Co., Ltd	0793	07	93	7	147
+ABL Electronics Corp.	0794	07	94	7	148
+RealChip, Inc.	0795	07	95	7	149
+Certicom Corp.	0796	07	96	7	150
+Grandtech Semiconductor Corp.	0797	07	97	7	151
+Optelec	0798	07	98	7	152
+Altera	0799	07	99	7	153
+Sagem	079b	07	9b	7	155
+Alfadata Computer Corp.	079d	07	9d	7	157
+Digicom S.p.A.	07a1	07	a1	7	161
+National Technical Systems	07a2	07	a2	7	162
+Onnto Corp.	07a3	07	a3	7	163
+Be, Inc.	07a4	07	a4	7	164
+ADMtek, Inc.	07a6	07	a6	7	166
+Corega K.K.	07aa	07	aa	7	170
+Freecom Technologies	07ab	07	ab	7	171
+Microtech	07af	07	af	7	175
+Trust Technologies	07b0	07	b0	7	176
+IMP, Inc.	07b1	07	b1	7	177
+Motorola BCS, Inc.	07b2	07	b2	7	178
+Plustek, Inc.	07b3	07	b3	7	179
+Olympus Optical Co., Ltd	07b4	07	b4	7	180
+Mega World International, Ltd	07b5	07	b5	7	181
+Marubun Corp.	07b6	07	b6	7	182
+TIME Interconnect, Ltd	07b7	07	b7	7	183
+AboCom Systems Inc	07b8	07	b8	7	184
+Canon Computer Systems, Inc.	07bc	07	bc	7	188
+Webgear, Inc.	07bd	07	bd	7	189
+Veridicom	07be	07	be	7	190
+Code Mercenaries Hard- und Software GmbH	07c0	07	c0	7	192
+Keisokugiken	07c1	07	c1	7	193
+Datafab Systems, Inc.	07c4	07	c4	7	196
+APG Cash Drawer	07c5	07	c5	7	197
+ShareWave, Inc.	07c6	07	c6	7	198
+Powertech Industrial Co., Ltd	07c7	07	c7	7	199
+B.U.G., Inc.	07c8	07	c8	7	200
+Allied Telesyn International	07c9	07	c9	7	201
+AVerMedia Technologies, Inc.	07ca	07	ca	7	202
+Kingmax Technology, Inc.	07cb	07	cb	7	203
+Carry Computer Eng., Co., Ltd	07cc	07	cc	7	204
+Elektor	07cd	07	cd	7	205
+Nidec Copal	07ce	07	ce	7	206
+Casio Computer Co., Ltd	07cf	07	cf	7	207
+Dazzle	07d0	07	d0	7	208
+D-Link System	07d1	07	d1	7	209
+Aptio Products, Inc.	07d2	07	d2	7	210
+Cyberdata Corp.	07d3	07	d3	7	211
+Radiant Systems	07d5	07	d5	7	213
+GCC Technologies, Inc.	07d7	07	d7	7	215
+Arasan Chip Systems	07da	07	da	7	218
+Diamond Multimedia	07de	07	de	7	222
+David Electronics Co., Ltd	07df	07	df	7	223
+NCP engineering GmbH	07e0	07	e0	7	224
+Ambient Technologies, Inc.	07e1	07	e1	7	225
+Elmeg GmbH & Co., Ltd	07e2	07	e2	7	226
+Planex Communications, Inc.	07e3	07	e3	7	227
+Movado Enterprise Co., Ltd	07e4	07	e4	7	228
+QPS, Inc.	07e5	07	e5	7	229
+Allied Cable Corp.	07e6	07	e6	7	230
+Mirvo Toys, Inc.	07e7	07	e7	7	231
+Labsystems	07e8	07	e8	7	232
+Iwatsu Electric Co., Ltd	07ea	07	ea	7	234
+Double-H Technology Co., Ltd	07eb	07	eb	7	235
+Taiyo Electric Wire & Cable Co., Ltd	07ec	07	ec	7	236
+Torex Retail (formerly Logware)	07ee	07	ee	7	238
+STSN	07ef	07	ef	7	239
+Microcomputer Applications, Inc.	07f2	07	f2	7	242
+Circuit Assembly Corp.	07f6	07	f6	7	246
+Century Corp.	07f7	07	f7	7	247
+Dotop Technology, Inc.	07f9	07	f9	7	249
+DrayTek Corp.	07fa	07	fa	7	250
+Thomann	07fc	07	fc	7	252
+Mark of the Unicorn	07fd	07	fd	7	253
+Unknown	07ff	07	ff	7	255
+MagTek	0801	08	01	8	1
+Mako Technologies, LLC	0802	08	02	8	2
+Zoom Telephonics, Inc.	0803	08	03	8	3
+Genicom Technology, Inc.	0809	08	09	8	9
+Evermuch Technology Co., Ltd	080a	08	0a	8	10
+Cross Match Technologies	080b	08	0b	8	11
+Datalogic S.p.A.	080c	08	0c	8	12
+Teco Image Systems Co., Ltd	080d	08	0d	8	13
+Personal Communication Systems, Inc.	0810	08	10	8	16
+Mattel, Inc.	0813	08	13	8	19
+eLicenser	0819	08	19	8	25
+MG Logic	081a	08	1a	8	26
+Indigita Corp.	081b	08	1b	8	27
+Mipsys	081c	08	1c	8	28
+AlphaSmart, Inc.	081e	08	1e	8	30
+Manta	081f	08	1f	8	31
+Reudo Corp.	0822	08	22	8	34
+GC Protronics	0825	08	25	8	37
+Data Transit	0826	08	26	8	38
+BroadLogic, Inc.	0827	08	27	8	39
+Sato Corp.	0828	08	28	8	40
+DirecTV Broadband, Inc. (Telocity)	0829	08	29	8	41
+Handspring	082d	08	2d	8	45
+Palm, Inc.	0830	08	30	8	48
+Kouwell Electronics Corp.	0832	08	32	8	50
+Sourcenext Corp.	0833	08	33	8	51
+Action Star Enterprise Co., Ltd	0835	08	35	8	53
+TrekStor	0836	08	36	8	54
+Samsung Techwin Co., Ltd	0839	08	39	8	57
+Accton Technology Corp.	083a	08	3a	8	58
+Global Village	083f	08	3f	8	63
+Argosy Research, Inc.	0840	08	40	8	64
+Rioport.com, Inc.	0841	08	41	8	65
+Welland Industrial Co., Ltd	0844	08	44	8	68
+NetGear, Inc.	0846	08	46	8	70
+Minton Optic Industry Co., Inc.	084d	08	4d	8	77
+KB Gear	084e	08	4e	8	78
+Empeg	084f	08	4f	8	79
+Fast Point Technologies, Inc.	0850	08	50	8	80
+Macronix International Co., Ltd	0851	08	51	8	81
+CSEM	0852	08	52	8	82
+Topre Corporation	0853	08	53	8	83
+ActiveWire, Inc.	0854	08	54	8	84
+B&B Electronics	0856	08	56	8	86
+Hitachi Maxell, Ltd	0858	08	58	8	88
+Minolta Systems Laboratory, Inc.	0859	08	59	8	89
+Xircom	085a	08	5a	8	90
+ColorVision, Inc.	085c	08	5c	8	92
+Teletrol Systems, Inc.	0862	08	62	8	98
+Filanet Corp.	0863	08	63	8	99
+NetGear, Inc.	0864	08	64	8	100
+Data Translation, Inc.	0867	08	67	8	103
+Emagic Soft- und Hardware GmbH	086a	08	6a	8	106
+DeTeWe - Deutsche Telephonwerke AG & Co.	086c	08	6c	8	108
+System TALKS, Inc.	086e	08	6e	8	110
+MEC IMEX, Inc.	086f	08	6f	8	111
+Metricom	0870	08	70	8	112
+SanDisk, Inc.	0871	08	71	8	113
+Xpeed, Inc.	0873	08	73	8	115
+A-Tec Subsystem, Inc.	0874	08	74	8	116
+Comtrol Corp.	0879	08	79	8	121
+Adesso/Kbtek America, Inc.	087c	08	7c	8	124
+Jaton Corp.	087d	08	7d	8	125
+Fujitsu Computer Products of America	087e	08	7e	8	126
+QualCore Logic Inc.	087f	08	7f	8	127
+APT Technologies, Inc.	0880	08	80	8	128
+Recording Industry Association of America (RIAA)	0883	08	83	8	131
+Boca Research, Inc.	0885	08	85	8	133
+XAC Automation Corp.	0886	08	86	8	134
+Hannstar Electronics Corp.	0887	08	87	8	135
+TechTools	088a	08	8a	8	138
+MassWorks, Inc.	088b	08	8b	8	139
+Swecoin AB	088c	08	8c	8	140
+iLok	088e	08	8e	8	142
+DioGraphy, Inc.	0892	08	92	8	146
+TSI Incorporated	0894	08	94	8	148
+Lauterbach	0897	08	97	8	151
+United Technologies Research Cntr.	089c	08	9c	8	156
+Icron Technologies Corp.	089d	08	9d	8	157
+NST Co., Ltd	089e	08	9e	8	158
+Primex Aerospace Co.	089f	08	9f	8	159
+e9, Inc.	08a5	08	a5	8	165
+Toshiba TEC	08a6	08	a6	8	166
+Andrea Electronics	08a8	08	a8	8	168
+CWAV Inc.	08a9	08	a9	8	169
+Macraigor Systems LLC	08ac	08	ac	8	172
+Macally (Mace Group, Inc.)	08ae	08	ae	8	174
+Metrohm	08b0	08	b0	8	176
+Sorenson Vision, Inc.	08b4	08	b4	8	180
+NATSU	08b7	08	b7	8	183
+J. Gordon Electronic Design, Inc.	08b8	08	b8	8	184
+RadioShack Corp. (Tandy)	08b9	08	b9	8	185
+Texas Instruments	08bb	08	bb	8	187
+Citizen Watch Co., Ltd	08bd	08	bd	8	189
+Precise Biometrics	08c3	08	c3	8	195
+Proxim, Inc.	08c4	08	c4	8	196
+Key Nice Enterprise Co., Ltd	08c7	08	c7	8	199
+2Wire, Inc.	08c8	08	c8	8	200
+Nippon Telegraph and Telephone Corp.	08c9	08	c9	8	201
+Aiptek International, Inc.	08ca	08	ca	8	202
+Jue Hsun Ind. Corp.	08cd	08	cd	8	205
+Long Well Electronics Corp.	08ce	08	ce	8	206
+Productivity Enhancement Products	08cf	08	cf	8	207
+smartBridges, Inc.	08d1	08	d1	8	209
+Virtual Ink	08d3	08	d3	8	211
+Fujitsu Siemens Computers	08d4	08	d4	8	212
+IXXAT Automation GmbH	08d8	08	d8	8	216
+Increment P Corp.	08d9	08	d9	8	217
+Billionton Systems, Inc.	08dd	08	dd	8	221
+???	08de	08	de	8	222
+Spyrus, Inc.	08df	08	df	8	223
+Olitec, Inc.	08e3	08	e3	8	227
+Pioneer Corp.	08e4	08	e4	8	228
+Litronic	08e5	08	e5	8	229
+Gemalto (was Gemplus)	08e6	08	e6	8	230
+Pan-International Wire & Cable	08e7	08	e7	8	231
+Integrated Memory Logic	08e8	08	e8	8	232
+Extended Systems, Inc.	08e9	08	e9	8	233
+Ericsson, Inc., Blue Ridge Labs	08ea	08	ea	8	234
+M-Systems Flash Disk Pioneers	08ec	08	ec	8	236
+MediaTek Inc.	08ed	08	ed	8	237
+CCSI/Hesso	08ee	08	ee	8	238
+Corex Technologies	08f0	08	f0	8	240
+CTI Electronics Corp.	08f1	08	f1	8	241
+Gotop Information Inc.	08f2	08	f2	8	242
+SysTec Co., Ltd	08f5	08	f5	8	245
+Logic 3 International, Ltd	08f6	08	f6	8	246
+Vernier	08f7	08	f7	8	247
+Keen Top International Enterprise Co., Ltd	08f8	08	f8	8	248
+Wipro Technologies	08f9	08	f9	8	249
+Caere	08fa	08	fa	8	250
+Socket Communications	08fb	08	fb	8	251
+Sicon Cable Technology Co., Ltd	08fc	08	fc	8	252
+Digianswer A/S	08fd	08	fd	8	253
+AuthenTec, Inc.	08ff	08	ff	8	255
+Pinnacle Systems, Inc.	0900	09	00	9	0
+VST Technologies	0901	09	01	9	1
+Faraday Technology Corp.	0906	09	06	9	6
+Siemens AG	0908	09	08	9	8
+Audio-Technica Corp.	0909	09	09	9	9
+Trumpion Microelectronics, Inc.	090a	09	0a	9	10
+Neurosmith	090b	09	0b	9	11
+Silicon Motion, Inc. - Taiwan (formerly Feiya Technology Corp.)	090c	09	0c	9	12
+Multiport Computer Vertriebs GmbH	090d	09	0d	9	13
+Shining Technology, Inc.	090e	09	0e	9	14
+Fujitsu Devices, Inc.	090f	09	0f	9	15
+Alation Systems, Inc.	0910	09	10	9	16
+Philips Speech Processing	0911	09	11	9	17
+Voquette, Inc.	0912	09	12	9	18
+GlobeSpan, Inc.	0915	09	15	9	21
+SmartDisk Corp.	0917	09	17	9	23
+Tiger Electronics	0919	09	19	9	25
+Garmin International	091e	09	1e	9	30
+Echelon Co.	0920	09	20	9	32
+GoHubs, Inc.	0921	09	21	9	33
+Dymo-CoStar Corp.	0922	09	22	9	34
+IC Media Corp.	0923	09	23	9	35
+Xerox	0924	09	24	9	36
+Lakeview Research	0925	09	25	9	37
+Summus, Ltd	0927	09	27	9	39
+PLX Technology, Inc. (formerly Oxford Semiconductor, Ltd)	0928	09	28	9	40
+American Biometric Co.	0929	09	29	9	41
+Toshiba Information & Industrial Sys. And Services	092a	09	2a	9	42
+Sena Technologies, Inc.	092b	09	2b	9	43
+Northern Embedded Science/CAVNEX	092f	09	2f	9	47
+Toshiba Corp.	0930	09	30	9	48
+Harmonic Data Systems, Ltd	0931	09	31	9	49
+Crescentec Corp.	0932	09	32	9	50
+Quantum Corp.	0933	09	33	9	51
+Spirent Communications	0934	09	34	9	52
+NuTesla	0936	09	36	9	54
+Lumberg, Inc.	0939	09	39	9	57
+Pixart Imaging, Inc.	093a	09	3a	9	58
+Plextor Corp.	093b	09	3b	9	59
+Intrepid Control Systems, Inc.	093c	09	3c	9	60
+InnoSync, Inc.	093d	09	3d	9	61
+J.S.T. Mfg. Co., Ltd	093e	09	3e	9	62
+Olympia Telecom Vertriebs GmbH	093f	09	3f	9	63
+Japan Storage Battery Co., Ltd	0940	09	40	9	64
+Photobit Corp.	0941	09	41	9	65
+i2Go.com, LLC	0942	09	42	9	66
+HCL Technologies India Private, Ltd	0943	09	43	9	67
+KORG, Inc.	0944	09	44	9	68
+Pasco Scientific	0945	09	45	9	69
+Kronauer music in digital	0948	09	48	9	72
+Linkup Systems Corp.	094b	09	4b	9	75
+Cable Television Laboratories	094d	09	4d	9	77
+Yano	094f	09	4f	9	79
+Kingston Technology	0951	09	51	9	81
+RPM Systems Corp.	0954	09	54	9	84
+NVIDIA Corp.	0955	09	55	9	85
+BSquare Corp.	0956	09	56	9	86
+Agilent Technologies, Inc.	0957	09	57	9	87
+CompuLink Research, Inc.	0958	09	58	9	88
+Cologne Chip AG	0959	09	59	9	89
+Portsmith	095a	09	5a	9	90
+Medialogic Corp.	095b	09	5b	9	91
+K-Tec Electronics	095c	09	5c	9	92
+Polycom, Inc.	095d	09	5d	9	93
+BITRAN	0964	09	64	9	100
+Acer NeWeb Corp.	0967	09	67	9	103
+Catalyst Enterprises, Inc.	0968	09	68	9	104
+Feitian Technologies, Inc.	096e	09	6e	9	110
+Gretag-Macbeth AG	0971	09	71	9	113
+Schlumberger	0973	09	73	9	115
+Datagraphix, a business unit of Anacomp	0974	09	74	9	116
+'OL''E Communications, Inc.'	0975	09	75	9	117
+Adirondack Wire & Cable	0976	09	76	9	118
+Lightsurf Technologies	0977	09	77	9	119
+Beckhoff GmbH	0978	09	78	9	120
+Jeilin Technology Corp., Ltd	0979	09	79	9	121
+Minds At Work LLC	097a	09	7a	9	122
+Knudsen Engineering, Ltd	097b	09	7b	9	123
+Marunix Co., Ltd	097c	09	7c	9	124
+Rosun Technologies, Inc.	097d	09	7d	9	125
+Biopac Systems Inc.	097e	09	7e	9	126
+Barun Electronics Co., Ltd	097f	09	7f	9	127
+Oak Technology, Ltd	0981	09	81	9	129
+Apricorn	0984	09	84	9	132
+cab Produkttechnik GmbH & Co KG	0985	09	85	9	133
+Matsushita Electric Works, Ltd.	0986	09	86	9	134
+Vitana Corp.	098c	09	8c	9	140
+INDesign	098d	09	8d	9	141
+Integrated Intellectual Property, Inc.	098e	09	8e	9	142
+Kenwood TMI Corp.	098f	09	8f	9	143
+Gemstar eBook Group, Ltd	0993	09	93	9	147
+Integrated Telecom Express, Inc.	0996	09	96	9	150
+Zippy Technology Corp.	099a	09	9a	9	154
+Trimble Navigation, Ltd	099e	09	9e	9	158
+PairGain Technologies	09a3	09	a3	9	163
+Contech Research, Inc.	09a4	09	a4	9	164
+VCON Telecommunications	09a5	09	a5	9	165
+Poinchips	09a6	09	a6	9	166
+Data Transmission Network Corp.	09a7	09	a7	9	167
+Lin Shiung Enterprise Co., Ltd	09a8	09	a8	9	168
+Smart Card Technologies Co., Ltd	09a9	09	a9	9	169
+Intersil Corp.	09aa	09	aa	9	170
+Japan Cash Machine Co., Ltd.	09ab	09	ab	9	171
+Tripp Lite	09ae	09	ae	9	174
+Fargo	09b0	09	b0	9	176
+Franklin Electronic Publishers, Inc.	09b2	09	b2	9	178
+Altius Solutions, Inc.	09b3	09	b3	9	179
+MDS Telephone Systems	09b4	09	b4	9	180
+Celltrix Technology Co., Ltd	09b5	09	b5	9	181
+Grundig	09bc	09	bc	9	188
+MySmart.Com	09be	09	be	9	190
+Auerswald GmbH & Co. KG	09bf	09	bf	9	191
+Genpix Electronics, LLC	09c0	09	c0	9	192
+Arris Interactive LLC	09c1	09	c1	9	193
+Nisca Corp.	09c2	09	c2	9	194
+HID Global	09c3	09	c3	9	195
+ACTiSYS Corp.	09c4	09	c4	9	196
+Memory Corp.	09c5	09	c5	9	197
+BMC Messsysteme GmbH	09ca	09	ca	9	202
+FLIR Systems	09cb	09	cb	9	203
+Workbit Corp.	09cc	09	cc	9	204
+Psion Dacom Home Networks, Ltd	09cd	09	cd	9	205
+City Electronics, Ltd	09ce	09	ce	9	206
+Electronics Testing Center, Taiwan	09cf	09	cf	9	207
+NeoMagic, Inc.	09d1	09	d1	9	209
+Vreelin Engineering, Inc.	09d2	09	d2	9	210
+Com One	09d3	09	d3	9	211
+Hexagon NovAtel Inc.	09d7	09	d7	9	215
+ELATEC GmbH	09d8	09	d8	9	216
+KRF Tech, Ltd	09d9	09	d9	9	217
+A4Tech Co., Ltd.	09da	09	da	9	218
+Measurement Computing Corp.	09db	09	db	9	219
+Aimex Corp.	09dc	09	dc	9	220
+Fellowes, Inc.	09dd	09	dd	9	221
+Addonics Technologies Corp.	09df	09	df	9	223
+Intellon Corp.	09e1	09	e1	9	225
+Jo-Dan International, Inc.	09e5	09	e5	9	229
+Silutia, Inc.	09e6	09	e6	9	230
+Real 3D, Inc.	09e7	09	e7	9	231
+AKAI  Professional M.I. Corp.	09e8	09	e8	9	232
+Chen-Source, Inc.	09e9	09	e9	9	233
+IM Networks, Inc.	09eb	09	eb	9	235
+Xitel	09ef	09	ef	9	239
+GoFlight, Inc.	09f3	09	f3	9	243
+AresCom	09f5	09	f5	9	245
+RocketChips, Inc.	09f6	09	f6	9	246
+Edu-Science (H.K.), Ltd	09f7	09	f7	9	247
+SoftConnex Technologies, Inc.	09f8	09	f8	9	248
+Bay Associates	09f9	09	f9	9	249
+Mtek Vision	09fa	09	fa	9	250
+Altera	09fb	09	fb	9	251
+Gain Technology Corp.	09ff	09	ff	9	255
+Liquid Audio	0a00	0a	00	10	0
+ViA, Inc.	0a01	0a	01	10	1
+Unknown Manufacturer	0a05	0a	05	10	5
+Ontrak Control Systems Inc.	0a07	0a	07	10	7
+Cybex Computer Products Co.	0a0b	0a	0b	10	11
+Servergy, Inc	0a0d	0a	0d	10	13
+Xentec, Inc.	0a11	0a	11	10	17
+Cambridge Silicon Radio, Ltd	0a12	0a	12	10	18
+Telebyte, Inc.	0a13	0a	13	10	19
+Spacelabs Medical, Inc.	0a14	0a	14	10	20
+Scalar Corp.	0a15	0a	15	10	21
+Trek Technology (S) PTE, Ltd	0a16	0a	16	10	22
+Pentax Corp.	0a17	0a	17	10	23
+Heidelberger Druckmaschinen AG	0a18	0a	18	10	24
+Hua Geng Technologies, Inc.	0a19	0a	19	10	25
+Medtronic Physio Control Corp.	0a21	0a	21	10	33
+Century Semiconductor USA, Inc.	0a22	0a	22	10	34
+Datacard Group	0a27	0a	27	10	39
+AK-Modul-Bus Computer GmbH	0a2c	0a	2c	10	44
+TG3 Electronics, Inc.	0a34	0a	34	10	52
+Radikal Technologies	0a35	0a	35	10	53
+IRIS sa	0a38	0a	38	10	56
+Gilat Satellite Networks, Ltd	0a39	0a	39	10	57
+PentaMedia Co., Ltd	0a3a	0a	3a	10	58
+NTT DoCoMo, Inc.	0a3c	0a	3c	10	60
+Varo Vision	0a3d	0a	3d	10	61
+Swissonic AG	0a3f	0a	3f	10	63
+Boca Systems, Inc.	0a43	0a	43	10	67
+Davicom Semiconductor, Inc.	0a46	0a	46	10	70
+Hirose Electric	0a47	0a	47	10	71
+I/O Interconnect	0a48	0a	48	10	72
+Ploytec GmbH	0a4a	0a	4a	10	74
+Fujitsu Media Devices, Ltd	0a4b	0a	4b	10	75
+Computex Co., Ltd	0a4c	0a	4c	10	76
+Evolution Electronics, Ltd	0a4d	0a	4d	10	77
+Steinberg Soft-und Hardware GmbH	0a4e	0a	4e	10	78
+Litton Systems, Inc.	0a4f	0a	4f	10	79
+Mimaki Engineering Co., Ltd	0a50	0a	50	10	80
+Sony Electronics, Inc.	0a51	0a	51	10	81
+Jebsee Electronics Co., Ltd	0a52	0a	52	10	82
+Portable Peripheral Co., Ltd	0a53	0a	53	10	83
+Electronics For Imaging, Inc.	0a5a	0a	5a	10	90
+EAsics NV	0a5b	0a	5b	10	91
+Broadcom Corp.	0a5c	0a	5c	10	92
+Diatrend Corp.	0a5d	0a	5d	10	93
+Zebra Technologies	0a5f	0a	5f	10	95
+MPMan	0a62	0a	62	10	98
+ClearCube Technology	0a66	0a	66	10	102
+Medeli Electronics Co., Ltd	0a67	0a	67	10	103
+Comaide Corp.	0a68	0a	68	10	104
+Chroma ate, Inc.	0a69	0a	69	10	105
+Green House Co., Ltd	0a6b	0a	6b	10	107
+Integrated Circuit Systems, Inc.	0a6c	0a	6c	10	108
+UPS Manufacturing	0a6d	0a	6d	10	109
+Benwin	0a6e	0a	6e	10	110
+Core Technology, Inc.	0a6f	0a	6f	10	111
+International Game Technology	0a70	0a	70	10	112
+VIPColor Technologies USA, Inc.	0a71	0a	71	10	113
+Sanwa Denshi	0a72	0a	72	10	114
+Mackie Designs	0a73	0a	73	10	115
+NSTL, Inc.	0a7d	0a	7d	10	125
+Octagon Systems Corp.	0a7e	0a	7e	10	126
+Rexon Technology Corp., Ltd	0a80	0a	80	10	128
+Chesen Electronics Corp.	0a81	0a	81	10	129
+Syscan	0a82	0a	82	10	130
+NextComm, Inc.	0a83	0a	83	10	131
+Maui Innovative Peripherals	0a84	0a	84	10	132
+Idexx Labs	0a85	0a	85	10	133
+NITGen Co., Ltd	0a86	0a	86	10	134
+Aktiv	0a89	0a	89	10	137
+Picturetel	0a8d	0a	8d	10	141
+Japan Aviation Electronics Industry, Ltd	0a8e	0a	8e	10	142
+Candy Technology Co., Ltd	0a90	0a	90	10	144
+Globlink Technology, Inc.	0a91	0a	91	10	145
+EGO SYStems, Inc.	0a92	0a	92	10	146
+C Technologies AB	0a93	0a	93	10	147
+Intersense	0a94	0a	94	10	148
+Lava Computer Mfg., Inc.	0aa3	0a	a3	10	163
+Develco Elektronik	0aa4	0a	a4	10	164
+First International Digital	0aa5	0a	a5	10	165
+Perception Digital, Ltd	0aa6	0a	a6	10	166
+Wincor Nixdorf International GmbH	0aa7	0a	a7	10	167
+TriGem Computer, Inc.	0aa8	0a	a8	10	168
+Baromtec Co.	0aa9	0a	a9	10	169
+Japan CBM Corp.	0aaa	0a	aa	10	170
+Vision Shape Europe SA	0aab	0a	ab	10	171
+iCompression, Inc.	0aac	0a	ac	10	172
+Rohde & Schwarz GmbH & Co. KG	0aad	0a	ad	10	173
+NEC infrontia Corp. (Nitsuko)	0aae	0a	ae	10	174
+Digitalway Co., Ltd	0aaf	0a	af	10	175
+Arrow Strong Electronics Co., Ltd	0ab0	0a	b0	10	176
+FEIG ELECTRONIC GmbH	0ab1	0a	b1	10	177
+Ellisys	0aba	0a	ba	10	186
+Stereo-Link	0abe	0a	be	10	190
+Diolan	0abf	0a	bf	10	191
+Sanyo Semiconductor Company Micro	0ac3	0a	c3	10	195
+Leco Corp.	0ac4	0a	c4	10	196
+I & C Corp.	0ac5	0a	c5	10	197
+Singing Electrons, Inc.	0ac6	0a	c6	10	198
+Panwest Corp.	0ac7	0a	c7	10	199
+Z-Star Microelectronics Corp.	0ac8	0a	c8	10	200
+Micro Solutions, Inc.	0ac9	0a	c9	10	201
+OPEN Networks Ltd	0aca	0a	ca	10	202
+Koga Electronics Co.	0acc	0a	cc	10	204
+ID Tech	0acd	0a	cd	10	205
+ZyDAS	0ace	0a	ce	10	206
+Intoto, Inc.	0acf	0a	cf	10	207
+Intellix Corp.	0ad0	0a	d0	10	208
+Remotec Technology, Ltd	0ad1	0a	d1	10	209
+Service & Quality Technology Co., Ltd	0ad2	0a	d2	10	210
+Data Encryption Systems Ltd.	0ada	0a	da	10	218
+Allion Computer, Inc.	0ae3	0a	e3	10	227
+Taito Corp.	0ae4	0a	e4	10	228
+Neodym Systems, Inc.	0ae7	0a	e7	10	231
+System Support Co., Ltd	0ae8	0a	e8	10	232
+North Shore Circuit Design L.L.P.	0ae9	0a	e9	10	233
+SciEssence, LLC	0aea	0a	ea	10	234
+TTP Communications, Ltd	0aeb	0a	eb	10	235
+Neodio Technologies Corp.	0aec	0a	ec	10	236
+Option	0af0	0a	f0	10	240
+Silver I Co., Ltd	0af6	0a	f6	10	246
+B2C2, Inc.	0af7	0a	f7	10	247
+Hama, Inc.	0af9	0a	f9	10	249
+DMC Co., Ltd.	0afa	0a	fa	10	250
+Zaptronix Ltd	0afc	0a	fc	10	252
+Tateno Dennou, Inc.	0afd	0a	fd	10	253
+Cummins Engine Co.	0afe	0a	fe	10	254
+Jump Zone Network Products, Inc.	0aff	0a	ff	10	255
+INGENICO	0b00	0b	00	11	0
+ASUSTek Computer, Inc.	0b05	0b	05	11	5
+'Datamax-O''Neil'	0b0b	0b	0b	11	11
+Todos AB	0b0c	0b	0c	11	12
+ProjectLab	0b0d	0b	0d	11	13
+GN Netcom	0b0e	0b	0e	11	14
+AVID Technology	0b0f	0b	0f	11	15
+Pcally	0b10	0b	10	11	16
+I Tech Solutions Co., Ltd	0b11	0b	11	11	17
+Electronic Warfare Assoc., Inc. (EWA)	0b1e	0b	1e	11	30
+Insyde Software Corp.	0b1f	0b	1f	11	31
+TransDimension, Inc.	0b20	0b	20	11	32
+Yokogawa Electric Corp.	0b21	0b	21	11	33
+Japan System Development Co., Ltd	0b22	0b	22	11	34
+Pan-Asia Electronics Co., Ltd	0b23	0b	23	11	35
+Link Evolution Corp.	0b24	0b	24	11	36
+Ritek Corp.	0b27	0b	27	11	39
+Kenwood Corp.	0b28	0b	28	11	40
+Village Center, Inc.	0b2c	0b	2c	11	44
+PNY Technologies, Inc.	0b30	0b	30	11	48
+Contour Design, Inc.	0b33	0b	33	11	51
+Hitachi ULSI Systems Co., Ltd	0b37	0b	37	11	55
+Gear Head	0b38	0b	38	11	56
+Omnidirectional Control Technology, Inc.	0b39	0b	39	11	57
+IPaxess	0b3a	0b	3a	11	58
+Tekram Technology Co., Ltd	0b3b	0b	3b	11	59
+Olivetti Techcenter	0b3c	0b	3c	11	60
+Kikusui Electronics Corp.	0b3e	0b	3e	11	62
+Hal Corp.	0b41	0b	41	11	65
+Play.com, Inc.	0b43	0b	43	11	67
+Sportbug.com, Inc.	0b47	0b	47	11	71
+TechnoTrend AG	0b48	0b	48	11	72
+ASCII Corp.	0b49	0b	49	11	73
+Pine Corp. Ltd.	0b4b	0b	4b	11	75
+Graphtec America, Inc.	0b4d	0b	4d	11	77
+Musical Electronics, Ltd	0b4e	0b	4e	11	78
+Dumpries Co., Ltd	0b50	0b	50	11	80
+Comfort Keyboard Co.	0b51	0b	51	11	81
+Colorado MicroDisplay, Inc.	0b52	0b	52	11	82
+Sinbon Electronics Co., Ltd	0b54	0b	54	11	84
+TYI Systems, Ltd	0b56	0b	56	11	86
+Beijing HanwangTechnology Co., Ltd	0b57	0b	57	11	87
+Lake Communications, Ltd	0b59	0b	59	11	89
+Corel Corp.	0b5a	0b	5a	11	90
+Green Electronics Co., Ltd	0b5f	0b	5f	11	95
+Nsine, Ltd	0b60	0b	60	11	96
+NEC Viewtechnology, Ltd	0b61	0b	61	11	97
+Orange Micro, Inc.	0b62	0b	62	11	98
+ADLink Technology, Inc.	0b63	0b	63	11	99
+Wonderful Wire Cable Co., Ltd	0b64	0b	64	11	100
+Expert Magnetics Corp.	0b65	0b	65	11	101
+Cybiko Inc.	0b66	0b	66	11	102
+Fairbanks Scales	0b67	0b	67	11	103
+CacheVision	0b69	0b	69	11	105
+Maxim Integrated Products	0b6a	0b	6a	11	106
+Nagano Japan Radio Co., Ltd	0b6f	0b	6f	11	111
+PortalPlayer, Inc.	0b70	0b	70	11	112
+SHIN-EI Sangyo Co., Ltd	0b71	0b	71	11	113
+Embedded Wireless Technology Co., Ltd	0b72	0b	72	11	114
+Computone Corp.	0b73	0b	73	11	115
+Roland DG Corp.	0b75	0b	75	11	117
+Sunrise Telecom, Inc.	0b79	0b	79	11	121
+Zeevo, Inc.	0b7a	0b	7a	11	122
+Taiko Denki Co., Ltd	0b7b	0b	7b	11	123
+ITRAN Communications, Ltd	0b7c	0b	7c	11	124
+Astrodesign, Inc.	0b7d	0b	7d	11	125
+id3 Technologies	0b81	0b	81	11	129
+Rextron Technology, Inc.	0b84	0b	84	11	132
+Elkat Electronics, Sdn., Bhd.	0b85	0b	85	11	133
+Exputer Systems, Inc.	0b86	0b	86	11	134
+Plus-One I & T, Inc.	0b87	0b	87	11	135
+Sigma Koki Co., Ltd, Technology Center	0b88	0b	88	11	136
+Advanced Digital Broadcast, Ltd	0b89	0b	89	11	137
+SMART Technologies Inc.	0b8c	0b	8c	11	140
+ASIX Electronics Corp.	0b95	0b	95	11	149
+Sewon Telecom	0b96	0b	96	11	150
+O2 Micro, Inc.	0b97	0b	97	11	151
+Playmates Toys, Inc.	0b98	0b	98	11	152
+Audio International, Inc.	0b99	0b	99	11	153
+Dipl.-Ing. Stefan Kunde	0b9b	0b	9b	11	155
+Softprotec Co.	0b9d	0b	9d	11	157
+Chippo Technologies	0b9f	0b	9f	11	159
+U.S. Robotics	0baf	0b	af	11	175
+Concord Camera Corp.	0bb0	0b	b0	11	176
+Infinilink Corp.	0bb1	0b	b1	11	177
+Ambit Microsystems Corp.	0bb2	0b	b2	11	178
+Ofuji Technology	0bb3	0b	b3	11	179
+HTC (High Tech Computer Corp.)	0bb4	0b	b4	11	180
+Murata Manufacturing Co., Ltd	0bb5	0b	b5	11	181
+Network Alchemy	0bb6	0b	b6	11	182
+Joytech Computer Co., Ltd	0bb7	0b	b7	11	183
+Hitachi Semiconductor and Devices Sales Co., Ltd	0bb8	0b	b8	11	184
+Eiger M&C Co., Ltd	0bb9	0b	b9	11	185
+ZAccess Systems	0bba	0b	ba	11	186
+General Meters Corp.	0bbb	0b	bb	11	187
+Assistive Technology, Inc.	0bbc	0b	bc	11	188
+System Connection, Inc.	0bbd	0b	bd	11	189
+Knilink Technology, Inc.	0bc0	0b	c0	11	192
+Fuw Yng Electronics Co., Ltd	0bc1	0b	c1	11	193
+Seagate RSS LLC	0bc2	0b	c2	11	194
+IPWireless, Inc.	0bc3	0b	c3	11	195
+Microcube Corp.	0bc4	0b	c4	11	196
+JCN Co., Ltd	0bc5	0b	c5	11	197
+ExWAY, Inc.	0bc6	0b	c6	11	198
+X10 Wireless Technology, Inc.	0bc7	0b	c7	11	199
+Telmax Communications	0bc8	0b	c8	11	200
+ECI Telecom, Ltd	0bc9	0b	c9	11	201
+Startek Engineering, Inc.	0bca	0b	ca	11	202
+Perfect Technic Enterprise Co., Ltd	0bcb	0b	cb	11	203
+Andrew Pargeter & Associates	0bd7	0b	d7	11	215
+Realtek Semiconductor Corp.	0bda	0b	da	11	218
+Ericsson Business Mobile Networks BV	0bdb	0b	db	11	219
+Y Media Corp.	0bdc	0b	dc	11	220
+Orange PCS	0bdd	0b	dd	11	221
+Kanda Tsushin Kogyo Co., Ltd	0be2	0b	e2	11	226
+TOYO Corp.	0be3	0b	e3	11	227
+Elka International, Ltd	0be4	0b	e4	11	228
+DOME imaging systems, Inc.	0be5	0b	e5	11	229
+Dong Guan Humen Wonderful Wire Cable Factory	0be6	0b	e6	11	230
+MEI	0bed	0b	ed	11	237
+LTK Industries, Ltd	0bee	0b	ee	11	238
+Way2Call Communications	0bef	0b	ef	11	239
+Pace Micro Technology PLC	0bf0	0b	f0	11	240
+Intracom S.A.	0bf1	0b	f1	11	241
+Konexx	0bf2	0b	f2	11	242
+Addonics Technologies, Inc.	0bf6	0b	f6	11	246
+Sunny Giken, Inc.	0bf7	0b	f7	11	247
+Fujitsu Siemens Computers	0bf8	0b	f8	11	248
+Grass Valley Group	0bfb	0b	fb	11	251
+Kvaser AB	0bfd	0b	fd	11	253
+FireFly Mouse Mat	0c00	0c	00	12	0
+MOTO Development Group, Inc.	0c04	0c	04	12	4
+Appian Graphics	0c05	0c	05	12	5
+Hasbro Games, Inc.	0c06	0c	06	12	6
+Infinite Data Storage, Ltd	0c07	0c	07	12	7
+Agate	0c08	0c	08	12	8
+Comjet Information System	0c09	0c	09	12	9
+Highpoint Technologies, Inc.	0c0a	0c	0a	12	10
+Dura Micro, Inc. (Acomdata)	0c0b	0c	0b	12	11
+Zeroplus	0c12	0c	12	12	18
+Iris Graphics	0c15	0c	15	12	21
+Gyration, Inc.	0c16	0c	16	12	22
+Cyberboard A/S	0c17	0c	17	12	23
+SynerTek Korea, Inc.	0c18	0c	18	12	24
+cyberPIXIE, Inc.	0c19	0c	19	12	25
+Silicon Motion, Inc.	0c1a	0c	1a	12	26
+MIPS Technologies	0c1b	0c	1b	12	27
+Hang Zhou Silan Electronics Co., Ltd	0c1c	0c	1c	12	28
+Magicard	0c1f	0c	1f	12	31
+Tally Printer Corp.	0c22	0c	22	12	34
+Lernout + Hauspie	0c23	0c	23	12	35
+Taiyo Yuden	0c24	0c	24	12	36
+Sampo Corp.	0c25	0c	25	12	37
+Prolific Technology Inc.	0c26	0c	26	12	38
+RFIDeas, Inc	0c27	0c	27	12	39
+Metrologic Instruments	0c2e	0c	2e	12	46
+Mutoh Industries Ltd	0c30	0c	30	12	48
+Eagletron, Inc.	0c35	0c	35	12	53
+E Ink Corp.	0c36	0c	36	12	54
+e.Digital	0c37	0c	37	12	55
+Der An Electric Wire & Cable Co., Ltd	0c38	0c	38	12	56
+IFR	0c39	0c	39	12	57
+Furui Precise Component (Kunshan) Co., Ltd	0c3a	0c	3a	12	58
+Komatsu, Ltd	0c3b	0c	3b	12	59
+Radius Co., Ltd	0c3c	0c	3c	12	60
+Innocom, Inc.	0c3d	0c	3d	12	61
+Nextcell, Inc.	0c3e	0c	3e	12	62
+ELMCU	0c40	0c	40	12	64
+Motorola iDEN	0c44	0c	44	12	68
+Microdia	0c45	0c	45	12	69
+WaveRider Communications, Inc.	0c46	0c	46	12	70
+ALGE-TIMING GmbH	0c4a	0c	4a	12	74
+Reiner SCT Kartensysteme GmbH	0c4b	0c	4b	12	75
+'Needham''s Electronics'	0c4c	0c	4c	12	76
+Sealevel Systems, Inc.	0c52	0c	52	12	82
+ViewPLUS, Inc.	0c53	0c	53	12	83
+Glory, Ltd	0c54	0c	54	12	84
+Spectrum Digital, Inc.	0c55	0c	55	12	85
+Billion Bright, Ltd	0c56	0c	56	12	86
+Imaginative Design Operation Co., Ltd	0c57	0c	57	12	87
+Vidar Systems Corp.	0c58	0c	58	12	88
+Dong Guan Shinko Wire Co., Ltd	0c59	0c	59	12	89
+TRS International Mfg., Inc.	0c5a	0c	5a	12	90
+Xytronix Research & Design	0c5e	0c	5e	12	94
+Apogee Electronics Corp.	0c60	0c	60	12	96
+Chant Sincere Co., Ltd	0c62	0c	62	12	98
+Toko, Inc.	0c63	0c	63	12	99
+Signality System Engineering Co., Ltd	0c64	0c	64	12	100
+Eminence Enterprise Co., Ltd	0c65	0c	65	12	101
+Rexon Electronics Corp.	0c66	0c	66	12	102
+Concept Telecom, Ltd	0c67	0c	67	12	103
+ACS	0c6a	0c	6a	12	106
+JETI Technische Instrumente GmbH	0c6c	0c	6c	12	108
+MCT Elektronikladen	0c70	0c	70	12	112
+PEAK System	0c72	0c	72	12	114
+Optronic Laboratories Inc.	0c74	0c	74	12	116
+JMTek, LLC.	0c76	0c	76	12	118
+Sipix Group, Ltd	0c77	0c	77	12	119
+Detto Corp.	0c78	0c	78	12	120
+NuConnex Technologies Pte., Ltd	0c79	0c	79	12	121
+Wing-Span Enterprise Co., Ltd	0c7a	0c	7a	12	122
+NDA Technologies, Inc.	0c86	0c	86	12	134
+Kyocera Wireless Corp.	0c88	0c	88	12	136
+Honda Tsushin Kogyo Co., Ltd	0c89	0c	89	12	137
+Pathway Connectivity, Inc.	0c8a	0c	8a	12	138
+Wavefly Corp.	0c8b	0c	8b	12	139
+Coactive Networks	0c8c	0c	8c	12	140
+Tempo	0c8d	0c	8d	12	141
+Cesscom Co., Ltd	0c8e	0c	8e	12	142
+Applied Microsystems	0c8f	0c	8f	12	143
+Cryptera	0c94	0c	94	12	148
+Berkshire Products, Inc.	0c98	0c	98	12	152
+Innochips Co., Ltd	0c99	0c	99	12	153
+Hanwool Robotics Corp.	0c9a	0c	9a	12	154
+Jobin Yvon, Inc.	0c9b	0c	9b	12	155
+Brand Innovators BV	0c9c	0c	9c	12	156
+SemTek	0c9d	0c	9d	12	157
+Zyfer	0ca2	0c	a2	12	162
+Sega Corp.	0ca3	0c	a3	12	163
+ST&T Instrument Corp.	0ca4	0c	a4	12	164
+BAE Systems Canada, Inc.	0ca5	0c	a5	12	165
+Castles Technology Co., Ltd	0ca6	0c	a6	12	166
+Information Systems Laboratories	0ca7	0c	a7	12	167
+Allied Telesis KK.	0caa	0c	aa	12	170
+Motorola CGISS	0cad	0c	ad	12	173
+Ascom Business Systems, Ltd	0cae	0c	ae	12	174
+Buslink	0caf	0c	af	12	175
+Flying Pig Systems	0cb0	0c	b0	12	176
+Innovonics, Inc.	0cb1	0c	b1	12	177
+Celestix Networks, Pte., Ltd	0cb6	0c	b6	12	182
+Singatron Enterprise Co., Ltd	0cb7	0c	b7	12	183
+Opticis Co., Ltd	0cb8	0c	b8	12	184
+Trust Electronic (Shanghai) Co., Ltd	0cba	0c	ba	12	186
+Shanghai Darong Electronics Co., Ltd	0cbb	0c	bb	12	187
+Palmax Technology Co., Ltd	0cbc	0c	bc	12	188
+Pentel Co., Ltd (Electronics Equipment Div.)	0cbd	0c	bd	12	189
+Keryx Technologies, Inc.	0cbe	0c	be	12	190
+Union Genius Computer Co., Ltd	0cbf	0c	bf	12	191
+Kuon Yi Industrial Corp.	0cc0	0c	c0	12	192
+Given Imaging, Ltd	0cc1	0c	c1	12	193
+Timex Corp.	0cc2	0c	c2	12	194
+Rimage Corp.	0cc3	0c	c3	12	195
+emsys GmbH	0cc4	0c	c4	12	196
+Sendo	0cc5	0c	c5	12	197
+Intermagic Corp.	0cc6	0c	c6	12	198
+Technotools Corp.	0cc8	0c	c8	12	200
+BroadMAX Technologies, Inc.	0cc9	0c	c9	12	201
+Amphenol	0cca	0c	ca	12	202
+SKNet Co., Ltd	0ccb	0c	cb	12	203
+Domex Technology Corp.	0ccc	0c	cc	12	204
+TerraTec Electronic GmbH	0ccd	0c	cd	12	205
+Bang Olufsen	0cd4	0c	d4	12	212
+LabJack Corporation	0cd5	0c	d5	12	213
+Scheidt & Bachmann	0cd6	0c	d6	12	214
+NewChip S.r.l.	0cd7	0c	d7	12	215
+JS Digitech, Inc.	0cd8	0c	d8	12	216
+Hitachi Shin Din Cable, Ltd	0cd9	0c	d9	12	217
+Z-Com	0cde	0c	de	12	222
+Validation Technologies International	0ce5	0c	e5	12	229
+Pico Technology	0ce9	0c	e9	12	233
+e-Conn Electronic Co., Ltd	0cf1	0c	f1	12	241
+ENE Technology, Inc.	0cf2	0c	f2	12	242
+Qualcomm Atheros Communications	0cf3	0c	f3	12	243
+Fomtex Corp.	0cf4	0c	f4	12	244
+Cellink Co., Ltd	0cf5	0c	f5	12	245
+Compucable Corp.	0cf6	0c	f6	12	246
+ishoni Networks	0cf7	0c	f7	12	247
+Clarisys, Inc.	0cf8	0c	f8	12	248
+Central System Research Co., Ltd	0cf9	0c	f9	12	249
+Inviso, Inc.	0cfa	0c	fa	12	250
+Minolta-QMS, Inc.	0cfc	0c	fc	12	252
+SAFA MEDIA Co., Ltd.	0cff	0c	ff	12	255
+telos EDV Systementwicklung GmbH	0d06	0d	06	13	6
+UTStarcom	0d08	0d	08	13	8
+Contemporary Controls	0d0b	0d	0b	13	11
+Astron Electronics Co., Ltd	0d0c	0d	0c	13	12
+MKNet Corp.	0d0d	0d	0d	13	13
+Hybrid Networks, Inc.	0d0e	0d	0e	13	14
+Feng Shin Cable Co., Ltd	0d0f	0d	0f	13	15
+Elastic Networks	0d10	0d	10	13	16
+Maspro Denkoh Corp.	0d11	0d	11	13	17
+Hansol Electronics, Inc.	0d12	0d	12	13	18
+BMF Corp.	0d13	0d	13	13	19
+Array Comm, Inc.	0d14	0d	14	13	20
+OnStream b.v.	0d15	0d	15	13	21
+Hi-Touch Imaging Technologies Co., Ltd	0d16	0d	16	13	22
+NALTEC, Inc.	0d17	0d	17	13	23
+coaXmedia	0d18	0d	18	13	24
+Hank Connection Industrial Co., Ltd	0d19	0d	19	13	25
+NXP	0d28	0d	28	13	40
+Andamiro	0d2f	0d	2f	13	47
+Leo Hui Electric Wire & Cable Co., Ltd	0d32	0d	32	13	50
+AirSpeak, Inc.	0d33	0d	33	13	51
+Rearden Steel Technologies	0d34	0d	34	13	52
+Dah Kun Co., Ltd	0d35	0d	35	13	53
+Posiflex Technologies, Inc.	0d3a	0d	3a	13	58
+Sri Cable Technology, Ltd	0d3c	0d	3c	13	60
+Tangtop Technology Co., Ltd	0d3d	0d	3d	13	61
+Fitcom, inc.	0d3e	0d	3e	13	62
+MTS Systems Corp.	0d3f	0d	3f	13	63
+Ascor, Inc.	0d40	0d	40	13	64
+Ta Yun Terminals Industrial Co., Ltd	0d41	0d	41	13	65
+Full Der Co., Ltd	0d42	0d	42	13	66
+Kobil Systems GmbH	0d46	0d	46	13	70
+Promethean Limited	0d48	0d	48	13	72
+Maxtor	0d49	0d	49	13	73
+NF Corp.	0d4a	0d	4a	13	74
+Grape Systems, Inc.	0d4b	0d	4b	13	75
+Tedas AG	0d4c	0d	4c	13	76
+Coherent, Inc.	0d4d	0d	4d	13	77
+Agere Systems Netherland BV	0d4e	0d	4e	13	78
+EADS Airbus France	0d4f	0d	4f	13	79
+Cleware GmbH	0d50	0d	50	13	80
+Volex (Asia) Pte., Ltd	0d51	0d	51	13	81
+HMI Co., Ltd	0d53	0d	53	13	83
+Holon Corp.	0d54	0d	54	13	84
+ASKA Technologies, Inc.	0d55	0d	55	13	85
+AVLAB Technology, Inc.	0d56	0d	56	13	86
+Solomon Microtech, Ltd	0d57	0d	57	13	87
+TRC Simulators b.v.	0d59	0d	59	13	89
+SMC Networks, Inc.	0d5c	0d	5c	13	92
+Myacom, Ltd	0d5e	0d	5e	13	94
+CSI, Inc.	0d5f	0d	5f	13	95
+IVL Technologies, Ltd	0d60	0d	60	13	96
+Meilu Electronics (Shenzhen) Co., Ltd	0d61	0d	61	13	97
+Darfon Electronics Corp.	0d62	0d	62	13	98
+Fritz Gegauf AG	0d63	0d	63	13	99
+DXG Technology Corp.	0d64	0d	64	13	100
+KMJP Co., Ltd	0d65	0d	65	13	101
+TMT	0d66	0d	66	13	102
+Advanet, Inc.	0d67	0d	67	13	103
+Super Link Electronics Co., Ltd	0d68	0d	68	13	104
+NSI	0d69	0d	69	13	105
+Megapower International Corp.	0d6a	0d	6a	13	106
+And-Or Logic	0d6b	0d	6b	13	107
+Try Computer Co., Ltd	0d70	0d	70	13	112
+Hirakawa Hewtech Corp.	0d71	0d	71	13	113
+Winmate Communication, Inc.	0d72	0d	72	13	114
+'Hit''s Communications, Inc.'	0d73	0d	73	13	115
+MFP Korea, Inc.	0d76	0d	76	13	118
+Power Sentry/Newpoint	0d77	0d	77	13	119
+Japan Distributor Corp.	0d78	0d	78	13	120
+MARX Datentechnik GmbH	0d7a	0d	7a	13	122
+Wellco Technology Co., Ltd	0d7b	0d	7b	13	123
+Taiwan Line Tek Electronic Co., Ltd	0d7c	0d	7c	13	124
+Phison Electronics Corp.	0d7d	0d	7d	13	125
+American Computer & Digital Components	0d7e	0d	7e	13	126
+Essential Reality LLC	0d7f	0d	7f	13	127
+H.R. Silvine Electronics, Inc.	0d80	0d	80	13	128
+TechnoVision	0d81	0d	81	13	129
+Think Outside, Inc.	0d83	0d	83	13	131
+Dolby Laboratories Inc.	0d87	0d	87	13	135
+Oz Software	0d89	0d	89	13	137
+King Jim Co., Ltd	0d8a	0d	8a	13	138
+Ascom Telecommunications, Ltd	0d8b	0d	8b	13	139
+C-Media Electronics, Inc.	0d8c	0d	8c	13	140
+Promotion & Display Technology, Ltd	0d8d	0d	8d	13	141
+Global Sun Technology, Inc.	0d8e	0d	8e	13	142
+Pitney Bowes	0d8f	0d	8f	13	143
+Sure-Fire Electrical Corp.	0d90	0d	90	13	144
+Skanhex Technology, Inc.	0d96	0d	96	13	150
+Santa Barbara Instrument Group	0d97	0d	97	13	151
+Mars Semiconductor Corp.	0d98	0d	98	13	152
+Trazer Technologies, Inc.	0d99	0d	99	13	153
+RTX AS	0d9a	0d	9a	13	154
+Tat Shing Electrical Co.	0d9b	0d	9b	13	155
+Chee Chen Hi-Technology Co., Ltd	0d9c	0d	9c	13	156
+Sanwa Supply, Inc.	0d9d	0d	9d	13	157
+Avaya	0d9e	0d	9e	13	158
+Powercom Co., Ltd	0d9f	0d	9f	13	159
+Danger Research	0da0	0d	a0	13	160
+'Suzhou Peter''s Precise Industrial Co., Ltd'	0da1	0d	a1	13	161
+Land Instruments International, Ltd	0da2	0d	a2	13	162
+Nippon Electro-Sensory Devices Corp.	0da3	0d	a3	13	163
+Polar Electro Oy	0da4	0d	a4	13	164
+IOGear, Inc.	0da7	0d	a7	13	167
+softDSP Co., Ltd	0da8	0d	a8	13	168
+Cubig Group	0dab	0d	ab	13	171
+Westover Scientific	0dad	0d	ad	13	173
+Micro Star International	0db0	0d	b0	13	176
+Wen Te Electronics Co., Ltd	0db1	0d	b1	13	177
+Shian Hwi Plug Parts, Plastic Factory	0db2	0d	b2	13	178
+Tekram Technology Co., Ltd	0db3	0d	b3	13	179
+Chung Fu Chen Yeh Enterprise Corp.	0db4	0d	b4	13	180
+Access IS	0db5	0d	b5	13	181
+ELCON Systemtechnik	0db7	0d	b7	13	183
+Digidesign	0dba	0d	ba	13	186
+A&D Medical	0dbc	0d	bc	13	188
+Jiuh Shiuh Precision Industry Co., Ltd	0dbe	0d	be	13	190
+Jess-Link International	0dbf	0d	bf	13	191
+G7 Solutions (formerly Great Notions)	0dc0	0d	c0	13	192
+Tamagawa Seiki Co., Ltd	0dc1	0d	c1	13	193
+Athena Smartcard Solutions, Inc.	0dc3	0d	c3	13	195
+inXtron, Inc.	0dc4	0d	c4	13	196
+SDK Co., Ltd	0dc5	0d	c5	13	197
+Precision Squared Technology Corp.	0dc6	0d	c6	13	198
+First Cable Line, Inc.	0dc7	0d	c7	13	199
+NetworkFab Corp.	0dcd	0d	cd	13	205
+Access Solutions	0dd0	0d	d0	13	208
+Contek Electronics Co., Ltd	0dd1	0d	d1	13	209
+Power Quotient International Co., Ltd	0dd2	0d	d2	13	210
+MediaQ	0dd3	0d	d3	13	211
+Custom Engineering SPA	0dd4	0d	d4	13	212
+California Micro Devices	0dd5	0d	d5	13	213
+Kocom Co., Ltd	0dd7	0d	d7	13	215
+Netac Technology Co., Ltd	0dd8	0d	d8	13	216
+HighSpeed Surfing	0dd9	0d	d9	13	217
+Integrated Circuit Solution, Inc.	0dda	0d	da	13	218
+Tamarack, Inc.	0ddb	0d	db	13	219
+Datelink Technology Co., Ltd	0ddd	0d	dd	13	221
+Ubicom, Inc.	0dde	0d	de	13	222
+BD Consumer Healthcare	0de0	0d	e0	13	224
+USBmicro	0de7	0d	e7	13	231
+UTECH Electronic (D.G.) Co., Ltd.	0dea	0d	ea	13	234
+Novasonics	0ded	0d	ed	13	237
+Lifetime Memory Products	0dee	0d	ee	13	238
+Full Rise Electronic Co., Ltd	0def	0d	ef	13	239
+NET&SYS	0df4	0d	f4	13	244
+Sitecom Europe B.V.	0df6	0d	f6	13	246
+Mobile Action Technology, Inc.	0df7	0d	f7	13	247
+Toyo Communication Equipment Co., Ltd	0dfa	0d	fa	13	250
+GeneralTouch Technology Co., Ltd	0dfc	0d	fc	13	252
+Nippon Systemware Co., Ltd	0e03	0e	03	14	3
+Winbest Technology Co., Ltd	0e08	0e	08	14	8
+Amigo Technology Inc.	0e0b	0e	0b	14	11
+Gesytec	0e0c	0e	0c	14	12
+PicoQuant GmbH	0e0d	0e	0d	14	13
+VMware, Inc.	0e0f	0e	0f	14	15
+JMTek, LLC	0e16	0e	16	14	22
+Walex Electronic, Ltd	0e17	0e	17	14	23
+Unisys	0e1a	0e	1a	14	26
+Crewave	0e1b	0e	1b	14	27
+Green Hills Software	0e1e	0e	1e	14	30
+Pegasus Technologies Ltd.	0e20	0e	20	14	32
+Cowon Systems, Inc.	0e21	0e	21	14	33
+Symbian Ltd.	0e22	0e	22	14	34
+Liou Yuane Enterprise Co., Ltd	0e23	0e	23	14	35
+VinChip Systems, Inc.	0e25	0e	25	14	37
+J-Phone East Co., Ltd	0e26	0e	26	14	38
+Materialise Motion NV	0e2c	0e	2c	14	44
+Brady Worldwide, Inc.	0e2e	0e	2e	14	46
+HeartMath LLC	0e30	0e	30	14	48
+Micro Computer Control Corp.	0e34	0e	34	14	52
+3Pea Technologies, Inc.	0e35	0e	35	14	53
+TiePie engineering	0e36	0e	36	14	54
+Stratitec, Inc.	0e38	0e	38	14	56
+Smart Modular Technologies, Inc.	0e39	0e	39	14	57
+Neostar Technology Co., Ltd	0e3a	0e	3a	14	58
+Mansella, Ltd	0e3b	0e	3b	14	59
+Line6, Inc.	0e41	0e	41	14	65
+Sun-Riseful Technology Co., Ltd.	0e44	0e	44	14	68
+Julia Corp., Ltd	0e48	0e	48	14	72
+Shenzhen Bao Hing Electric Wire & Cable Mfr. Co.	0e4a	0e	4a	14	74
+Radica Games, Ltd	0e4c	0e	4c	14	76
+TechnoData Interware	0e50	0e	50	14	80
+Speed Dragon Multimedia, Ltd	0e55	0e	55	14	85
+Kingston Technology Company, Inc.	0e56	0e	56	14	86
+Active Co., Ltd	0e5a	0e	5a	14	90
+Union Power Information Industrial Co., Ltd	0e5b	0e	5b	14	91
+Bitland Information Technology Co., Ltd	0e5c	0e	5c	14	92
+Neltron Industrial Co., Ltd	0e5d	0e	5d	14	93
+Conwise Technology Co., Ltd.	0e5e	0e	5e	14	94
+Hawking Technologies	0e66	0e	66	14	102
+Fossil, Inc.	0e67	0e	67	14	103
+Megawin Technology Co., Ltd	0e6a	0e	6a	14	106
+Logic3	0e6f	0e	6f	14	111
+Tokyo Electronic Industry Co., Ltd	0e70	0e	70	14	112
+Hsi-Chin Electronics Co., Ltd	0e72	0e	72	14	114
+TVS Electronics, Ltd	0e75	0e	75	14	117
+Archos, Inc.	0e79	0e	79	14	121
+On-Tech Industry Co., Ltd	0e7b	0e	7b	14	123
+Gmate, Inc.	0e7e	0e	7e	14	126
+Ching Tai Electric Wire & Cable Co., Ltd	0e82	0e	82	14	130
+Shin An Wire & Cable Co.	0e83	0e	83	14	131
+Well Force Electronic Co., Ltd	0e8c	0e	8c	14	140
+MediaTek Inc.	0e8d	0e	8d	14	141
+GreenAsia Inc.	0e8f	0e	8f	14	143
+WiebeTech, LLC	0e90	0e	90	14	144
+VTech Engineering Canada, Ltd	0e91	0e	91	14	145
+'C''s Glory Enterprise Co., Ltd'	0e92	0e	92	14	146
+eM Technics Co., Ltd	0e93	0e	93	14	147
+Future Technology Co., Ltd	0e95	0e	95	14	149
+Aplux Communications, Ltd	0e96	0e	96	14	150
+Fingerworks, Inc.	0e97	0e	97	14	151
+Advanced Analogic Technologies, Inc.	0e98	0e	98	14	152
+Parallel Dice Co., Ltd	0e99	0e	99	14	153
+TA HSING Industries, Ltd	0e9a	0e	9a	14	154
+ADTEC Corp.	0e9b	0e	9b	14	155
+Streamzap, Inc.	0e9c	0e	9c	14	156
+Tamura Corp.	0e9f	0e	9f	14	159
+Ours Technology, Inc.	0ea0	0e	a0	14	160
+Nihon Computer Co., Ltd	0ea6	0e	a6	14	166
+MSL Enterprises Corp.	0ea7	0e	a7	14	167
+CenDyne, Inc.	0ea8	0e	a8	14	168
+Humax Co., Ltd	0ead	0e	ad	14	173
+NovaTech	0eb0	0e	b0	14	176
+WIS Technologies, Inc.	0eb1	0e	b1	14	177
+Y-S Electronic Co., Ltd	0eb2	0e	b2	14	178
+Saint Technology Corp.	0eb3	0e	b3	14	179
+Endor AG	0eb7	0e	b7	14	183
+Mettler Toledo	0eb8	0e	b8	14	184
+Thermo Fisher Scientific	0ebb	0e	bb	14	187
+VWeb Corp.	0ebe	0e	be	14	190
+Omega Technology of Taiwan, Inc.	0ebf	0e	bf	14	191
+LHI Technology (China) Co., Ltd	0ec0	0e	c0	14	192
+Abit Computer Corp.	0ec1	0e	c1	14	193
+Sweetray Industrial, Ltd	0ec2	0e	c2	14	194
+Axell Co., Ltd	0ec3	0e	c3	14	195
+Ballracing Developments, Ltd	0ec4	0e	c4	14	196
+GT Information System Co., Ltd	0ec5	0e	c5	14	197
+InnoVISION Multimedia, Ltd	0ec6	0e	c6	14	198
+Theta Link Corp.	0ec7	0e	c7	14	199
+Lite-On IT Corp.	0ecd	0e	cd	14	205
+TaiSol Electronics Co., Ltd	0ece	0e	ce	14	206
+Phogenix Imaging, LLC	0ecf	0e	cf	14	207
+WinMaxGroup	0ed1	0e	d1	14	209
+Kyoto Micro Computer Co., Ltd	0ed2	0e	d2	14	210
+Wing-Tech Enterprise Co., Ltd	0ed3	0e	d3	14	211
+Fiberbyte	0ed5	0e	d5	14	213
+Noriake Itron Corp.	0eda	0e	da	14	218
+e-MDT Co., Ltd	0edf	0e	df	14	223
+Shima Seiki Mfg., Ltd	0ee0	0e	e0	14	224
+Sarotech Co., Ltd	0ee1	0e	e1	14	225
+AMI Semiconductor, Inc.	0ee2	0e	e2	14	226
+ComTrue Technology Corp.	0ee3	0e	e3	14	227
+Sunrich Technology, Ltd	0ee4	0e	e4	14	228
+Digital Stream Technology, Inc.	0eee	0e	ee	14	238
+D-WAV Scientific Co., Ltd	0eef	0e	ef	14	239
+Hitachi Cable, Ltd	0ef0	0e	f0	14	240
+Aichi Micro Intelligent Corp.	0ef1	0e	f1	14	241
+I/O Magic Corp.	0ef2	0e	f2	14	242
+Lynn Products, Inc.	0ef3	0e	f3	14	243
+DSI Datotech	0ef4	0e	f4	14	244
+PointChips	0ef5	0e	f5	14	245
+Yield Microelectronics Corp.	0ef6	0e	f6	14	246
+SM Tech Co., Ltd (Tulip)	0ef7	0e	f7	14	247
+Oasis Semiconductor	0efd	0e	fd	14	253
+Wem Technology, Inc.	0efe	0e	fe	14	254
+Unitek UPS Systems	0f03	0f	03	15	3
+Visual Frontier Enterprise Co., Ltd	0f06	0f	06	15	6
+CSL Wire & Plug (Shen Zhen) Co.	0f08	0f	08	15	8
+CAS Corp.	0f0c	0f	0c	15	12
+Hori Co., Ltd	0f0d	0f	0d	15	13
+Energy Full Corp.	0f0e	0f	0e	15	14
+Silego Technology Inc	0f0f	0f	0f	15	15
+LD Didactic GmbH	0f11	0f	11	15	17
+Mars Engineering Corp.	0f12	0f	12	15	18
+Acetek Technology Co., Ltd	0f13	0f	13	15	19
+Ingenico	0f14	0f	14	15	20
+Finger Lakes Instrumentation	0f18	0f	18	15	24
+Oracom Co., Ltd	0f19	0f	19	15	25
+Onset Computer Corp.	0f1b	0f	1b	15	27
+Funai Electric Co., Ltd	0f1c	0f	1c	15	28
+Iwill Corp.	0f1d	0f	1d	15	29
+IOI Technology Corp.	0f21	0f	21	15	33
+Senior Industries, Inc.	0f22	0f	22	15	34
+Leader Tech Manufacturer Co., Ltd	0f23	0f	23	15	35
+Flex-P Industries, Snd., Bhd.	0f24	0f	24	15	36
+ViPower, Inc.	0f2d	0f	2d	15	45
+Geniality Maple Technology Co., Ltd	0f2e	0f	2e	15	46
+Priva Design Services	0f2f	0f	2f	15	47
+Jess Technology Co., Ltd	0f30	0f	30	15	48
+Chrysalis Development	0f31	0f	31	15	49
+YFC-BonEagle Electric Co., Ltd	0f32	0f	32	15	50
+Kokuyo Co., Ltd	0f37	0f	37	15	55
+Nien-Yi Industrial Corp.	0f38	0f	38	15	56
+TG3 Electronics	0f39	0f	39	15	57
+Airprime, Incorporated	0f3d	0f	3d	15	61
+RDC Semiconductor Co., Ltd	0f41	0f	41	15	65
+Nital Consulting Services, Inc.	0f42	0f	42	15	66
+Polhemus	0f44	0f	44	15	68
+Evolis SA	0f49	0f	49	15	73
+St. John Technology Co., Ltd	0f4b	0f	4b	15	75
+WorldWide Cable Opto Corp.	0f4c	0f	4c	15	76
+Microtune, Inc.	0f4d	0f	4d	15	77
+Freedom Scientific	0f4e	0f	4e	15	78
+Wing Key Electrical Co., Ltd	0f52	0f	52	15	82
+Dongguan White Horse Cable Factory, Ltd	0f53	0f	53	15	83
+Kawai Musical Instruments Mfg. Co., Ltd	0f54	0f	54	15	84
+AmbiCom, Inc.	0f55	0f	55	15	85
+Prairiecomm, Inc.	0f5c	0f	5c	15	92
+NewAge International, LLC	0f5d	0f	5d	15	93
+Key Technology Corp.	0f5f	0f	5f	15	95
+NTK, Ltd	0f60	0f	60	15	96
+Varian, Inc.	0f61	0f	61	15	97
+Acrox Technologies Co., Ltd	0f62	0f	62	15	98
+LeapFrog Enterprises	0f63	0f	63	15	99
+Kobe Steel, Ltd	0f68	0f	68	15	104
+Dionex Corp.	0f69	0f	69	15	105
+Vibren Technologies, Inc.	0f6a	0f	6a	15	106
+INTELLIGENT SYSTEMS	0f6e	0f	6e	15	110
+DFI	0f73	0f	73	15	115
+Guntermann & Drunck GmbH	0f78	0f	78	15	120
+DQ Technology, Inc.	0f7c	0f	7c	15	124
+NetBotz, Inc.	0f7d	0f	7d	15	125
+Fluke Corp.	0f7e	0f	7e	15	126
+VTech Holdings, Ltd	0f88	0f	88	15	136
+Yazaki Corp.	0f8b	0f	8b	15	139
+Young Generation International Corp.	0f8c	0f	8c	15	140
+Uniwill Computer Corp.	0f8d	0f	8d	15	141
+Kingnet Technology Co., Ltd	0f8e	0f	8e	15	142
+Soma Networks	0f8f	0f	8f	15	143
+CviLux Corp.	0f97	0f	97	15	151
+CyberBank Corp.	0f98	0f	98	15	152
+Hyun Won, Inc.	0f9c	0f	9c	15	156
+Lucent Technologies	0f9e	0f	9e	15	158
+Starconn Electronic Co., Ltd	0fa3	0f	a3	15	163
+ATL Technology	0fa4	0f	a4	15	164
+Sotec Co., Ltd	0fa5	0f	a5	15	165
+Epox Computer Co., Ltd	0fa7	0f	a7	15	167
+Logic Controls, Inc.	0fa8	0f	a8	15	168
+Winpoint Electronic Corp.	0faf	0f	af	15	175
+Haurtian Wire & Cable Co., Ltd	0fb0	0f	b0	15	176
+Inclose Design, Inc.	0fb1	0f	b1	15	177
+Juan-Chern Industrial Co., Ltd	0fb2	0f	b2	15	178
+Heber Ltd	0fb6	0f	b6	15	182
+Wistron Corp.	0fb8	0f	b8	15	184
+AACom Corp.	0fb9	0f	b9	15	185
+San Shing Electronics Co., Ltd	0fba	0f	ba	15	186
+Bitwise Systems, Inc.	0fbb	0f	bb	15	187
+Mitac Internatinal Corp.	0fc1	0f	c1	15	193
+Plug and Jack Industrial, Inc.	0fc2	0f	c2	15	194
+Delcom Engineering	0fc5	0f	c5	15	197
+Dataplus Supplies, Inc.	0fc6	0f	c6	15	198
+Research In Motion, Ltd.	0fca	0f	ca	15	202
+Sony Ericsson Mobile Communications AB	0fce	0f	ce	15	206
+Dynastream Innovations, Inc.	0fcf	0f	cf	15	207
+Tulip Computers B.V.	0fd0	0f	d0	15	208
+Giant Electronics Ltd.	0fd1	0f	d1	15	209
+Seac Banche	0fd2	0f	d2	15	210
+Tenovis GmbH & Co., KG	0fd4	0f	d4	15	212
+Direct Access Technology, Inc.	0fd5	0f	d5	15	213
+Elgato Systems GmbH	0fd9	0f	d9	15	217
+Quantec Networks GmbH	0fda	0f	da	15	218
+Micro Plus	0fdc	0f	dc	15	220
+Oregon Scientific	0fde	0f	de	15	222
+Osterhout Design Group	0fe0	0f	e0	15	224
+Air Techniques	0fe2	0f	e2	15	226
+IN-Tech Electronics, Ltd	0fe4	0f	e4	15	228
+Greenconn (U.S.A.), Inc.	0fe5	0f	e5	15	229
+ICS Advent	0fe6	0f	e6	15	230
+DVICO	0fe9	0f	e9	15	233
+United Computer Accessories	0fea	0f	ea	15	234
+CRS Electronic Co., Ltd	0feb	0f	eb	15	235
+UMC Electronics Co., Ltd	0fec	0f	ec	15	236
+Access Co., Ltd	0fed	0f	ed	15	237
+Xsido Corp.	0fee	0f	ee	15	238
+MJ Research, Inc.	0fef	0f	ef	15	239
+Core Valley Co., Ltd	0ff6	0f	f6	15	246
+CHI SHING Computer Accessories Co., Ltd	0ff7	0f	f7	15	247
+Clavia DMI AB	0ffc	0f	fc	15	252
+EarlySense	0ffd	0f	fd	15	253
+Aopen, Inc.	0fff	0f	ff	15	255
+Speed Tech Corp.	1000	10	00	16	0
+Ritronics Components (S) Pte., Ltd	1001	10	01	16	1
+Sigma Corp.	1003	10	03	16	3
+LG Electronics, Inc.	1004	10	04	16	4
+Apacer Technology, Inc.	1005	10	05	16	5
+iRiver, Ltd.	1006	10	06	16	6
+Emuzed, Inc.	1009	10	09	16	9
+AV Chaseway, Ltd	100a	10	0a	16	10
+Chou Chin Industrial Co., Ltd	100b	10	0b	16	11
+Netopia, Inc.	100d	10	0d	16	13
+Fukuda Denshi Co., Ltd	1010	10	10	16	16
+Mobile Media Tech.	1011	10	11	16	17
+SDKM Fibres, Wires & Cables Berhad	1012	10	12	16	18
+TST-Touchless Sensor Technology AG	1013	10	13	16	19
+Densitron Technologies PLC	1014	10	14	16	20
+Softronics Pty., Ltd	1015	10	15	16	21
+'Xiamen Hung''s Enterprise Co., Ltd'	1016	10	16	16	22
+Speedy Industrial Supplies, Pte., Ltd	1017	10	17	16	23
+Elitegroup Computer Systems (ECS)	1019	10	19	16	25
+Labtec	1020	10	20	16	32
+Shinko Shoji Co., Ltd	1022	10	22	16	34
+Hyper-Paltek	1025	10	25	16	37
+Newly Corp.	1026	10	26	16	38
+Time Domain	1027	10	27	16	39
+Inovys Corp.	1028	10	28	16	40
+Atlantic Coast Telesys	1029	10	29	16	41
+Ramos Technology Co., Ltd	102a	10	2a	16	42
+Infotronic America, Inc.	102b	10	2b	16	43
+Etoms Electronics Corp.	102c	10	2c	16	44
+Winic Corp.	102d	10	2d	16	45
+Comax Technology, Inc.	1031	10	31	16	49
+C-One Technology Corp.	1032	10	32	16	50
+Nucam Corp.	1033	10	33	16	51
+SteelSeries ApS	1038	10	38	16	56
+devolo AG	1039	10	39	16	57
+PSA	103a	10	3a	16	58
+Stanton	103d	10	3d	16	61
+iCreate Technologies Corp.	1043	10	43	16	67
+Chu Yuen Enterprise Co., Ltd	1044	10	44	16	68
+Winbond Electronics Corp. [hex]	1046	10	46	16	70
+Targus Group International	1048	10	48	16	72
+Mylex / Buslogic	104b	10	4b	16	75
+AMCO TEC International, Inc.	104c	10	4c	16	76
+Newport Corporation	104d	10	4d	16	77
+WB Electronics	104f	10	4f	16	79
+Yubico.com	1050	10	50	16	80
+Immanuel Electronics Co., Ltd	1053	10	53	16	83
+BMS International Beheer N.V.	1054	10	54	16	84
+Complex Micro Interconnection Co., Ltd	1055	10	55	16	85
+Hsin Chen Ent Co., Ltd	1056	10	56	16	86
+ON Semiconductor	1057	10	57	16	87
+Western Digital Technologies, Inc.	1058	10	58	16	88
+Giesecke & Devrient GmbH	1059	10	59	16	89
+Foxconn International, Inc.	105b	10	5b	16	91
+Hong Ji Electric Wire & Cable (Dongguan) Co., Ltd	105c	10	5c	16	92
+Delkin Devices, Inc.	105d	10	5d	16	93
+Valence Semiconductor Design, Ltd	105e	10	5e	16	94
+Chin Shong Enterprise Co., Ltd	105f	10	5f	16	95
+Easthome Industrial Co., Ltd	1060	10	60	16	96
+Motorola Electronics Taiwan, Ltd [hex]	1063	10	63	16	99
+CCYU Technology	1065	10	65	16	101
+Micropi Elettronica	1068	10	68	16	104
+Loyal Legend, Ltd	106a	10	6a	16	106
+Curitel Communications, Inc.	106c	10	6c	16	108
+San Chieh Manufacturing, Ltd	106d	10	6d	16	109
+ConectL	106e	10	6e	16	110
+Money Controls	106f	10	6f	16	111
+GCT Semiconductor, Inc.	1076	10	76	16	118
+Gateway, Inc.	107b	10	7b	16	123
+Arlec Australia, Ltd	107d	10	7d	16	125
+Midoriya Electric Co., Ltd	107e	10	7e	16	126
+KidzMouse, Inc.	107f	10	7f	16	127
+Shin-Etsukaken Co., Ltd	1082	10	82	16	130
+Canon Electronics, Inc.	1083	10	83	16	131
+Pantech Co., Ltd	1084	10	84	16	132
+Chloride Power Protection	108a	10	8a	16	138
+Grand-tek Technology Co., Ltd	108b	10	8b	16	139
+Robert Bosch GmbH	108c	10	8c	16	140
+Lotes Co., Ltd.	108e	10	8e	16	142
+Numerik Jena	1091	10	91	16	145
+Surface Optics Corp.	1099	10	99	16	153
+DATASOFT Systems GmbH	109a	10	9a	16	154
+Hisense	109b	10	9b	16	155
+eSOL Co., Ltd	109f	10	9f	16	159
+Hirotech, Inc.	10a0	10	a0	16	160
+Mitsubishi Materials Corp.	10a3	10	a3	16	163
+SK Teletech Co., Ltd	10a9	10	a9	16	169
+Cables To Go	10aa	10	aa	16	170
+USI Co., Ltd	10ab	10	ab	16	171
+Honeywell, Inc.	10ac	10	ac	16	172
+Princeton Technology Corp.	10ae	10	ae	16	174
+Liebert Corp.	10af	10	af	16	175
+Comodo (PLX?)	10b5	10	b5	16	181
+DiBcom	10b8	10	b8	16	184
+TM Technology, Inc.	10bb	10	bb	16	187
+Dinging Technology Co., Ltd	10bc	10	bc	16	188
+TMT Technology, Inc.	10bd	10	bd	16	189
+SmartHome	10bf	10	bf	16	191
+Universal Laser Systems, Inc.	10c3	10	c3	16	195
+Silicon Labs	10c4	10	c4	16	196
+Sanei Electric, Inc.	10c5	10	c5	16	197
+Intec, Inc.	10c6	10	c6	16	198
+Eratech	10cb	10	cb	16	203
+GBM Connector Co., Ltd	10cc	10	cc	16	204
+Kycon, Inc.	10cd	10	cd	16	205
+Silicon Labs	10ce	10	ce	16	206
+Velleman Components, Inc.	10cf	10	cf	16	207
+Hottinger Baldwin Measurement	10d1	10	d1	16	209
+RayComposer - R. Adams	10d2	10	d2	16	210
+Man Boon Manufactory, Ltd	10d4	10	d4	16	212
+Uni Class Technology Co., Ltd	10d5	10	d5	16	213
+Actions Semiconductor Co., Ltd	10d6	10	d6	16	214
+Authenex, Inc.	10de	10	de	16	222
+In-Win Development, Inc.	10df	10	df	16	223
+Post-Op Video, Inc.	10e0	10	e0	16	224
+CablePlus, Ltd	10e1	10	e1	16	225
+Nada Electronics, Ltd	10e2	10	e2	16	226
+Vast Technologies, Inc.	10ec	10	ec	16	236
+Nexio Co., Ltd	10f0	10	f0	16	240
+Importek	10f1	10	f1	16	241
+Turtle Beach	10f5	10	f5	16	245
+Cesys GmbH	10f8	10	f8	16	248
+Pictos Technologies, Inc.	10fb	10	fb	16	251
+Anubis Electronics, Ltd	10fd	10	fd	16	253
+Thrane & Thrane	10fe	10	fe	16	254
+VirTouch, Ltd	1100	11	00	17	0
+EasyPass Industrial Co., Ltd	1101	11	01	17	1
+Brightcom Technologies, Ltd	1108	11	08	17	8
+Moxa Technologies Co., Ltd.	110a	11	0a	17	10
+Analog Devices Canada, Ltd (Allied Telesyn)	1110	11	10	17	16
+Pandora International Ltd.	1111	11	11	17	17
+YM ELECTRIC CO., Ltd	1112	11	12	17	18
+Medion AG	1113	11	13	17	19
+VSO Electric Co., Ltd	111e	11	1e	17	30
+RedRat	112a	11	2a	17	42
+Master Hill Electric Wire and Cable Co., Ltd	112e	11	2e	17	46
+Cellon International, Inc.	112f	11	2f	17	47
+Tenx Technology, Inc.	1130	11	30	17	48
+Integrated System Solution Corp.	1131	11	31	17	49
+Toshiba Corp., Digital Media Equipment [hex]	1132	11	32	17	50
+CTS Electronincs	1136	11	36	17	54
+Arin Tech Co., Ltd	113c	11	3c	17	60
+Mapower Electronics Co., Ltd	113d	11	3d	17	61
+Integrated Biometrics, LLC	113f	11	3f	17	63
+V One Multimedia, Pte., Ltd	1141	11	41	17	65
+CyberScan Technologies, Inc.	1142	11	42	17	66
+Japan Radio Company	1145	11	45	17	69
+Shimane SANYO Electric Co., Ltd.	1146	11	46	17	70
+Ever Great Electric Wire and Cable Co., Ltd	1147	11	47	17	71
+Sphairon Access Systems GmbH	114b	11	4b	17	75
+Tinius Olsen Testing Machine Co., Inc.	114c	11	4c	17	76
+Alpha Imaging Technology Corp.	114d	11	4d	17	77
+Wavecom	114f	11	4f	17	79
+Salix Technology Co., Ltd.	115b	11	5b	17	91
+Secugen Corp.	1162	11	62	17	98
+DeLorme Publishing, Inc.	1163	11	63	17	99
+YUAN High-Tech Development Co., Ltd	1164	11	64	17	100
+Telson Electronics Co., Ltd	1165	11	65	17	101
+Bantam Interactive Technologies	1166	11	66	17	102
+Salient Systems Corp.	1167	11	67	17	103
+BizConn International Corp.	1168	11	68	17	104
+Gigastorage Corp.	116e	11	6e	17	110
+Silicon 10 Technology Corp.	116f	11	6f	17	111
+Shengyih Steel Mold Co., Ltd	1175	11	75	17	117
+Santa Electronic, Inc.	117d	11	7d	17	125
+JNC, Inc.	117e	11	7e	17	126
+Venture Corp., Ltd	1182	11	82	17	130
+Compaq Computer Corp. [hex] (Digital Dream ??)	1183	11	83	17	131
+Kyocera Elco Corp.	1184	11	84	17	132
+Bloomberg L.P.	1188	11	88	17	136
+Acer Communications & Multimedia	1189	11	89	17	137
+You Yang Technology Co., Ltd	118f	11	8f	17	143
+Tripace	1190	11	90	17	144
+Loyalty Founder Enterprise Co., Ltd	1191	11	91	17	145
+Yankee Robotics, LLC	1196	11	96	17	150
+Technoimagia Co., Ltd	1197	11	97	17	151
+StarShine Technology Corp.	1198	11	98	17	152
+Sierra Wireless, Inc.	1199	11	99	17	153
+ZHAN QI Technology Co., Ltd	119a	11	9a	17	154
+ruwido austria GmbH	119b	11	9b	17	155
+Chipcon AS	11a0	11	a0	17	160
+Technovas Co., Ltd	11a3	11	a3	17	163
+GlobalMedia Group, LLC	11aa	11	aa	17	170
+Exito Electronics Co., Ltd	11ab	11	ab	17	171
+Nike	11ac	11	ac	17	172
+ATECH FLASH TECHNOLOGY	11b0	11	b0	17	176
+R&D International NV	11be	11	be	17	190
+Betop	11c0	11	c0	17	192
+Inmax	11c5	11	c5	17	197
+Nacon	11c9	11	c9	17	201
+VeriFone Inc	11ca	11	ca	17	202
+Topfield Co., Ltd.	11db	11	db	17	219
+K.I. Technology Co. Ltd.	11e6	11	e6	17	230
+Siemens AG	11f5	11	f5	17	245
+Prolific	11f6	11	f6	17	246
+Alcatel (?)	11f7	11	f7	17	247
+TSC Auto ID Technology Co., Ltd	1203	12	03	18	3
+Generic	1209	12	09	18	9
+Hudson Soft Co., Ltd	120e	12	0e	18	14
+Magellan	120f	12	0f	18	15
+DigiTech	1210	12	10	18	16
+Jungsoft Co., Ltd	121e	12	1e	18	30
+Panini S.p.A.	121f	12	1f	18	31
+TC Electronic	1220	12	20	18	32
+Unknown manufacturer	1221	12	21	18	33
+TiPro	1222	12	22	18	34
+SKYCABLE ENTERPRISE. CO., LTD.	1223	12	23	18	35
+Datapaq Limited	1228	12	28	18	40
+Chipidea-Microelectronica, S.A.	1230	12	30	18	48
+Denver Electronics	1233	12	33	18	51
+Brain Actuated Technologies	1234	12	34	18	52
+Focusrite-Novation	1235	12	35	18	53
+Belkin	1241	12	41	18	65
+Holtek Semiconductor, Inc.	1243	12	43	18	67
+AirVast	124a	12	4a	18	74
+Nyko (Honey Bee)	124b	12	4b	18	75
+MXI - Memory Experts International, Inc.	124c	12	4c	18	76
+Apogee Inc.	125c	12	5c	18	92
+JMicron	125d	12	5d	18	93
+A-DATA Technology Co., Ltd.	125f	12	5f	18	95
+Standard Microsystems Corp.	1260	12	60	18	96
+Covidien Energy-based Devices	1264	12	64	18	100
+Pirelli Broadband Solutions	1266	12	66	18	102
+Logic3 / SpectraVideo plc	1267	12	67	18	103
+Aristocrat Technologies	126c	12	6c	18	108
+Bel Stewart	126d	12	6d	18	109
+Strobe Data, Inc.	126e	12	6e	18	110
+TwinMOS	126f	12	6f	18	111
+Ensoniq	1274	12	74	18	116
+Xaxero Marine Software Engineering, Ltd.	1275	12	75	18	117
+Starlight Xpress	1278	12	78	18	120
+zebris Medical GmbH	1283	12	83	18	131
+Marvell Semiconductor, Inc.	1286	12	86	18	134
+Qualcomm Flarion Technologies, Inc. / Leadtek Research, Inc.	1291	12	91	18	145
+Innomedia	1292	12	92	18	146
+Belkin Components [hex]	1293	12	93	18	147
+RISO KAGAKU CORP.	1294	12	94	18	148
+DekTec	1297	12	97	18	151
+CyberTAN Technology	129b	12	9b	18	155
+Trendchip Technologies Corp.	12a7	12	a7	18	167
+Honey Bee Electronic International Ltd.	12ab	12	ab	18	171
+Zhejiang Xinya Electronic Technology Co., Ltd.	12b8	12	b8	18	184
+E28	12b9	12	b9	18	185
+Licensed by Sony Computer Entertainment America	12ba	12	ba	18	186
+Gembird	12bd	12	bd	18	189
+Autocue Group Ltd	12c4	12	c4	18	196
+DEXIN	12cf	12	cf	18	207
+Huawei Technologies Co., Ltd.	12d1	12	d1	18	209
+LINE TECH INDUSTRIAL CO., LTD.	12d2	12	d2	18	210
+LINAK	12d3	12	d3	18	211
+EMS Dr. Thomas Wuensche	12d6	12	d6	18	214
+BETTER WIRE FACTORY CO., LTD.	12d7	12	d7	18	215
+Araneus Information Systems Oy	12d8	12	d8	18	216
+Waldorf Music GmbH	12e6	12	e6	18	230
+Tapwave, Inc.	12ef	12	ef	18	239
+ViewPlus Technologies, Inc.	12f2	12	f2	18	242
+Dynamic System Electronics Corp.	12f5	12	f5	18	245
+Memorex Products, Inc.	12f7	12	f7	18	247
+AIN Comm. Technology Co., Ltd	12fd	12	fd	18	253
+Fascinating Electronics, Inc.	12ff	12	ff	18	255
+FM20 Barcode Scanner	1306	13	06	19	6
+Transcend Information, Inc.	1307	13	07	19	7
+Shuttle, Inc.	1308	13	08	19	8
+Roper	1310	13	10	19	16
+ICS Electronics	1312	13	12	19	18
+ThorLabs	1313	13	13	19	19
+Natural Point	131d	13	1d	19	29
+ams AG	1325	13	25	19	37
+Envara Inc.	132a	13	2a	19	42
+Konica Minolta	132b	13	2b	19	43
+Kemper Digital GmbH	133e	13	3e	19	62
+Mobility	1342	13	42	19	66
+Citizen Systems	1343	13	43	19	67
+Sino Lite Technology Corp.	1345	13	45	19	69
+Moravian Instruments	1347	13	47	19	71
+Katsuragawa Electric Co., Ltd.	1348	13	48	19	72
+PanJit International Inc.	134c	13	4c	19	76
+'Digby''s Bitpile, Inc. DBA D Bit'	134e	13	4e	19	78
+P&E Microcomputer Systems	1357	13	57	19	87
+Insta GmbH	135e	13	5e	19	94
+Control Development Inc.	135f	13	5f	19	95
+SEGGER	1366	13	66	19	102
+STEC	136b	13	6b	19	107
+Andor Technology Ltd.	136e	13	6e	19	110
+Swissbit	1370	13	70	19	112
+CNet Technology Inc.	1371	13	71	19	113
+Vimtron Electronics Co., Ltd.	1376	13	76	19	118
+Sennheiser electronic GmbH & Co. KG	1377	13	77	19	119
+SCAPS GmbH	137b	13	7b	19	123
+YASKAWA ELECTRIC CORP.	137c	13	7c	19	124
+Netgear, Inc	1385	13	85	19	133
+Validity Sensors, Inc.	138a	13	8a	19	138
+Jungo LTD	138e	13	8e	19	142
+TOMTOM B.V.	1390	13	90	19	144
+IdealTEK, Inc.	1391	13	91	19	145
+DSEA A/S	1395	13	95	19	149
+BEHRINGER International GmbH	1397	13	97	19	151
+Q-tec	1398	13	98	19	152
+Baltech	13ad	13	ad	19	173
+PerkinElmer Optoelectronics	13b0	13	b0	19	176
+Linksys	13b1	13	b1	19	177
+Alesis	13b2	13	b2	19	178
+Nippon Dics Co., Ltd.	13b3	13	b3	19	179
+PCPlay	13ba	13	ba	19	186
+Ricoh Printing Systems, Ltd.	13be	13	be	19	190
+JyeTai Precision Industrial Co., Ltd.	13ca	13	ca	19	202
+Wisair Ltd.	13cf	13	cf	19	207
+Techsan Electronics Co., Ltd.	13d0	13	d0	19	208
+A-Max Technology Macao Commercial Offshore Co. Ltd.	13d1	13	d1	19	209
+Shark Multimedia	13d2	13	d2	19	210
+IMC Networks	13d3	13	d3	19	211
+Guidance Software, Inc.	13d7	13	d7	19	215
+ALEREON, INC.	13dc	13	dc	19	220
+i.Tech Dynamic Limited	13dd	13	dd	19	221
+Kaibo Wire & Cable (Shenzhen) Co., Ltd.	13e1	13	e1	19	225
+Rane	13e5	13	e5	19	229
+TechnoScope Co., Ltd.	13e6	13	e6	19	230
+Hengstler	13ea	13	ea	19	234
+Zydacron	13ec	13	ec	19	236
+MosArt	13ee	13	ee	19	238
+Initio Corporation	13fd	13	fd	19	253
+Phison Electronics Corp.	13fe	13	fe	19	254
+Axxion Group Corp.	1400	14	00	20	0
+Bowe Bell & Howell	1402	14	02	20	2
+Sitronix	1403	14	03	20	3
+Fundamental Software, Inc.	1404	14	04	20	4
+IDS Imaging Development Systems GmbH	1409	14	09	20	9
+Telechips, Inc.	140e	14	0e	20	14
+Novatel Wireless	1410	14	10	20	16
+Nam Tai E&E Products Ltd. or OmniVision Technologies, Inc.	1415	14	15	20	21
+ABILITY ENTERPRISE CO., LTD.	1419	14	19	20	25
+Sensor Technology	1421	14	21	20	33
+Posnet Polska S.A.	1424	14	24	20	36
+Vega Technologies Industrial (Austria) Co.	1429	14	29	20	41
+Thales E-Transactions	142a	14	2a	20	42
+Arbiter Systems, Inc.	142b	14	2b	20	43
+RedOctane	1430	14	30	20	48
+Pertech Resources, Inc.	1431	14	31	20	49
+Wistron NeWeb	1435	14	35	20	53
+Denali Software, Inc.	1436	14	36	20	54
+Altek Corporation	143c	14	3c	20	60
+Digilent	1443	14	43	20	67
+X.J.GROUP	1446	14	46	20	70
+Force Dimension	1451	14	51	20	81
+Dai Nippon Printing, Inc	1452	14	52	20	82
+Radio Shack	1453	14	53	20	83
+Extending Wire & Cable Co., Ltd.	1456	14	56	20	86
+First International Computer, Inc.	1457	14	57	20	87
+Trust	145f	14	5f	20	95
+Tatung Co.	1460	14	60	20	96
+Staccato Communications	1461	14	61	20	97
+Micro Star International	1462	14	62	20	98
+BigBen Interactive	146b	14	6b	20	107
+Huawei-3Com	1472	14	72	20	114
+Formosa Industrial Computing, Inc.	147a	14	7a	20	122
+Upek	147e	14	7e	20	126
+Hama GmbH & Co., KG	147f	14	7f	20	127
+Vaillant	1482	14	82	20	130
+Elsa AG [hex]	1484	14	84	20	132
+Silicom	1485	14	85	20	133
+DSP Group, Ltd.	1487	14	87	20	135
+EVATRONIX SA	148e	14	8e	20	142
+Ralink Technology, Corp.	148f	14	8f	20	143
+Futronic Technology Co. Ltd.	1491	14	91	20	145
+Suunto	1493	14	93	20	147
+Panstrong Company Ltd.	1497	14	97	20	151
+Microtek International Inc.	1498	14	98	20	152
+Imagination Technologies	149a	14	9a	20	154
+WideView Technology Inc.	14aa	14	aa	20	170
+CTK Corporation	14ad	14	ad	20	173
+Printronix Inc.	14ae	14	ae	20	174
+ATP Electronics Inc.	14af	14	af	20	175
+StarTech.com Ltd.	14b0	14	b0	20	176
+Ralink Technology, Corp.	14b2	14	b2	20	178
+Rockwell Automation, Inc.	14c0	14	c0	20	192
+Gemlight Computer, Ltd	14c2	14	c2	20	194
+Zytronic	14c8	14	c8	20	200
+Super Top	14cd	14	cd	20	205
+JAMER INDUSTRIES CO., LTD.	14d8	14	d8	20	216
+Raritan Computer, Inc.	14dd	14	dd	20	221
+WiNRADiO Communications	14e0	14	e0	20	224
+Dialogue Technology Corp.	14e1	14	e1	20	225
+SAIN Information & Communications Co., Ltd.	14e5	14	e5	20	229
+Planex Communications	14ea	14	ea	20	234
+Shure Inc.	14ed	14	ed	20	237
+TechniSat Digital GmbH	14f7	14	f7	20	247
+Ellisys	1500	15	00	21	0
+Pine-Tum Enterprise Co., Ltd.	1501	15	01	21	1
+Bixolon CO LTD	1504	15	04	21	4
+Fibocom	1508	15	08	21	8
+First International Computer, Inc.	1509	15	09	21	9
+medMobile	1513	15	13	21	19
+Actel	1514	15	14	21	20
+CompUSA	1516	15	16	21	22
+Cheshire Engineering Corp.	1518	15	18	21	24
+Comneon	1519	15	19	21	25
+Opal Kelly Incorporated	151f	15	1f	21	31
+Bitwire Corp.	1520	15	20	21	32
+ENE Technology Inc	1524	15	24	21	36
+Silicon Portals	1527	15	27	21	39
+UBIQUAM Co., Ltd.	1529	15	29	21	41
+Thesycon Systemsoftware & Consulting GmbH	152a	15	2a	21	42
+MIR Srl	152b	15	2b	21	43
+JMicron Technology Corp. / JMicron USA Technology Corp.	152d	15	2d	21	45
+LG (HLDS)	152e	15	2e	21	46
+Razer USA, Ltd	1532	15	32	21	50
+TerraTec Electronic GmbH	153b	15	3b	21	59
+U-Blox AG	1546	15	46	21	70
+SG Intec Ltd & Co KG	1547	15	47	21	71
+Celectronic GmbH	154a	15	4a	21	74
+PNY	154b	15	4b	21	75
+ConnectCounty Holdings Berhad	154d	15	4d	21	77
+D&M Holdings, Inc. (Denon/Marantz)	154e	15	4e	21	78
+SNBC CO., Ltd	154f	15	4f	21	79
+Prolink Microsystems Corp.	1554	15	54	21	84
+OQO	1557	15	57	21	87
+Sunf Pu Technology Co., Ltd	1568	15	68	21	104
+Quantum Corporation	156f	15	6f	21	111
+ALLTOP TECHNOLOGY CO., LTD.	1570	15	70	21	112
+Ketron SRL	157b	15	7b	21	123
+TRENDnet	157e	15	7e	21	126
+Fiberline	1582	15	82	21	130
+SMA Technologie AG	1587	15	87	21	135
+Oakley Inc.	158d	15	8d	21	141
+JDS Uniphase Corporation (JDSU)	158e	15	8e	21	142
+Kunshan Guoji Electronics Co., Ltd.	1598	15	98	21	152
+Freescale Semiconductor, Inc.	15a2	15	a2	21	162
+Afatech Technologies, Inc.	15a4	15	a4	21	164
+Teams Power Limited	15a8	15	a8	21	168
+Gemtek	15a9	15	a9	21	169
+Gearway Electronics (Dong Guan) Co., Ltd.	15aa	15	aa	21	170
+VMware Inc.	15ad	15	ad	21	173
+Olimex Ltd.	15ba	15	ba	21	186
+XL Imaging	15c0	15	c0	21	192
+SoundGraph Inc.	15c2	15	c2	21	194
+Pressure Profile Systems, Inc.	15c5	15	c5	21	197
+Laboratoires MXM	15c6	15	c6	21	198
+KTF Technologies	15c8	15	c8	21	200
+D-Box Technologies	15c9	15	c9	21	201
+Textech International Ltd.	15ca	15	ca	21	202
+Coulomb Electronics Ltd.	15d5	15	d5	21	213
+Trust International B.V.	15d9	15	d9	21	217
+Hynix Semiconductor Inc.	15dc	15	dc	21	220
+Seong Ji Industrial Co., Ltd.	15e0	15	e0	21	224
+RSA	15e1	15	e1	21	225
+Numark	15e4	15	e4	21	228
+SohoWare	15e8	15	e8	21	232
+Pacific Digital Corp.	15e9	15	e9	21	233
+Belcarra Technologies Corp.	15ec	15	ec	21	236
+HanfTek	15f4	15	f4	21	244
+Tascam	1604	16	04	22	4
+ACCES I/O Products, Inc.	1605	16	05	22	5
+Umax	1606	16	06	22	6
+Inside Out Networks [hex]	1608	16	08	22	8
+VIA Technologies, Inc.	160a	16	0a	22	10
+INRO	160e	16	0e	22	14
+Amoi Electronics	1614	16	14	22	20
+Sony Corp.	1617	16	17	22	23
+L & K Precision Technology Co., Ltd.	1619	16	19	22	25
+Digitech Systems	161c	16	1c	22	28
+Wionics Research	1621	16	21	22	33
+Stonestreet One, Inc.	1628	16	28	22	40
+Airgo Networks Inc.	162a	16	2a	22	42
+WiQuest Communications, Inc.	162f	16	2f	22	47
+2Wire, Inc.	1630	16	30	22	48
+Good Way Technology	1631	16	31	22	49
+AIM GmbH	1633	16	33	22	51
+Entrega [hex]	1645	16	45	22	69
+SofTec Microsystems	1649	16	49	22	73
+ChipX	164a	16	4a	22	74
+Matrix Vision GmbH	164c	16	4c	22	76
+Struck Innovative Systeme GmbH	1657	16	57	22	87
+Frontier Design Group	165b	16	5b	22	91
+Kondo Kagaku	165c	16	5c	22	92
+Creatix Polymedia GmbH	1660	16	60	22	96
+GIGA-TMS INC.	1667	16	67	22	103
+Actiontec Electronics, Inc. [hex]	1668	16	68	22	104
+PiKRON Ltd. [hex]	1669	16	69	22	105
+Clipsal	166a	16	6a	22	106
+China Huada Integrated Circuit Design (Group) Co., Ltd. (CIDC Group)	1677	16	77	22	119
+Total Phase	1679	16	79	22	121
+Pure Digital Technologies, Inc.	167b	16	7b	22	123
+Golden Bridge Electech Inc.	1680	16	80	22	128
+Prevo Technologies, Inc.	1681	16	81	22	129
+Maxwise Production Enterprise Ltd.	1682	16	82	22	130
+Godspeed Computer Corp.	1684	16	84	22	132
+Delock	1685	16	85	22	133
+ZOOM Corporation	1686	16	86	22	134
+Kingmax Digital Inc.	1687	16	87	22	135
+Saab AB	1688	16	88	22	136
+Razer USA, Ltd	1689	16	89	22	137
+Atheros Communications	168c	16	8c	22	140
+Askey Computer Corp. [hex]	1690	16	90	22	144
+Hitachi Video and Information System, Inc.	1696	16	96	22	150
+VTec Test, Inc.	1697	16	97	22	151
+Shenzhen Zhengerya Cable Co., Ltd.	16a5	16	a5	22	165
+Unigraf	16a6	16	a6	22	166
+Global Sun Technology	16ab	16	ab	22	171
+Dongguan ChingLung Wire & Cable Co., Ltd.	16ac	16	ac	22	172
+iStation	16b4	16	b4	22	180
+Persentec, Inc.	16b5	16	b5	22	181
+Van Ooijen Technische Informatica	16c0	16	c0	22	192
+Wireless Cables, Inc.	16ca	16	ca	22	202
+silex technology, Inc.	16cc	16	cc	22	204
+MCS	16d0	16	d0	22	208
+Suprema Inc.	16d1	16	d1	22	209
+Frontline Test Equipment, Inc.	16d3	16	d3	22	211
+AnyDATA Corporation	16d5	16	d5	22	213
+JABLOCOM s.r.o.	16d6	16	d6	22	214
+CMOTECH Co., Ltd.	16d8	16	d8	22	216
+Wiener, Plein & Baus	16dc	16	dc	22	220
+Telemecanique	16de	16	de	22	222
+King Billion Electronics Co., Ltd.	16df	16	df	22	223
+GN Hearing A/S	16f0	16	f0	22	240
+Futurelogic Inc.	16f5	16	f5	22	245
+FDI-MATELEC	1702	17	02	23	2
+BlueView Technologies, Inc.	1706	17	06	23	6
+ARTIMI	1707	17	07	23	7
+Swissonic	170b	17	0b	23	11
+Avnera	170d	17	0d	23	13
+Leica Microsystems	1711	17	11	23	17
+Meyer Instruments (MIS)	1724	17	24	23	36
+Vitesse Semiconductor	1725	17	25	23	37
+Axesstel, Inc.	1726	17	26	23	38
+Waltop International Corp.	172f	17	2f	23	47
+Cellink Technology Co., Ltd	1733	17	33	23	51
+CANON IMAGING SYSTEM TECHNOLOGIES INC.	1736	17	36	23	54
+802.11g Adapter [Linksys WUSB54GC v3]	1737	17	37	23	55
+Roche	173a	17	3a	23	58
+QSENN	173d	17	3d	23	61
+Senao	1740	17	40	23	64
+General Atomics	1743	17	43	23	67
+MQP Electronics	1748	17	48	23	72
+ASMedia Technology Inc.	174c	17	4c	23	76
+Syntek	174f	17	4f	23	79
+GERTEC Telecomunicacoes Ltda.	1753	17	53	23	83
+ENENSYS Technologies	1756	17	56	23	86
+LucidPort Technology, Inc.	1759	17	59	23	89
+ASUSTek Computer, Inc. (wrong ID)	1761	17	61	23	97
+MSI	1770	17	70	23	112
+System Level Solutions, Inc.	1772	17	72	23	114
+Arowana	1776	17	76	23	118
+Microscan Systems, Inc.	1777	17	77	23	119
+Sweex	177f	17	7f	23	127
+Multiple Vendors	1781	17	81	23	129
+Spreadtrum Communications Inc.	1782	17	82	23	130
+TopSeed Technology Corp.	1784	17	84	23	132
+ATI AIB	1787	17	87	23	135
+ShenZhen Litkconn Technology Co., Ltd.	1788	17	88	23	136
+ASUSTek Computer, Inc. (wrong ID)	178e	17	8e	23	142
+Printrex, Inc.	1796	17	96	23	150
+JALCO CO., LTD.	1797	17	97	23	151
+Thales Norway A/S	1799	17	99	23	153
+Ricavision International, Inc.	179d	17	9d	23	157
+Samson Technologies Corp.	17a0	17	a0	23	160
+Concept2	17a4	17	a4	23	164
+Advanced Connection Technology Inc.	17a5	17	a5	23	165
+MICOMSOFT CO., LTD.	17a7	17	a7	23	167
+Kamstrup A/S	17a8	17	a8	23	168
+Grey Innovation	17b3	17	b3	23	179
+Lunatone	17b5	17	b5	23	181
+SAURIS GmbH	17ba	17	ba	23	186
+Singim International Corp.	17c3	17	c3	23	195
+Native Instruments	17cc	17	cc	23	204
+Hip Hing Cable & Plug Mfy. Ltd.	17cf	17	cf	23	207
+Sanford L.P.	17d0	17	d0	23	208
+Korea Techtron Co., Ltd.	17d3	17	d3	23	211
+DisplayLink	17e9	17	e9	23	233
+Cornice, Inc.	17eb	17	eb	23	235
+Lenovo	17ef	17	ef	23	239
+WaveSense	17f4	17	f4	23	244
+K.K. Rocky	17f5	17	f5	23	245
+Unicomp, Inc.	17f6	17	f6	23	246
+Advantech	1809	18	09	24	9
+Twinhan	1822	18	22	24	34
+Gwo Jinn Industries Co., Ltd.	1831	18	31	24	49
+Huizhou Shenghua Industrial Co., Ltd.	1832	18	32	24	50
+VIVOphone	183d	18	3d	24	61
+Vaisala	1843	18	43	24	67
+ASRock Incorporation	1849	18	49	24	73
+K2L GmbH	184f	18	4f	24	79
+GYROCOM C&C Co., LTD	1852	18	52	24	82
+Memory Devices Ltd.	1854	18	54	24	84
+Compro	185b	18	5b	24	91
+Tech Technology Industrial Company	1861	18	61	24	97
+Teridian Semiconductor Corp.	1862	18	62	24	98
+Nexio Co., Ltd	1870	18	70	24	112
+Aveo Technology Corp.	1871	18	71	24	113
+Navilock	1873	18	73	24	115
+Alienware Corporation	187c	18	7c	24	124
+Siano Mobile Silicon	187f	18	7f	24	127
+Vast Technologies, Inc.	1892	18	92	24	146
+Topseed	1894	18	94	24	148
+Evertop Wire Cable Co.	1897	18	97	24	151
+3Shape A/S	189f	18	9f	24	159
+CSSN	18a4	18	a4	24	164
+Verbatim, Ltd	18a5	18	a5	24	165
+Petalynx	18b1	18	b1	24	177
+e3C Technologies	18b4	18	b4	24	180
+Mikkon Technology Limited	18b6	18	b6	24	182
+Zotek Electronic Co., Ltd.	18b7	18	b7	24	183
+AMIT Technology, Inc.	18c5	18	c5	24	197
+Ecamm	18cd	18	cd	24	205
+Google Inc.	18d1	18	d1	24	209
+Starline International Group Limited	18d5	18	d5	24	213
+Kaba	18d9	18	d9	24	217
+LKC Technologies, Inc.	18dc	18	dc	24	220
+Planon System Solutions Inc.	18dd	18	dd	24	221
+Fitipower Integrated Technology Inc	18e3	18	e3	24	227
+Qcom	18e8	18	e8	24	232
+Matrox Graphics, Inc.	18ea	18	ea	24	234
+Arkmicro Technologies Inc.	18ec	18	ec	24	236
+ELV Elektronik AG	18ef	18	ef	24	239
+[Maxxter]	18f8	18	f8	24	248
+Scriptel Corporation	18fb	18	fb	24	251
+FineArch Inc.	18fd	18	fd	24	253
+GE Healthcare	1901	19	01	25	1
+GEMBIRD	1908	19	08	25	8
+Motorola GSG	190d	19	0d	25	13
+Alco Digital Devices Limited	1914	19	14	25	20
+Nordic Semiconductor ASA	1915	19	15	25	21
+Innovative Technology LTD	191c	19	1c	25	28
+FitLinxx	1923	19	23	25	35
+NextWindow	1926	19	26	25	38
+Proceq SA	1928	19	28	25	40
+Avago Technologies, Pte.	192f	19	2f	25	47
+Shenzhen Xianhe Technology Co., Ltd.	1930	19	30	25	48
+Ningbo Broad Telecommunication Co., Ltd.	1931	19	31	25	49
+Feature Integration Technology Inc. (Fintek)	1934	19	34	25	52
+Elektron Music Machines	1935	19	35	25	53
+Meinberg Funkuhren GmbH & Co. KG	1938	19	38	25	56
+Dream Link	1941	19	41	25	65
+Sensoray Co., Inc.	1943	19	43	25	67
+Lab126, Inc.	1949	19	49	25	73
+PreSonus Audio Electronics, Inc.	194f	19	4f	25	79
+Hyperstone AG	1951	19	51	25	81
+Ironkey Inc.	1953	19	53	25	83
+Radiient Technologies	1954	19	54	25	84
+Itron Technology iONE	195d	19	5d	25	93
+IK Multimedia	1963	19	63	25	99
+Uniden Corporation	1965	19	65	25	101
+CASIO HITACHI Mobile Communications Co., Ltd.	1967	19	67	25	103
+Wispro Technology Inc.	196b	19	6b	25	107
+Dane-Elec Corp. USA	1970	19	70	25	112
+Spectralink Corporation	1973	19	73	25	115
+Dongguan Guneetal Wire & Cable Co., Ltd.	1975	19	75	25	117
+Chipsbrand Microelectronics (HK) Co., Ltd.	1976	19	76	25	118
+T-Logic	1977	19	77	25	119
+Leuze electronic	197d	19	7d	25	125
+Storage Appliance Corporation	1980	19	80	25	128
+Nuconn Technology Corp.	1989	19	89	25	137
+Beceem Communications Inc.	198f	19	8f	25	143
+Acron Precision Industrial Co., Ltd.	1990	19	90	25	144
+Trillium Technology Pty. Ltd.	1995	19	95	25	149
+PixeLINK	1996	19	96	25	150
+Shenzhen Riitek Technology Co., Ltd	1997	19	97	25	151
+MicroStrain, Inc.	199b	19	9b	25	155
+The Imaging Source Europe GmbH	199e	19	9e	25	158
+Benica Corporation	199f	19	9f	25	159
+HARRIS Corp.	19a5	19	a5	25	165
+Biforst Technology Inc.	19a8	19	a8	25	168
+Bodelin	19ab	19	ab	25	171
+S Life	19af	19	af	25	175
+Batronix	19b2	19	b2	25	178
+Celestron	19b4	19	b4	25	180
+B & W Group	19b5	19	b5	25	181
+Infotech Logistic, LLC	19b6	19	b6	25	182
+Data Robotics	19b9	19	b9	25	185
+Futuba	19c2	19	c2	25	194
+Mindtribe	19ca	19	ca	25	202
+Parrot SA	19cf	19	cf	25	207
+BYD	19d1	19	d1	25	209
+ZTE WCDMA Technologies MSM	19d2	19	d2	25	210
+KFI Printers	19db	19	db	25	219
+WeiDuan Electronic Accessory (S.Z.) Co., Ltd.	19e1	19	e1	25	225
+Industrial Technology Research Institute	19e8	19	e8	25	232
+Pak Heng Technology (Shenzhen) Co., Ltd.	19ef	19	ef	25	239
+RODE Microphones	19f7	19	f7	25	247
+Gampaq Co.Ltd	19fa	19	fa	25	250
+MTI Instruments Inc.	19fd	19	fd	25	253
+Dynex	19ff	19	ff	25	255
+Bellwood International, Inc.	1a08	1a	08	26	8
+USB-IF non-workshop	1a0a	1a	0a	26	10
+KES Co., Ltd.	1a12	1a	12	26	18
+Veho	1a1d	1a	1d	26	29
+Amphenol East Asia Ltd.	1a25	1a	25	26	37
+Seagate Branded Solutions	1a2a	1a	2a	26	42
+China Resource Semico Co., Ltd	1a2c	1a	2c	26	44
+Quanta Microsystems, Inc.	1a32	1a	32	26	50
+ACRUX	1a34	1a	34	26	52
+Biwin Technology Ltd.	1a36	1a	36	26	54
+Terminus Technology Inc.	1a40	1a	40	26	64
+Action Electronics Co., Ltd.	1a41	1a	41	26	65
+VASCO Data Security International	1a44	1a	44	26	68
+Silicon Image	1a4a	1a	4a	26	74
+SafeBoot International B.V.	1a4b	1a	4b	26	75
+Tandberg Data	1a5a	1a	5a	26	90
+Abbott Diabetes Care	1a61	1a	61	26	97
+Mastervolt	1a64	1a	64	26	100
+Spansion Inc.	1a6a	1a	6a	26	106
+SamYoung Electronics Co., Ltd	1a6d	1a	6d	26	109
+Global Unichip Corp.	1a6e	1a	6e	26	110
+Sagem Orga GmbH	1a6f	1a	6f	26	111
+Physik Instrumente	1a72	1a	72	26	114
+Bayer Health Care LLC	1a79	1a	79	26	121
+Lumberg Connect  GmbH & Co. KG	1a7b	1a	7b	26	123
+Evoluent	1a7c	1a	7c	26	124
+Meltec Systementwicklung	1a7e	1a	7e	26	126
+Holtek Semiconductor, Inc.	1a81	1a	81	26	129
+QinHeng Electronics	1a86	1a	86	26	134
+Dynalith Systems Co., Ltd.	1a89	1a	89	26	137
+SGS Taiwan Ltd.	1a8b	1a	8b	26	139
+BandRich, Inc.	1a8d	1a	8d	26	141
+Leica Camera AG	1a98	1a	98	26	152
+Data Drive Thru, Inc.	1aa4	1a	a4	26	164
+UBeacon Technologies, Inc.	1aa5	1a	a5	26	165
+eFortune Technology Corp.	1aa6	1a	a6	26	166
+Silvercreations Software AG	1aab	1a	ab	26	171
+KeeTouch	1aad	1a	ad	26	173
+Rigol Technologies	1ab1	1a	b1	26	177
+Allied Vision	1ab2	1a	b2	26	178
+Salcomp Plc	1acb	1a	cb	26	203
+Midiplus Co, Ltd.	1acc	1a	cc	26	204
+Desay Wire Co., Ltd.	1ad1	1a	d1	26	209
+APS	1ad4	1a	d4	26	212
+Schweitzer Engineering Laboratories, Inc	1adb	1a	db	26	219
+ic-design Reinhard Gottinger GmbH	1ae4	1a	e4	26	228
+X-TENSIONS	1ae7	1a	e7	26	231
+High Top Precision Electronic Co., Ltd.	1aed	1a	ed	26	237
+Conntech Electronic (Suzhou) Corporation	1aef	1a	ef	26	239
+Connect One Ltd.	1af1	1a	f1	26	241
+Kingsis Technology Corporation	1af3	1a	f3	26	243
+A. Eberle GmbH & Co. KG	1afe	1a	fe	26	254
+Meilhaus Electronic GmbH	1b04	1b	04	27	4
+BLUTRONICS S.r.l.	1b0e	1b	0e	27	14
+Eventide	1b12	1b	12	27	18
+Corsair	1b1c	1b	1c	27	28
+General Imaging / General Electric	1b1e	1b	1e	27	30
+eQ-3 Entwicklung GmbH	1b1f	1b	1f	27	31
+MStar Semiconductor, Inc.	1b20	1b	20	27	32
+WiLinx Corp.	1b22	1b	22	27	34
+Telegent Systems, Inc.	1b24	1b	24	27	36
+Cellex Power Products, Inc.	1b26	1b	26	27	38
+Current Electronics Inc.	1b27	1b	27	27	39
+NAVIsis Inc.	1b28	1b	28	27	40
+Ugobe Life Forms, Inc.	1b32	1b	32	27	50
+ViXS Systems, Inc.	1b36	1b	36	27	54
+iPassion Technology Inc.	1b3b	1b	3b	27	59
+Generalplus Technology Inc.	1b3f	1b	3f	27	63
+Energizer Holdings, Inc.	1b47	1b	47	27	71
+Plastron Precision Co., Ltd.	1b48	1b	48	27	72
+ARH Inc.	1b52	1b	52	27	82
+K.S. Terminals Inc.	1b59	1b	59	27	89
+Chao Zhou Kai Yuan Electric Co., Ltd.	1b5a	1b	5a	27	90
+The Hong Kong Standards and Testing Centre Ltd.	1b65	1b	65	27	101
+Fushicai	1b71	1b	71	27	113
+ATERGI TECHNOLOGY CO., LTD.	1b72	1b	72	27	114
+Fresco Logic	1b73	1b	73	27	115
+Ovislink Corp.	1b75	1b	75	27	117
+Legend Silicon Corp.	1b76	1b	76	27	118
+Afatech	1b80	1b	80	27	128
+Dongguan Guanshang Electronics Co., Ltd.	1b86	1b	86	27	134
+ShenMing Electron (Dong Guan) Co., Ltd.	1b88	1b	88	27	136
+Altium Limited	1b8c	1b	8c	27	140
+e-MOVE Technology Co., Ltd.	1b8d	1b	8d	27	141
+Amlogic, Inc.	1b8e	1b	8e	27	142
+MA LABS, Inc.	1b8f	1b	8f	27	143
+N-Trig	1b96	1b	96	27	150
+YMax Communications Corp.	1b98	1b	98	27	152
+Shenzhen Yuanchuan Electronic	1b99	1b	99	27	153
+JINQ CHERN ENTERPRISE CO., LTD.	1ba1	1b	a1	27	161
+Lite Metals & Plastic (Shenzhen) Co., Ltd.	1ba2	1b	a2	27	162
+Ember Corporation	1ba4	1b	a4	27	164
+Abilis Systems	1ba6	1b	a6	27	166
+China Telecommunication Technology Labs	1ba8	1b	a8	27	168
+Harmonix Music	1bad	1b	ad	27	173
+Vuzix Corporation	1bae	1b	ae	27	174
+T & A Mobile Phones	1bbb	1b	bb	27	187
+Videology Imaging Solutions, Inc.	1bbd	1b	bd	27	189
+Beijing Senseshield Technology Co.,Ltd.	1bc0	1b	c0	27	192
+Ford Motor Co.	1bc4	1b	c4	27	196
+AVIXE Technology (China) Ltd.	1bc5	1b	c5	27	197
+Telit Wireless Solutions	1bc7	1b	c7	27	199
+Contac Cable Industrial Limited	1bce	1b	ce	27	206
+Sunplus Innovation Technology Inc.	1bcf	1b	cf	27	207
+Hangzhou Riyue Electronic Co., Ltd.	1bd0	1b	d0	27	208
+BG Systems, Inc.	1bd5	1b	d5	27	213
+University Of Southampton	1bda	1b	da	27	218
+P-TWO INDUSTRIES, INC.	1bde	1b	de	27	222
+Shenzhen Tongyuan Network-Communication Cables Co., Ltd	1bef	1b	ef	27	239
+RealVision Inc.	1bf0	1b	f0	27	240
+Extranet Systems Inc.	1bf5	1b	f5	27	245
+Orient Semiconductor Electronics, Ltd.	1bf6	1b	f6	27	246
+TouchPack	1bfd	1b	fd	27	253
+Kreton Corporation	1c02	1c	02	28	2
+QNAP System Inc.	1c04	1c	04	28	4
+Shenxhen Stager Electric	1c05	1c	05	28	5
+Ionics EMS, Inc.	1c0c	1c	0c	28	12
+Relm Wireless	1c0d	1c	0d	28	13
+Lanterra Industrial Co., Ltd.	1c10	1c	10	28	16
+Input Club Inc.	1c11	1c	11	28	17
+ALECTRONIC LIMITED	1c13	1c	13	28	19
+Datel Electronics Ltd.	1c1a	1c	1a	28	26
+Volkswagen of America, Inc.	1c1b	1c	1b	28	27
+Goldvish S.A.	1c1f	1c	1f	28	31
+Fuji Electric Device Technology Co., Ltd.	1c20	1c	20	28	32
+ADDMM LLC	1c21	1c	21	28	33
+ZHONGSHAN CHIANG YU ELECTRIC CO., LTD.	1c22	1c	22	28	34
+Shanghai Haiying Electronics Co., Ltd.	1c26	1c	26	28	38
+HuiYang D & S Cable Co., Ltd.	1c27	1c	27	28	39
+PMD Technologies	1c28	1c	28	28	40
+Elster GmbH	1c29	1c	29	28	41
+LS Cable Ltd.	1c31	1c	31	28	49
+SpringCard	1c34	1c	34	28	52
+Authorizer Technologies, Inc.	1c37	1c	37	28	55
+NONIN MEDICAL INC.	1c3d	1c	3d	28	61
+Wep Peripherals	1c3e	1c	3e	28	62
+EZPrototypes	1c40	1c	40	28	64
+Cherng Weei Technology Corp.	1c49	1c	49	28	73
+Geratherm Medical AG	1c4b	1c	4b	28	75
+SiGma Micro	1c4f	1c	4f	28	79
+Zalman Tech Co., Ltd.	1c57	1c	57	28	87
+Philips & Lite-ON Digital Solutions Corporation	1c6b	1c	6b	28	107
+Skydigital Inc.	1c6c	1c	6c	28	108
+Humanware Inc	1c71	1c	71	28	113
+AMT	1c73	1c	73	28	115
+Arturia	1c75	1c	75	28	117
+Kaetat Industrial Co., Ltd.	1c77	1c	77	28	119
+Datascope Corp.	1c78	1c	78	28	120
+Unigen Corporation	1c79	1c	79	28	121
+LighTuning Technology Inc.	1c7a	1c	7a	28	122
+LUXSHARE PRECISION INDUSTRY (SHENZHEN) CO., LTD.	1c7b	1c	7b	28	123
+Atracsys	1c82	1c	82	28	130
+Schomaecker GmbH	1c83	1c	83	28	131
+2N TELEKOMUNIKACE a.s.	1c87	1c	87	28	135
+Somagic, Inc.	1c88	1c	88	28	136
+HONGKONG WEIDIDA ELECTRON LIMITED	1c89	1c	89	28	137
+ASTRON INTERNATIONAL CORP.	1c8e	1c	8e	28	142
+ALPINE ELECTRONICS, INC.	1c98	1c	98	28	152
+OMEGA TECHNOLOGY	1c9e	1c	9e	28	158
+ACCARIO Inc.	1ca0	1c	a0	28	160
+Symwave	1ca1	1c	a1	28	161
+Kinstone	1cac	1c	ac	28	172
+Aces Electronic Co., Ltd.	1cb3	1c	b3	28	179
+OPEX CORPORATION	1cb4	1c	b4	28	180
+IdeaCom Technology Inc.	1cb6	1c	b6	28	182
+Luminary Micro Inc.	1cbe	1c	be	28	190
+FORTAT SKYMARK INDUSTRIAL COMPANY	1cbf	1c	bf	28	191
+PlantSense	1cc0	1c	c0	28	192
+NextWave Broadband Inc.	1cca	1c	ca	28	202
+Bodatong Technology (Shenzhen) Co., Ltd.	1ccd	1c	cd	28	205
+adp corporation	1cd4	1c	d4	28	212
+Firecomms Ltd.	1cd5	1c	d5	28	213
+Antonio Precise Products Manufactory Ltd.	1cd6	1c	d6	28	214
+Telecommunications Technology Association (TTA)	1cde	1c	de	28	222
+WonTen Technology Co., Ltd.	1cdf	1c	df	28	223
+EDIMAX TECHNOLOGY CO., LTD.	1ce0	1c	e0	28	224
+Amphenol KAE	1ce1	1c	e1	28	225
+Dresden Elektronik	1cf1	1c	f1	28	241
+ANDES TECHNOLOGY CORPORATION	1cfc	1c	fc	28	252
+Flextronics Digital Design Japan, LTD.	1cfd	1c	fd	28	253
+iCON	1d03	1d	03	29	3
+Solid-Motion	1d07	1d	07	29	7
+NINGBO HENTEK DRAGON ELECTRONICS CO., LTD.	1d08	1d	08	29	8
+TechFaith Wireless Technology Limited	1d09	1d	09	29	9
+Johnson Controls, Inc. The Automotive Business Unit	1d0a	1d	0a	29	10
+HAN HUA CABLE & WIRE TECHNOLOGY (J.X.) CO., LTD.	1d0b	1d	0b	29	11
+TDKMedia	1d0d	1d	0d	29	13
+Sonix Technology Co., Ltd.	1d0f	1d	0f	29	15
+ALPHA-SAT TECHNOLOGY LIMITED	1d14	1d	14	29	20
+C-Thru Music Ltd.	1d17	1d	17	29	23
+Dexatek Technology Ltd.	1d19	1d	19	29	25
+Diostech Co., Ltd.	1d1f	1d	1f	29	31
+SAMTACK INC.	1d20	1d	20	29	32
+ASUS	1d27	1d	27	29	39
+Dream Cheeky	1d34	1d	34	29	52
+Touch	1d45	1d	45	29	69
+PEGATRON CORPORATION	1d4d	1d	4d	29	77
+OpenMoko, Inc.	1d50	1d	50	29	80
+Xenta	1d57	1d	57	29	87
+Smartronix, Inc.	1d5b	1d	5b	29	91
+Fresco Logic	1d5c	1d	5c	29	92
+Linux Foundation	1d6b	1d	6b	29	107
+Mahr GmbH	1d88	1d	88	29	136
+Citizen	1d90	1d	90	29	144
+Sigma Sport	1d9d	1d	9d	29	157
+Leo Bodnar Electronics Ltd	1dd2	1d	d2	29	210
+Dajc Inc.	1dd3	1d	d3	29	211
+Actions Microelectronics Co.	1de1	1d	e1	29	225
+MICRORISC s.r.o.	1de6	1d	e6	29	230
+SDRplay	1df7	1d	f7	29	247
+Qualcomm / Option	1e0e	1e	0e	30	14
+Point Grey Research, Inc.	1e10	1e	10	30	16
+Mirion Technologies Dosimetry Services Division	1e17	1e	17	30	23
+Kanguru Solutions	1e1d	1e	1d	30	29
+INVIA	1e1f	1e	1f	30	31
+Festo AG & Co. KG	1e29	1e	29	30	41
+Gemalto M2M GmbH	1e2d	1e	2d	30	45
+Chipsbank Microelectronics Co., Ltd	1e3d	1e	3d	30	61
+Cleverscope	1e41	1e	41	30	65
+SHIMANO INC.	1e44	1e	44	30	68
+Cubeternet	1e4e	1e	4e	30	78
+TypeMatrix	1e54	1e	54	30	84
+TrekStor GmbH & Co. KG	1e68	1e	68	30	104
+NZXT	1e71	1e	71	30	113
+Coby Electronics Corporation	1e74	1e	74	30	116
+Zurich Instruments	1e7b	1e	7b	30	123
+ROCCAT	1e7d	1e	7d	30	125
+Airbus Defence and Space	1e8e	1e	8e	30	142
+Other World Computing	1e91	1e	91	30	145
+SHARKOON Technologies GmbH	1ea7	1e	a7	30	167
+Fujian Newland Computer Co., Ltd	1eab	1e	ab	30	171
+Leaflabs	1eaf	1e	af	30	175
+Modacom Co., Ltd.	1eb8	1e	b8	30	184
+NuCORE Technology, Inc.	1ebb	1e	bb	30	187
+AMTelecom	1ecb	1e	cb	30	203
+FENDER MUSICAL INSTRUMENTS CORPORATION	1ed8	1e	d8	30	216
+AirTies Wireless Networks	1eda	1e	da	30	218
+Blackmagic design	1edb	1e	db	30	219
+ONDA COMMUNICATION S.p.a.	1ee8	1e	e8	30	232
+EADS Deutschland GmbH	1ef6	1e	f6	30	246
+CMX Systems	1f0c	1f	0c	31	12
+Cal-Comp	1f28	1f	28	31	40
+Allwinner Technology	1f3a	1f	3a	31	58
+The Neat Company	1f44	1f	44	31	68
+H-TRONIC GmbH	1f48	1f	48	31	72
+G-Tek Electronics Group	1f4d	1f	4d	31	77
+Systems & Electronic Development FZCO (SEDCO)	1f52	1f	52	31	82
+Aliph	1f6f	1f	6f	31	111
+Innostor Technology Corporation	1f75	1f	75	31	117
+TANDBERG	1f82	1f	82	31	130
+Alere, Inc.	1f84	1f	84	31	132
+Stantum	1f87	1f	87	31	135
+Ubiquiti Networks, Inc.	1f9b	1f	9b	31	155
+Samsung Opto-Electroncs Co., Ltd.	1fab	1f	ab	31	171
+Franklin Wireless	1fac	1f	ac	31	172
+Lumidigm	1fae	1f	ae	31	174
+Withings	1fb2	1f	b2	31	178
+DERMALOG Identification Systems GmbH	1fba	1f	ba	31	186
+Delphin Technology AG	1fbd	1f	bd	31	189
+NXP Semiconductors	1fc9	1f	c9	31	201
+ILX Lightwave Corporation	1fde	1f	de	31	222
+Vertex Wireless Co., Ltd.	1fe7	1f	e7	31	231
+CVT Electronics.Co.,Ltd	1ff7	1f	f7	31	247
+Pololu Corporation	1ffb	1f	fb	31	251
+Ideofy Inc.	1fff	1f	ff	31	255
+CMX Systems	2000	20	00	32	0
+D-Link Corp.	2001	20	01	32	1
+DAP Technologies	2002	20	02	32	2
+detectomat	2003	20	03	32	3
+LenovoMobile	2006	20	06	32	6
+iStorage	2009	20	09	32	9
+Reloop	200c	20	0c	32	12
+PCTV Systems	2013	20	13	32	19
+Deutsche Telekom AG	2018	20	18	32	24
+PLANEX	2019	20	19	32	25
+Haier	201e	20	1e	32	30
+PARALLELS	203a	20	3a	32	58
+Encore Electronics Inc.	203d	20	3d	32	61
+Hauppauge	2040	20	40	32	64
+Texas Instruments	2047	20	47	32	71
+Nano River Technology	2058	20	58	32	88
+Taicang T&W Electronics Co. Ltd	2077	20	77	32	119
+Barnes & Noble	2080	20	80	32	128
+SIMPASS	2086	20	86	32	134
+Cando	2087	20	87	32	135
+Clay Logic	20a0	20	a0	32	160
+XMOS Ltd	20b1	20	b1	32	177
+Hanvon	20b3	20	b3	32	179
+Qi Hardware	20b7	20	b7	32	183
+ShenZhen ShanWan Technology Co., Ltd.	20bc	20	bc	32	188
+Minicircuits	20ce	20	ce	32	206
+Simtec Electronics	20df	20	df	32	223
+L3Harris Technologies	20f0	20	f0	32	240
+NET New Electronic Technology GmbH	20f1	20	f1	32	241
+TRENDnet	20f4	20	f4	32	244
+XIMEA	20f7	20	f7	32	247
+RT Systems	2100	21	00	33	0
+ActionStar	2101	21	01	33	1
+Tobii Technology AB	2104	21	04	33	4
+RDING TECH CO.,LTD	2107	21	07	33	7
+VIA Labs, Inc.	2109	21	09	33	9
+Softkinetic	2113	21	13	33	19
+KT Tech	2116	21	16	33	22
+CELOT Corporation	211f	21	1f	33	31
+Cheeky Dream	2123	21	23	33	35
+Fiberpro Inc.	2125	21	25	33	37
+signotec GmbH	2133	21	33	33	51
+Advanced Silicon S.A.	2149	21	49	33	73
+Huasheng Electronics	214b	21	4b	33	75
+Swiftpoint	214e	21	4e	33	78
+Broadxent (Creative Labs)	2162	21	62	33	98
+JVC Kenwood	2166	21	66	33	102
+GW Instek	2184	21	84	33	132
+No brand	2188	21	88	33	136
+Seal One AG	219c	21	9c	33	156
+Emotiv Systems Pty. Ltd.	21a1	21	a1	33	161
+Electronic Arts Inc.	21a4	21	a4	33	164
+Saleae, Inc.	21a9	21	a9	33	169
+Planeta Informatica	21ab	21	ab	33	171
+AudioQuest	21b4	21	b4	33	180
+Agecodagis SARL	21d6	21	d6	33	214
+Fuzhou Rockchip Electronics Company	2207	22	07	34	7
+ZTEX GmbH	221a	22	1a	34	26
+MacAlly	2222	22	22	34	34
+Copper Mountain technologies	2226	22	26	34	38
+SAMWOO Enterprise	2227	22	27	34	39
+ILI Technology Corp.	222a	22	2a	34	42
+Plugable	2230	22	30	34	48
+Silicon Motion	2232	22	32	34	50
+RadioShack Corporation	2233	22	33	34	51
+Kobo Inc.	2237	22	37	34	55
+Aspeed Technology, Inc.	2245	22	45	34	69
+APDM	224f	22	4f	34	79
+Faderfox	2256	22	56	34	86
+Morpho	225d	22	5d	34	93
+DISPLAX	226e	22	6e	34	110
+8D Technologies inc.	228d	22	8d	34	141
+VERZO Technology	22a4	22	a4	34	164
+Pie Digital, Inc.	22a6	22	a6	34	166
+Fortinet Technologies	22a7	22	a7	34	167
+Secret Labs LLC	22b1	22	b1	34	177
+Motorola PCS	22b8	22	b8	34	184
+eTurboTouch Technology, Inc.	22b9	22	b9	34	185
+Technology Innovation Holdings, Ltd	22ba	22	ba	34	186
+StepOver GmbH	22c9	22	c9	34	201
+Kinova Robotics Inc.	22cd	22	cd	34	205
+Laview Technology	22d4	22	d4	34	212
+OPPO Electronics Corp.	22d9	22	d9	34	217
+Phase One	22db	22	db	34	219
+Mellanox Technologies	22dc	22	dc	34	220
+WeTelecom Incorporated	22de	22	de	34	222
+Medicom MTD, Ltd	22df	22	df	34	223
+secunet Security Networks AG	22e0	22	e0	34	224
+Cambridge Audio	22e8	22	e8	34	232
+Pinnacle Systems, Inc.	2304	23	04	35	4
+TimeLink Technology Co., Ltd	2309	23	09	35	9
+Teracom	230d	23	0d	35	13
+INQ Mobile	2314	23	14	35	20
+Shining Technologies, Inc. [hex]	2318	23	18	35	24
+Tronsmart	2319	23	19	35	25
+Pantum Ltd.	232b	23	2b	35	43
+EA Elektro-Automatik GmbH & Co. KG	232e	23	2e	35	46
+Teleepoch	2340	23	40	35	64
+Arduino SA	2341	23	41	35	65
+P2 Engineering Group, LLC	2349	23	49	35	73
+Free Software Initiative of Japan	234b	23	4b	35	75
+TP-Link	2357	23	57	35	87
+Bitmanufaktur GmbH	2366	23	66	35	102
+Teenage Engineering	2367	23	67	35	103
+Peterson Electro-Musical Products Inc.	2368	23	68	35	104
+SiBEAM	236a	23	6a	35	106
+Pumatronix Ltda	2373	23	73	35	115
+Digit@lway, Inc.	2375	23	75	35	117
+OnLive	2378	23	78	35	120
+Cradlepoint	237d	23	7d	35	125
+Raydium Corporation	2386	23	86	35	134
+Hytera Communications	238b	23	8b	35	139
+Adafruit	239a	23	9a	35	154
+BIFIT	23a0	23	a0	35	160
+Tronical Components GmbH	23a6	23	a6	35	166
+Dental Wings Inc.	23b4	23	b4	35	180
+Gemini	23c7	23	c7	35	199
+SesKion GmbH	23fc	23	fc	35	252
+Custom Computer Services, Inc	2405	24	05	36	5
+SANHO Digital Electronics Co., Ltd.	2406	24	06	36	6
+IRiver	2420	24	20	36	32
+Vossloh-Schwabe Deutschland GmbH	242e	24	2e	36	46
+ASETEK	2433	24	33	36	51
+Aessent Technology Ltd	2443	24	43	36	67
+Ocean Optics Inc.	2457	24	57	36	87
+Bluegiga Technologies	2458	24	58	36	88
+Chord Electronics Limited	245f	24	5f	36	95
+Nest	2464	24	64	36	100
+Fractal Audio Systems	2466	24	66	36	102
+YEI Technology	2476	24	76	36	118
+Tripp-Lite	2478	24	78	36	120
+Maxxter	248a	24	8a	36	138
+M2Tech s.r.l.	249c	24	9c	36	156
+Primare AB	24a4	24	a4	36	164
+Shenzhen Rapoo Technology Co., Ltd.	24ae	24	ae	36	174
+Chaney Instrument	24c0	24	c0	36	192
+ThrustMaster, Inc.	24c6	24	c6	36	198
+Lytro, Inc.	24cf	24	cf	36	207
+Aladdin R.D.	24dc	24	dc	36	220
+Yoctopuce Sarl	24e0	24	e0	36	224
+Paratronic	24e1	24	e1	36	225
+K-Touch	24e3	24	e3	36	227
+Meva	24ea	24	ea	36	234
+Zen Group	24ed	24	ed	36	237
+Metadot	24f0	24	f0	36	240
+Acroname Inc.	24ff	24	ff	36	255
+Ettus Research LLC	2500	25	00	37	0
+Cooler Master Co., Ltd.	2516	25	16	37	22
+ANA-U GmbH	2520	25	20	37	32
+Software Bisque	2527	25	27	37	39
+Norelsys	2537	25	37	37	55
+Energy Micro AS	2544	25	44	37	68
+Ravensburger	2546	25	46	37	70
+Pulse-Eight	2548	25	48	37	72
+SHF Communication Technologies AG	254e	25	4e	37	78
+ASSA ABLOY AB	2554	25	54	37	84
+Basis Science Inc.	2555	25	55	37	85
+Beijing Bonxeon Technology Co., Ltd.	255e	25	5e	37	94
+e-con Systems	2560	25	60	37	96
+ShenZhen ShanWan Technology Co., Ltd.	2563	25	63	37	99
+Perreaux Industries Ltd	256b	25	6b	37	107
+3Dconnexion	256f	25	6f	37	111
+ESI Audiotechnik GmbH	2573	25	73	37	115
+AVer Information, Inc.	2574	25	74	37	116
+Weida Hi-Tech Co., Ltd.	2575	25	75	37	117
+AFO Co., Ltd.	2576	25	76	37	118
+Pluscom	2578	25	78	37	120
+Plug-up	2581	25	81	37	129
+Sequans Communications	258d	25	8d	37	141
+TriQuint Semiconductor	259a	25	9a	37	154
+Areson Technology Corp	25a7	25	a7	37	167
+FlatFrog	25b5	25	b5	37	181
+Brunner Elektronik AG	25bb	25	bb	37	187
+Elegant Invention	25bf	25	bf	37	191
+ARCAM	25c4	25	c4	37	196
+Vitus Audio (AVA Group A/S)	25c6	25	c6	37	198
+Visual Planet Ltd	25c8	25	c8	37	200
+Netatmo	25da	25	da	37	218
+Bit4id Srl	25dd	25	dd	37	221
+Lumigon	25e3	25	e3	37	227
+ShanWan	25f0	25	f0	37	240
+Pentax Ricoh Imaging Co., Ltd	25fb	25	fb	37	251
+Tenda	2604	26	04	38	4
+MilDef AB	2625	26	25	38	37
+Aruba Networks	2626	26	26	38	38
+SAVITECH Corp.	262a	26	2a	38	42
+TwinMOS	2632	26	32	38	50
+Xsens	2639	26	39	38	57
+Thermaltake	264a	26	4a	38	74
+Electronics For Imaging, Inc. [hex]	2650	26	50	38	80
+Sundtek	2659	26	59	38	89
+Moog Music Inc.	2662	26	62	38	98
+Silicon Integrated Systems	266e	26	6e	38	110
+GoPro	2672	26	72	38	114
+Basler AG	2676	26	76	38	118
+Cardo Peripheral Systems LTD	2685	26	85	38	133
+Fitbit Inc.	2687	26	87	38	135
+StepOver International GmbH	2689	26	89	38	137
+Dimension Engineering	268b	26	8b	38	139
+Research Industrial Systems Engineering	26a9	26	a9	38	169
+Yaesu Musen	26aa	26	aa	38	170
+Electrocompaniet	26b5	26	b5	38	181
+Integral Memory	26bd	26	bd	38	189
+Ingenieurbuero Dietzsch und Thiele, PartG	26e2	26	e2	38	226
+Micromega	26f2	26	f2	38	242
+Bardac Corporation	2707	27	07	39	7
+Rosand Technologies	270d	27	0d	39	13
+Xiaomi Inc.	2717	27	17	39	23
+StarLeaf Ltd.	272a	27	2a	39	42
+Signum Systems	272c	27	2c	39	44
+Citizen	2730	27	30	39	48
+DigitalWay	2735	27	35	39	53
+Hughski Limited	273f	27	3f	39	63
+Victor Hasselblad AB	2756	27	56	39	86
+Philip Morris Products S.A.	2759	27	59	39	89
+Firstbeat Technologies, Ltd.	2765	27	65	39	101
+LifeScan	2766	27	66	39	102
+NHJ, Ltd	2770	27	70	39	112
+Square, Inc.	27a8	27	a8	39	168
+ThingM	27b8	27	b8	39	184
+Codethink Ltd.	27bd	27	bd	39	189
+Cadwell Laboratories, Inc.	27c0	27	c0	39	192
+Shenzhen Goodix Technology Co.,Ltd.	27c6	27	c6	39	198
+Blackstar Amplification Limited	27d4	27	d4	39	212
+Mindeo	27dd	27	dd	39	221
+Softnautics LLP	27f2	27	f2	39	242
+StarLine LLC.	2803	28	03	40	3
+SIMPASS	2806	28	06	40	6
+Signal Hound, Inc.	2817	28	17	40	23
+Codex Digital Limited	2818	28	18	40	24
+ASUSTek Computer Inc.	2821	28	21	40	33
+REFLEXdigital	2822	28	22	40	34
+Oculus VR, Inc.	2833	28	33	40	51
+OUYA	2836	28	36	40	54
+STANEO SAS	286b	28	6b	40	107
+Seeed Technology Co., Ltd.	2886	28	86	40	134
+Teknic, Inc	2890	28	90	40	144
+Toptronic Industrial Co., Ltd	2899	28	99	40	153
+Dracal/Raphnet technologies	289b	28	9b	40	155
+Seek Thermal, Inc.	289d	28	9d	40	157
+XP-Pen	28bd	28	bd	40	189
+Ultimaker B.V.	28c7	28	c7	40	199
+Devialet	28d4	28	d4	40	212
+Valve Software	28de	28	de	40	222
+PT. Prasimax Inovasi Teknologi	28e0	28	e0	40	224
+GDMicroelectronics	28e9	28	e9	40	233
+Clover Network, Inc.	28f3	28	f3	40	243
+Profitap HQ BV	28f9	28	f9	40	249
+R. Hamilton & Co. Ltd.	290c	29	0c	41	12
+Audioengine	2912	29	12	41	18
+Yota Devices	2916	29	16	41	22
+Jolla Oy	2931	29	31	41	49
+Zaber Technologies Inc.	2939	29	39	41	57
+Obsidian Research Corporation	2957	29	57	41	87
+Miselu	2961	29	61	41	97
+Xacti Corporation	296b	29	6b	41	107
+FiiO Electronics Technology	2972	29	72	41	114
+Next Biometrics	298d	29	8d	41	141
+Silicon Works	29bd	29	bd	41	189
+Taztag	29c1	29	c1	41	193
+Lewitt GmbH	29c2	29	c2	41	194
+Noviga	29c3	29	c3	41	195
+Huatune Technology (Shanghai) Co., Ltd.	29e2	29	e2	41	226
+Brunel University	29e7	29	e7	41	231
+4Links Limited	29e8	29	e8	41	232
+Kinesis Corporation	29ea	29	ea	41	234
+Canaan Creative Co., Ltd	29f1	29	f1	41	241
+dog hunter AG	2a03	2a	03	42	3
+Shenzhen DreamSource Technology Co., Ltd.	2a0e	2a	0e	42	14
+Grabba International	2a13	2a	13	42	19
+Numato Systems Pvt. Ltd	2a19	2a	19	42	25
+Oxford Nanopore Technologies plc	2a1d	2a	1d	42	29
+RTD Embedded Technologies, Inc.	2a37	2a	37	42	55
+RME	2a39	2a	39	42	57
+Trinamic Motion Control GmbH & Co KG	2a3c	2a	3c	42	60
+Meizu Corp.	2a45	2a	45	42	69
+Mundo Reader, S.L.	2a47	2a	47	42	71
+EMULEX Corporation	2a4b	2a	4b	42	75
+Flymaster Avionics	2a62	2a	62	42	98
+Bare Conductive	2a6e	2a	6e	42	110
+OnePlus Technology (Shenzhen) Co., Ltd.	2a70	2a	70	42	112
+DFU Technology Ltd	2a88	2a	88	42	136
+Keysight Technologies, Inc.	2a8d	2a	8d	42	141
+T+A elektroakustik GmbH & Co KG, Germany	2ab6	2a	b6	42	182
+Ultrahaptics Ltd.	2ac7	2a	c7	42	199
+Picotronic GmbH	2ad1	2a	d1	42	209
+Fairphone B.V.	2ae5	2a	e5	42	229
+Ambiq Micro, Inc.	2aec	2a	ec	42	236
+ROLI Ltd.	2af4	2a	f4	42	244
+STEREOLABS	2b03	2b	03	43	3
+LeEco	2b0e	2b	0e	43	14
+Red Hat, Inc.	2b23	2b	23	43	35
+KeepKey LLC	2b24	2b	24	43	36
+NewAE Technology Inc.	2b3e	2b	3e	43	62
+ZUK	2b4c	2b	4c	43	76
+Orbbec 3D Technology International, Inc	2bc5	2b	c5	43	197
+InoTec GmbH Organisationssysteme	2bcc	2b	cc	43	204
+Coroware, Inc.	2bd6	2b	d6	43	214
+ROPEX Industrie-Elektronik GmbH	2bd8	2b	d8	43	216
+Planex Communications	2c02	2c	02	44	2
+Dolphin Peripherals	2c1a	2c	1a	44	26
+Supermicro Computer Incorporated	2c23	2c	23	44	35
+Mercucys INC	2c4e	2c	4e	44	78
+Canon Electronic Business Machines Co., Ltd.	2c4f	2c	4f	44	79
+Magic Leap, Inc.	2c55	2c	55	44	85
+Quectel Wireless Solutions Co., Ltd.	2c7c	2c	7c	44	124
+Ledger	2c97	2c	97	44	151
+Prusa	2c99	2c	99	44	153
+Vayyar Imaging Ltd.	2c9c	2c	9c	44	156
+Nod Inc	2c9d	2c	9d	44	157
+DJI Technology Co., Ltd.	2ca3	2c	a3	44	163
+Fibocom	2cb7	2c	b7	44	183
+Hangzhou Zero Zero Infinity Technology Co., Ltd.	2cc0	2c	c0	44	192
+Lautsprecher Teufel GmbH	2cc2	2c	c2	44	194
+Hypersecu	2ccf	2c	cf	44	207
+Cambrionix Ltd	2cd9	2c	d9	44	217
+Sea & Sun Technology GmbH	2cdc	2c	dc	44	220
+InX8 Inc [AKiTiO]	2ce5	2c	e5	44	229
+Nuand LLC	2cf0	2c	f0	44	240
+Wacom Taiwan Information Co. Ltd.	2d1f	2d	1f	45	31
+Kronegger GmbH.	2d25	2d	25	45	37
+proxmark.org	2d2d	2d	2d	45	45
+Zhuhai Poskey Technology Co.,Ltd	2d37	2d	37	45	55
+NetUP Inc.	2d6b	2d	6b	45	107
+Evollve Inc.	2d81	2d	81	45	129
+Zhuhai Poskey Technology Co.,Ltd	2d84	2d	84	45	132
+8BitDo	2dc8	2d	c8	45	200
+Dialog Semiconductor	2dcf	2d	cf	45	207
+Kirale Technologies	2def	2d	ef	45	239
+LIPS Corporation	2df2	2d	f2	45	242
+HMD Global	2e04	2e	04	46	4
+Hatteland Display AS	2e0e	2e	0e	46	14
+Hyperkin	2e24	2e	24	46	36
+uSens Inc.	2e3b	2e	3b	46	59
+MEGWARE Computer Vertrieb und Service GmbH	2e57	2e	57	46	87
+Swift Navigation	2e69	2e	69	46	105
+SCUF Gaming	2e95	2e	95	46	149
+ASR Microelectronics	2ecc	2e	cc	46	204
+KeyXentic Inc.	2f76	2f	76	47	118
+Definium Technologies	2fad	2f	ad	47	173
+Infocrypt	2fb0	2f	b0	47	176
+Fujitsu, Ltd	2fb2	2f	b2	47	178
+Sensidyne, LP	2fc0	2f	c0	47	192
+Comtrue Inc.	2fc6	2f	c6	47	198
+Xaptum, Inc.	2fe0	2f	e0	47	224
+NordicSemiconductor	2fe3	2f	e3	47	227
+ELGIN S.A.	2fe7	2f	e7	47	231
+Beijing Veikk E-Commerce Co., Ltd.	2feb	2f	eb	47	235
+Quixant Plc	2ff4	2f	f4	47	244
+Boundary Devices, LLC	3016	30	16	48	22
+Control iD	3036	30	36	48	54
+Beijing Chushifengmang Technology Development Co.,Ltd.	3037	30	37	48	55
+Kingsis Corporation	3057	30	57	48	87
+Input Club	308f	30	8f	48	143
+Blues Wireless	30a4	30	a4	48	164
+UNPARALLEL Innovation, Lda	30c2	30	c2	48	194
+Luxvisions Innotech Limited	30c9	30	c9	48	201
+Fujitsu Connected Technologies Limited	30ee	30	ee	48	238
+Varex Imaging	30f2	30	f2	48	242
+Hiperscan GmbH	3111	31	11	49	17
+Meteca SA	3112	31	12	49	18
+Eagletron	3125	31	25	49	37
+Navini Networks	3136	31	36	49	54
+SafeLogic Inc.	3145	31	45	49	69
+Tanvas, Inc.	3147	31	47	49	71
+SigmaSense, LLC	316c	31	6c	49	108
+Purism, SPC	316d	31	6d	49	109
+SPECINFOSYSTEMS	316e	31	6e	49	110
+8086 Consultancy	3171	31	71	49	113
+Whanam Electronics Co., Ltd	3176	31	76	49	118
+Link Instruments	3195	31	95	49	149
+Katusha	3197	31	97	49	151
+BeiJing LanXum Computer Technology Co., Ltd.	31c9	31	c9	49	201
+Alcatel-Lucent Enterprise	3200	32	00	50	0
+Smak Tecnologia e Automacao LTDA	3219	32	19	50	25
+Premio, Inc.	321c	32	1c	50	28
+CUPRIS Ltd.	324c	32	4c	50	76
+Agile Display Solutions Co., Ltd	326d	32	6d	50	109
+VidzMedia Pte Ltd	3275	32	75	50	117
+Unhuman Inc.	3293	32	93	50	147
+TEXA	32b3	32	b3	50	179
+MUDITA Sp. z o.o.	3310	33	10	51	16
+InLine	3333	33	33	51	51
+AEI	3334	33	34	51	52
+Yakumo	3340	33	40	51	64
+Leaguer Microelectronics (LME)	3344	33	44	51	68
+System76	3384	33	84	51	132
+ISY	348f	34	8f	52	143
+Micro Star	3504	35	04	53	4
+Power Quotient International Co., Ltd	3538	35	38	53	56
+DIVA	3579	35	79	53	121
+Sharkoon	357d	35	7d	53	125
+InVibro	3636	36	36	54	54
+Arculus Holdings, LLC	3752	37	52	55	82
+Fanatec	3767	37	67	55	103
+WEM	3838	38	38	56	56
+National Instruments Corp.	3923	39	23	57	35
+I-O Data	40bb	40	bb	64	187
+i-rocks	4101	41	01	65	1
+iRiver, Ltd.	4102	41	02	65	2
+Dell Computer Corp.	413c	41	3c	65	60
+USBest Technology	4146	41	46	65	70
+Targus	4168	41	68	65	104
+USB Design by Example	4242	42	42	66	66
+GoPro	4255	42	55	66	85
+Broadcom Corp.	4317	43	17	67	23
+WinChipHead	4348	43	48	67	72
+Shuttle, Inc.	4572	45	72	69	114
+Panram	4586	45	86	69	134
+EMS Production	4670	46	70	70	112
+QEMU	46f4	46	f4	70	244
+Miditech	4752	47	52	71	82
+GW Instek	4757	47	57	71	87
+Aceeca	4766	47	66	71	102
+Memorex	4855	48	55	72	85
+SimpleTech	4971	49	71	73	113
+Musical Fidelity	4d46	4d	46	77	70
+Grandtec	5032	50	32	80	50
+Averatec (?)	50c2	50	c2	80	194
+MSR	5131	51	31	81	49
+Sweex	5173	51	73	81	115
+I-Tetra	5219	52	19	82	25
+Clearly Superior Technologies, Inc.	5332	53	32	83	50
+Owon	5345	53	45	83	69
+SatoshiLabs	534c	53	4c	83	76
+MacroSilicon	534d	53	4d	83	77
+Meyer Instruments (MIS)	5354	53	54	83	84
+Transmeta Corp.	544d	54	4d	84	77
+UC-Logic Technology Corp.	5543	55	43	85	67
+Epiphan Systems Inc.	5555	55	55	85	85
+OnSpec Electronic, Inc.	55aa	55	aa	85	170
+Gotview	5654	56	54	86	84
+Uni-Trend Group Limited	5656	56	56	86	86
+IRTOUCHSYSTEMS Co. Ltd.	595a	59	5a	89	90
+Bison Electronics Inc.	5986	59	86	89	134
+Nonolith Labs	59e3	59	e3	89	227
+Zinwell	5a57	5a	57	90	87
+Beholder International Ltd.	6000	60	00	96	0
+Ingenic Semiconductor Ltd.	601a	60	1a	96	26
+Xektek	6022	60	22	96	34
+Sitecom	6189	61	89	97	137
+LightingSoft AG	6244	62	44	98	68
+TwinHan Technology Co., Ltd	6253	62	53	98	83
+CoreLogic, Inc.	636c	63	6c	99	108
+Sony Corp.	6472	64	72	100	114
+Arkmicro Technologies Inc.	6547	65	47	101	71
+Emtec	6557	65	57	101	87
+IRTOUCHSYSTEMS Co. Ltd.	6615	66	15	102	21
+Prototype product Vendor ID	6666	66	66	102	102
+WiseGroup, Ltd.	6677	66	77	102	119
+Humanscale	675d	67	5d	103	93
+3Com	6891	68	91	104	145
+Opera1	695c	69	5c	105	92
+Yealink Network Technology Co., Ltd.	6993	69	93	105	147
+Shanghai Jujo Electronics Co., Ltd	6a75	6a	75	106	117
+CME (Central Music Co.)	7104	71	04	113	4
+StackFoundry LLC	726c	72	6c	114	108
+Solinftec	7302	73	02	115	2
+TBS Technologies China	734c	73	4c	115	76
+Beijing STONE Technology Co. Ltd.	7373	73	73	115	115
+Edimax Technology Co., Ltd	7392	73	92	115	146
+Progeny Dental Equipment Specialists	73d8	73	d8	115	216
+Venable Instruments	7669	76	69	118	105
+Other World Computing	7825	78	25	120	37
+ACCES I/O Products, Inc.	8070	80	70	128	112
+Intel Corp.	8086	80	86	128	134
+Intel Corp.	8087	80	87	128	135
+VirtualBox	80ee	80	ee	128	238
+Keio	8282	82	82	130	130
+Hapurs	8301	83	01	131	1
+EGO Systems, Inc.	8341	83	41	131	65
+Transcend Information, Inc.	8564	85	64	133	100
+Intenso GmbG	8644	86	44	134	68
+CH Products, Inc.	8e06	8e	06	142	6
+Doosl	8ea3	8e	a3	142	163
+Sitecom	9016	90	16	144	22
+TeVii Technology Ltd.	9022	90	22	144	34
+GeoLab, Ltd	9148	91	48	145	72
+Studiologic	9516	95	16	149	22
+MosChip Semiconductor	9710	97	10	151	16
+Bestmedia CD Recordable GmbH & Co. KG	9849	98	49	152	73
+Astro Gaming	9886	98	86	152	134
+Odeon	9999	99	99	153	153
+Grandtec	99fa	99	fa	153	250
+J. Westhues	9ac4	9a	c4	154	196
+Marvell Semiconductor, Inc.	9e88	9e	88	158	136
+Insignia (Best Buy)	a014	a0	14	160	20
+Ingenic Semiconductor Co.,Ltd	a108	a1	08	161	8
+AnMo Electronics Corp. / Dino-Lite (?)	a128	a1	28	161	40
+AnMo Electronics Corporation	a168	a1	68	161	104
+Haikou Xingong Electronics Co.,Ltd	a466	a4	66	164	102
+ASIX s.r.o.	a600	a6	00	166	0
+3Com	a727	a7	27	167	39
+Clas Ohlsson	a88a	a8	8a	168	138
+MXT	aaaa	aa	aa	170	170
+aplic	ab12	ab	12	171	18
+LogiLink	abcd	ab	cd	171	205
+Blue Microphones	b58e	b5	8e	181	142
+Clockmaker	ba77	ba	77	186	119
+Card Device Expert Co., LTD	c216	c2	16	194	22
+Keil Software, Inc.	c251	c2	51	194	81
+AGPTek	c502	c5	02	197	2
+CACE Technologies Inc.	cace	ca	ce	202	206
+SMART TECHNOLOGY INDUSTRIAL LTD.	cd12	cd	12	205	18
+Ultimarc	d208	d2	08	210	8
+Ultimarc	d209	d2	09	210	9
+LogiLink	d904	d9	04	217	4
+Jie Li	e2b7	e2	b7	226	183
+Xorcom Ltd.	e4e4	e4	e4	228	228
+MakingThings	eb03	eb	03	235	3
+eMPIA Technology, Inc.	eb1a	eb	1a	235	26
+KWorld	eb2a	eb	2a	235	42
+SMART TECHNOLOGY INDUSTRIAL LTD.	ef18	ef	18	239	24
+Hewlett Packard	f003	f0	03	240	3
+Teslong	f007	f0	07	240	7
+Leap Motion	f182	f1	82	241	130
+CCT, Inc	f3f0	f3	f0	243	240
+Atten Electronics / Siglent Technologies	f4ec	f4	ec	244	236
+Shenzhen Siglent Co., Ltd.	f4ed	f4	ed	244	237
+Hama	f766	f7	66	247	102
+DyingLight	fa11	fa	11	250	17
+Conrad Electronic SE	fc08	fc	08	252	8
+Power Delivery	ff00	ff	00	255	0
+FNK Tech	ffee	ff	ee	255	238
